@@ -25,7 +25,7 @@ Browse repositories by their type:
 | [![Documentation](https://img.shields.io/badge/Documentation-0D47A1?style=for-the-badge&logo=github)](sections/documentation.md) | [![Templates](https://img.shields.io/badge/Templates-0D47A1?style=for-the-badge&logo=github)](sections/templates.md) |
 | [![Experiments](https://img.shields.io/badge/Experiments-0D47A1?style=for-the-badge&logo=github)](sections/experiments.md) | [![Streamlit Apps](https://img.shields.io/badge/Streamlit_Apps-0D47A1?style=for-the-badge&logo=github)](sections/streamlit-apps.md) |
 | [![Forks](https://img.shields.io/badge/Forks-0D47A1?style=for-the-badge&logo=github)](sections/forks.md) | [![Data](https://img.shields.io/badge/Data-0D47A1?style=for-the-badge&logo=github)](sections/data.md) |
-| [![Ideas](https://img.shields.io/badge/Ideas-0D47A1?style=for-the-badge&logo=github)](sections/ideas.md) |  |
+| [![Ideas](https://img.shields.io/badge/Ideas-0D47A1?style=for-the-badge&logo=github)](sections/ideas.md) | [![Wrappers](https://img.shields.io/badge/Wrappers-0D47A1?style=for-the-badge&logo=github)](sections/wrappers.md) |
 
 ### 3. Category Index
 The category index organizes repositories by their primary function or topic. Each category below contains a curated list of related projects:

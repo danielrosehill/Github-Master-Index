@@ -10,7 +10,7 @@ def generate_project_type_badges():
     project_types = [
         "Created CLIs", "Created GUIs", "Documentation", "Experiments",
         "Forks", "Ideas", "Indexes", "Lists", "Templates", "Streamlit Apps",
-        "Data"
+        "Data", "Wrappers"
     ]
     
     table = ['| Type | Type |', '|----------|----------|']
@@ -46,7 +46,7 @@ def generate_readme():
     type_categories = {
         'created-clis.md', 'created-guis.md', 'documentation.md', 
         'experiments.md', 'forks.md', 'ideas.md', 'indexes.md', 'lists.md', 
-        'templates.md', 'streamlit-apps.md', 'data.md'
+        'templates.md', 'streamlit-apps.md', 'data.md', 'wrappers.md'
     }
     section_files = sorted([f[:-3] for f in os.listdir(sections_dir) 
                           if f.endswith('.md') and f not in type_categories])

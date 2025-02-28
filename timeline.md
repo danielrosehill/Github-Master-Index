@@ -52,13 +52,15 @@ Some system prompts intended to (attempt to) configure neutral behavior from LLM
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/General-System-Prompts)
 
+## 23 Feb
+
 **Homebox Desktop Wrapper Appimage**
 
 Linux Electron desktop wrapper for Homebox
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Homebox-Desktop-Wrapper-AppImage)
 
-## 23 Feb
+## 22 Feb
 
 **Thought Pad**
 
@@ -66,7 +68,7 @@ Linux desktop application that provides a two-stage process for creating notes f
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Thought-Pad)
 
-## 22 Feb
+## 21 Feb
 
 **Github Master Index**
 
@@ -108,7 +110,7 @@ Experiment:  two AI agents, each one thinks the other is a liar...
 
 User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
-🔱 *This is a fork*
+*This is a fork*
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/open-webui)
 
@@ -578,7 +580,7 @@ Docs for a utility that pulls the readme page from OpenAI Python SDK documentati
 
 The official Python library for the OpenAI API
 
-🔱 *This is a fork*
+*This is a fork*
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/openai-python)
 
@@ -670,7 +672,7 @@ Outlining an idea for a personal context repository for enhancing LLM inference
 
 Every front-end GUI client for ChatGPT, Claude, and other LLMs
 
-🔱 *This is a fork*
+*This is a fork*
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/every-chatgpt-gui)
 
@@ -790,7 +792,7 @@ Configuration for an LLM assistant that performs analysis on sustainability data
 
 Speech Note Linux app. Note taking, reading and translating with offline Speech to Text, Text to Speech and Machine translation.
 
-🔱 *This is a fork*
+*This is a fork*
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/dsnote)
 
@@ -952,7 +954,7 @@ General purpose wiki for hosting Gists, how-tos, etc.
 
 Mkdocs plugin for generating navigation by directory structure
 
-🔱 *This is a fork*
+*This is a fork*
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/mkdocs-gen-nav-plugin)
 
@@ -988,7 +990,7 @@ Experiments in evaluating various prompting strategies and LLM performance gener
 
 Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. Actively in public development.
 
-🔱 *This is a fork*
+*This is a fork*
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/LibreChat)
 
@@ -1020,7 +1022,7 @@ A vault of over 2,000 prompts and outputs derived from interactions with various
 
 Data import tools for OSI
 
-🔱 *This is a fork*
+*This is a fork*
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/osi-data-import)
 
@@ -1116,7 +1118,7 @@ GUI for extracting prompts from outputs
 
 A Node.js wrapper library for Pikud Haoref's unofficial rocket alert API.
 
-🔱 *This is a fork*
+*This is a fork*
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/pikud-haoref-api)
 
@@ -1224,7 +1226,7 @@ Some GUIs and scaffolding scripts intended to optimise Obsidian for use as a kno
 
 A markdown note taking application optimise for saving and storing outputs from LLM & GPT interactions (prompts, outputs, agent configurations)
 
-🔱 *This is a fork*
+*This is a fork*
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/llmnote)
 
@@ -1324,7 +1326,7 @@ Little scripts and hacks for working with my favorite database!
 
 A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 
-🔱 *This is a fork*
+*This is a fork*
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/refine-public-mods)
 
@@ -1426,7 +1428,7 @@ An index of prompting libraries for GPTs, including ChatGPT. Some of these are o
 
 This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc 
 
-🔱 *This is a fork*
+*This is a fork*
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Awesome-Prompt-Engineering)
 
@@ -1434,7 +1436,7 @@ This repository contains a hand-curated resources for Prompt Engineering with a 
 
 This repo includes ChatGPT prompt curation to use ChatGPT better.
 
-🔱 *This is a fork*
+*This is a fork*
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/awesome-chatgpt-prompts)
 
@@ -1478,7 +1480,7 @@ LLM-generated documents describing potential use-cases for GPTs & other LLMs acr
 
 A continuation of HomeBox the inventory and organization system built for the Home User
 
-🔱 *This is a fork*
+*This is a fork*
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/homebox)
 
@@ -1494,7 +1496,7 @@ Jerusalem public shelter locations extracted from ODBL licensed sources. Please 
 
 Open Definition source
 
-🔱 *This is a fork*
+*This is a fork*
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/opendefinition)
 
@@ -1602,7 +1604,7 @@ IDEs and development tools that work on one or multiple Linux distros. where pos
 
 A fork of the Awesome list generator modified for simplicity
 
-🔱 *This is a fork*
+*This is a fork*
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/minimal-awesome-list-generator)
 
@@ -1652,7 +1654,7 @@ Home automation projects that are relevant to people in Israel or Jews generally
 
 A curated list of Israeli-made projects, events, and individuals
 
-🔱 *This is a fork*
+*This is a fork*
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/awesome-opensource-israel)
 
@@ -1662,7 +1664,7 @@ A curated list of Israeli-made projects, events, and individuals
 
 Jewish Shabbat Yomtov and Holidays times and event
 
-🔱 *This is a fork*
+*This is a fork*
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Jewish-Sabbaths-Holidays)
 
@@ -1766,7 +1768,7 @@ My public PGP keys
 
 List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 
-🔱 *This is a fork*
+*This is a fork*
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/twofactorauth)
 
@@ -1879,4 +1881,3 @@ Miscellaneous project files
 My modifications for Ubuntu Linux. Publicly accessible so that I can access these conveniently.
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/UbuntuModifications)
-
