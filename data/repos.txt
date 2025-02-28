@@ -69,6 +69,7 @@ GPT-To-PDF
 GPT_Python
 GVFD-Derivative-Docs
 GVFD-Explorer-Chatbot-V2
+General-System-Prompts
 Gists
 Github-Ideas-And-FRs
 Github-Master-Index
@@ -90,6 +91,7 @@ Home-Assistant-Smoke-Alarm-Config
 Home-Assistant-YAML-Snippets
 Home-Assistant-YomTov-Shabbat-0125
 Home-Assistant-snippets
+Homebox-Desktop-Wrapper-AppImage
 Homebox-Ideas
 Homepage
 How-To-Guides
@@ -108,7 +110,6 @@ Israel-To-ROW-Salary-Converter-V2
 Israeli-Google-Drive-Accounting-Doc-Router
 Jerusalem-Public-Shelters
 Jewish-Sabbaths-Holidays
-Just-Ask-Corn
 Just-Some-AI-App-Ideas
 LLM-API-Key-Manager
 LLM-API-Price-Estimates
@@ -123,7 +124,6 @@ LLM-Output-Notes
 LLM-Output-Vault-Parameters
 LLM-Outputs
 LLM-Prompt-Extraction-GUI
-LLM-System-Prompts
 LLM-Use-Case-Self-Ideation
 LLM-Workflow-Documentation
 LLM-Workspace-Scaffolder
@@ -131,8 +131,8 @@ LLM-Workspace-Scaffolding
 LLMs-on-LLMs
 Langchain-Workflows
 LibreChat
-Linux-CUAs
 Linux-Desktop-LLM-Apps
+Linux-Whisper-Notepad
 Local-Github-Repo-Index-Generator
 MakoletTime
 Markdown-Templates-For-LLM-Work
@@ -147,6 +147,7 @@ Monetised-Emissions-V2
 Monetised-GHG-Emissions
 Mr-David-Rosen
 My-AI-LLM-Configs
+My-Bash-Aliases
 My-Calculators
 My-Docker-Compose-Lib-Private
 My-Docs-Index
@@ -201,13 +202,16 @@ RAG-API-SDK-Docs-Pipeline
 RAG-Markdown-Loader
 Random-Taxonomies
 Reddit-Posts
+Repo-Opener
 RooCode-Mode-Prompts
+STT-Price-Points-260225
 Scaffolding-Scripts
 Shields-Markdown-Badges
 Snap-It
 Snippet-Library
 Sustainability-Report-Data-Extractor
 Sustainability-Reports-Source
+System-Prompt-Factory
 System-Prompt-Generation-Agent-Configs
 Tampermonkey-Scripts
 Task-Management-App-Prompt
@@ -228,6 +232,7 @@ Value-Factors-Data-Vis
 Voice-Assistant-Agent-Platforms
 Voice-LLM-App-Notes
 Weird-AI-Bots
+Whisper-Transcription-Notepad-Linux
 Wiki
 astrostarter
 awesome-chatgpt-prompts

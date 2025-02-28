@@ -18,9 +18,6 @@ Dual WA client for the Linux desktop (AI generated)
 ## Fedora Guis [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Fedora-GUIs)
 A few small learning projects intended at developing very simple GUIs for Fedora Linux
 
-## Linux Cuas [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Linux-CUAs)
-List of a few computer user agents (CUAs) with support for Linux
-
 ## Linux Desktop Large Language Model Apps [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Linux-Desktop-LLM-Apps)
 Quick list of  some LLM related apps with Linux desktop support (chat UIs, CLIs, wrappers, etc)
 

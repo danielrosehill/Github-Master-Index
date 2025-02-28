@@ -33,9 +33,6 @@ Some parameteric data about my LLM output repository as it scales
 ## Large Language Model Outputs [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/LLM-Outputs)
 Interesting GPT outputs demonstrating specific capabilities
 
-## Large Language Model System Prompts [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/LLM-System-Prompts)
-A few system prompts for LLMs intended to improve the format and utility of outputs. Written primarily for LibreChat but should be reasonably frontend-agnostic
-
 ## Large Language Model Use Case Self Ideation [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/LLM-Use-Case-Self-Ideation)
 LLM-generated documents describing potential use-cases for GPTs & other LLMs across both professional and business contexts with sections describing potential/predicted evolutions as underlying technology advances
 

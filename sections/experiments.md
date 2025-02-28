@@ -43,5 +43,5 @@ Experimenting to test the effect of puncutation in prompts on inference quality
 General first entry testing repository for things that need to be publicly accessible. 
 
 ## Two Ais Talk [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Two-AIs-Talk)
-Just a ridiculous experiment I have to try out at least once
+Experiment:  two AI agents, each one thinks the other is a liar...
 

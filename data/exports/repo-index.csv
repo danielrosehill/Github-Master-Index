@@ -1,15 +1,21 @@
 name,pretty_name,description,url,is_fork,created_at
-Just-Ask-Corn,Just Ask Corn,Friendly general purpose AI assistant (Linux desktop),https://github.com/danielrosehill/Just-Ask-Corn,False,2025-02-23T14:01:42Z
-Thought-Pad,Thought Pad,A two stage desktop application for capturing thoughts using speech to text,https://github.com/danielrosehill/Thought-Pad,False,2025-02-23T12:35:55Z
+Whisper-Transcription-Notepad-Linux,Whisper Transcription Notepad Linux,Transcription notepad with cloud speech to text (STT) for Linux,https://github.com/danielrosehill/Whisper-Transcription-Notepad-Linux,False,2025-02-27T15:16:59Z
+Linux-Whisper-Notepad,Linux Whisper Notepad,A minimalist desktop notepad using OpenAI Whisper (via API),https://github.com/danielrosehill/Linux-Whisper-Notepad,False,2025-02-27T15:09:49Z
+Repo-Opener,Repo Opener,Linux GUI for displaying repositories in base path with IDE-speciific open buttons,https://github.com/danielrosehill/Repo-Opener,False,2025-02-27T02:09:58Z
+My-Bash-Aliases,My Bash Aliases,"Personal bash alias library, public",https://github.com/danielrosehill/My-Bash-Aliases,False,2025-02-26T16:13:35Z
+STT-Price-Points-260225,Speech to Text Price Points 260225,Some timestampped API pricepoints for speech to text providers,https://github.com/danielrosehill/STT-Price-Points-260225,False,2025-02-26T14:15:31Z
+System-Prompt-Factory,System Prompt Factory,A system prompt generation UI that combines model and user characteristics to generate more targeted (but still general) system prompts for LLMs,https://github.com/danielrosehill/System-Prompt-Factory,False,2025-02-25T00:57:03Z
+General-System-Prompts,General System Prompts,Some system prompts intended to (attempt to) configure neutral behavior from LLMs,https://github.com/danielrosehill/General-System-Prompts,False,2025-02-24T23:53:01Z
+Homebox-Desktop-Wrapper-AppImage,Homebox Desktop Wrapper Appimage,Linux Electron desktop wrapper for Homebox,https://github.com/danielrosehill/Homebox-Desktop-Wrapper-AppImage,False,2025-02-24T15:07:02Z
+Thought-Pad,Thought Pad,"Linux desktop application that provides a two-stage process for creating notes from dictated speech (first stage, transcription via Whisper API; second stage light text formatting). Exports to markdown docs.",https://github.com/danielrosehill/Thought-Pad,False,2025-02-23T12:35:55Z
 Github-Master-Index,Github Master Index,A repository that indexes my Github projects,https://github.com/danielrosehill/Github-Master-Index,False,2025-02-22T18:49:30Z
 Reddit-Posts,Reddit Posts,Things I've posted on Reddit and which are copied here so that they can be ingested as context for various AI workflows,https://github.com/danielrosehill/Reddit-Posts,False,2025-02-22T18:30:29Z
 OpenWebUI-Macro-Keypad,Openwebui Macro Keypad,WIP idea. Macro keypad config for OpenWebUI shortcuts,https://github.com/danielrosehill/OpenWebUI-Macro-Keypad,False,2025-02-20T23:56:35Z
 OpenWebUI-Prompt-Library,Openwebui Prompt Library,"A selection of prompts designed for use with Open Web UI (rather than conventional prompts, they're more useful for steering existing conversations)",https://github.com/danielrosehill/OpenWebUI-Prompt-Library,False,2025-02-19T18:26:47Z
-Two-AIs-Talk,Two Ais Talk,Just a ridiculous experiment I have to try out at least once,https://github.com/danielrosehill/Two-AIs-Talk,False,2025-02-18T19:41:42Z
+Two-AIs-Talk,Two Ais Talk,"Experiment:  two AI agents, each one thinks the other is a liar...",https://github.com/danielrosehill/Two-AIs-Talk,False,2025-02-18T19:41:42Z
 open-webui,Open Webui,"User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",https://github.com/danielrosehill/open-webui,True,2025-02-18T17:58:09Z
 System-Prompt-Generation-Agent-Configs,System Prompt Generation Agent Configs,"A collection of system prompts for agents instructed to generate or edit system prompts for other AI agents (yes, you read that right!)",https://github.com/danielrosehill/System-Prompt-Generation-Agent-Configs,False,2025-02-17T18:41:06Z
 Snap-It,Snap It,Simple GUI for taking on-demand Snapper snapshots,https://github.com/danielrosehill/Snap-It,False,2025-02-17T11:30:47Z
-Linux-CUAs,Linux Cuas,List of a few computer user agents (CUAs) with support for Linux,https://github.com/danielrosehill/Linux-CUAs,False,2025-02-17T09:32:05Z
 Cline-Roo-Code-Repo-Template,Cline Roo Code Repo Template,Repo template for Cline / Roo Code AI dev with my docs-as-prompts approach!,https://github.com/danielrosehill/Cline-Roo-Code-Repo-Template,False,2025-02-16T07:14:59Z
 AI-Assistants,Artificial Intelligence Assistants,"My useful, sprawling and only slightly crazy network of AI assistants for ... anything and everything",https://github.com/danielrosehill/AI-Assistants,False,2025-02-16T06:17:12Z
 RooCode-Mode-Prompts,Roocode Mode Prompts,Some custom mode-setting system prompts for Roo Code,https://github.com/danielrosehill/RooCode-Mode-Prompts,False,2025-02-15T22:06:05Z
@@ -102,7 +108,6 @@ GHG-EBITDA-Correlations,Ghg Ebitda Correlations,Streamlit data visualisation exa
 Fun-LLM-Data-Prompts,Fun Large Language Model Data Prompts,"As prompting fro data analysis & vis is quite specific, a small side collection of prompts for this purpose",https://github.com/danielrosehill/Fun-LLM-Data-Prompts,False,2024-12-03T19:04:12Z
 Linux-Desktop-LLM-Apps,Linux Desktop Large Language Model Apps,"Quick list of  some LLM related apps with Linux desktop support (chat UIs, CLIs, wrappers, etc)",https://github.com/danielrosehill/Linux-Desktop-LLM-Apps,False,2024-12-02T20:31:08Z
 Eco-Ninja-3,Eco Ninja 3,Configuration for an LLM assistant that performs analysis on sustainability data,https://github.com/danielrosehill/Eco-Ninja-3,False,2024-12-02T17:59:34Z
-LLM-System-Prompts,Large Language Model System Prompts,A few system prompts for LLMs intended to improve the format and utility of outputs. Written primarily for LibreChat but should be reasonably frontend-agnostic,https://github.com/danielrosehill/LLM-System-Prompts,False,2024-12-02T01:01:17Z
 dsnote,Dsnote,"Speech Note Linux app. Note taking, reading and translating with offline Speech to Text, Text to Speech and Machine translation.",https://github.com/danielrosehill/dsnote,True,2024-12-01T19:23:43Z
 Prompt-Builder,Prompt Builder,Work in progress. Assemble prompts based upon templated forms in the browser. ,https://github.com/danielrosehill/Prompt-Builder,False,2024-12-01T16:37:18Z
 LLM-Output-Vault-Parameters,Large Language Model Output Vault Parameters,Some parameteric data about my LLM output repository as it scales,https://github.com/danielrosehill/LLM-Output-Vault-Parameters,False,2024-12-01T14:07:35Z

@@ -15,9 +15,6 @@ As prompting fro data analysis & vis is quite specific, a small side collection 
 ## Large Language Model Evaluation Prompts [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/LLM-Evaluation-Prompts)
 A few prompts that I am storing in a repo for the purpose of running controlled experiments comparing and benchmarking different LLMs for defined use-cases
 
-## Large Language Model System Prompts [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/LLM-System-Prompts)
-A few system prompts for LLMs intended to improve the format and utility of outputs. Written primarily for LibreChat but should be reasonably frontend-agnostic
-
 ## My Principles Of Prompting [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/My-Principles-Of-Prompting)
 A small and opinionated repository of my thoughts about prompting LLMs to maximise their utility for specific use-cases
 

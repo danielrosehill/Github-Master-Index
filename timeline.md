@@ -2,17 +2,67 @@
 
 # 2025
 
+## 27 Feb
+
+**Whisper Transcription Notepad Linux**
+
+Transcription notepad with cloud speech to text (STT) for Linux
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Whisper-Transcription-Notepad-Linux)
+
+**Linux Whisper Notepad**
+
+A minimalist desktop notepad using OpenAI Whisper (via API)
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Linux-Whisper-Notepad)
+
+**Repo Opener**
+
+Linux GUI for displaying repositories in base path with IDE-speciific open buttons
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Repo-Opener)
+
+## 26 Feb
+
+**My Bash Aliases**
+
+Personal bash alias library, public
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/My-Bash-Aliases)
+
+**Speech to Text Price Points 260225**
+
+Some timestampped API pricepoints for speech to text providers
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/STT-Price-Points-260225)
+
+## 25 Feb
+
+**System Prompt Factory**
+
+A system prompt generation UI that combines model and user characteristics to generate more targeted (but still general) system prompts for LLMs
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/System-Prompt-Factory)
+
+## 24 Feb
+
+**General System Prompts**
+
+Some system prompts intended to (attempt to) configure neutral behavior from LLMs
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/General-System-Prompts)
+
+**Homebox Desktop Wrapper Appimage**
+
+Linux Electron desktop wrapper for Homebox
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Homebox-Desktop-Wrapper-AppImage)
+
 ## 23 Feb
-
-**Just Ask Corn**
-
-Friendly general purpose AI assistant (Linux desktop)
-
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Just-Ask-Corn)
 
 **Thought Pad**
 
-A two stage desktop application for capturing thoughts using speech to text
+Linux desktop application that provides a two-stage process for creating notes from dictated speech (first stage, transcription via Whisper API; second stage light text formatting). Exports to markdown docs.
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Thought-Pad)
 
@@ -50,7 +100,7 @@ A selection of prompts designed for use with Open Web UI (rather than convention
 
 **Two Ais Talk**
 
-Just a ridiculous experiment I have to try out at least once
+Experiment:  two AI agents, each one thinks the other is a liar...
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Two-AIs-Talk)
 
@@ -75,12 +125,6 @@ A collection of system prompts for agents instructed to generate or edit system 
 Simple GUI for taking on-demand Snapper snapshots
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Snap-It)
-
-**Linux Cuas**
-
-List of a few computer user agents (CUAs) with support for Linux
-
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Linux-CUAs)
 
 ## 16 Feb
 
@@ -739,12 +783,6 @@ Quick list of  some LLM related apps with Linux desktop support (chat UIs, CLIs,
 Configuration for an LLM assistant that performs analysis on sustainability data
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Eco-Ninja-3)
-
-**Large Language Model System Prompts**
-
-A few system prompts for LLMs intended to improve the format and utility of outputs. Written primarily for LibreChat but should be reasonably frontend-agnostic
-
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/LLM-System-Prompts)
 
 ## 1 Dec
 
