@@ -23,7 +23,7 @@ jobs:
           
       - name: Fetch repositories and update data
         env:
-          GITHUB_PAT: ${{ secrets.GITHUB_PAT }}
+          GITHUB_PAT: ${{ secrets.GH_ACCESS_TOKEN }}
         run: python run_all.py --incremental
         
       - name: Commit and push changes
