@@ -1,42 +1,60 @@
 import os
 from datetime import datetime
 import math
+import json
+import glob
 
 # Get the project root directory (parent of scripts directory)
 project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 def generate_project_type_badges():
-    """Generate badges for project types in a markdown table."""
+    """Generate badges for project types in a single-row layout."""
     project_types = [
         "Created CLIs", "Created GUIs", "Documentation", "Experiments",
         "Forks", "Ideas", "Indexes", "Lists", "Templates", "Streamlit Apps",
         "Data", "Wrappers"
     ]
     
-    table = ['| Type | Type |', '|----------|----------|']
-    rows = math.ceil(len(project_types) / 2)
+    badges = []
     
-    for i in range(0, rows):
-        row = []
-        # First column
-        display_name = project_types[i]
+    for display_name in project_types:
         file_name = display_name.lower().replace(" ", "-")
         badge = f'[![{display_name}](https://img.shields.io/badge/{display_name.replace(" ", "_")}-0D47A1?style=for-the-badge&logo=github)](sections/{file_name}.md)'
-        row.append(badge)
-        
-        # Second column
-        second_idx = i + rows
-        if second_idx < len(project_types):
-            display_name = project_types[second_idx]
-            file_name = display_name.lower().replace(" ", "-")
-            badge = f'[![{display_name}](https://img.shields.io/badge/{display_name.replace(" ", "_")}-0D47A1?style=for-the-badge&logo=github)](sections/{file_name}.md)'
-            row.append(badge)
-        else:
-            row.append('')
-            
-        table.append(f'| {row[0]} | {row[1]} |')
+        badges.append(f'- {badge}')
     
-    return '\n'.join(table)
+    return '\n'.join(badges)
+
+def generate_repository_statistics():
+    """Generate statistics about the repositories."""
+    # Count total repositories
+    all_repos = set()
+    category_counts = {}
+    
+    # Count repositories in each category
+    categories_dir = os.path.join(project_root, 'lists', 'categories')
+    for category_file in glob.glob(os.path.join(categories_dir, '*.txt')):
+        category_name = os.path.basename(category_file)[:-4]  # Remove .txt extension
+        with open(category_file, 'r') as f:
+            repos = [line.strip() for line in f if line.strip() and not line.startswith('#')]
+            category_counts[category_name] = len(repos)
+            all_repos.update(repos)
+    
+    # Sort categories by count (descending)
+    sorted_categories = sorted(category_counts.items(), key=lambda x: x[1], reverse=True)
+    
+    # Generate statistics section
+    stats = [
+        f"## Repository Statistics\n",
+        f"**Total Repositories:** {len(all_repos)}\n",
+        f"**Top Categories:**"
+    ]
+    
+    # Add top 5 categories
+    for category, count in sorted_categories[:5]:
+        display_name = category.replace('-', ' ').title()
+        stats.append(f"- {display_name}: {count} repositories")
+    
+    return '\n'.join(stats)
 
 def generate_readme():
     """Generate a simplified README with links to timeline and section indexes."""
@@ -51,36 +69,22 @@ def generate_readme():
     section_files = sorted([f[:-3] for f in os.listdir(sections_dir) 
                           if f.endswith('.md') and f not in type_categories])
     
-    # Generate section badges in a proper markdown table
-    # 2 columns for better readability
-    section_table = ['| Category | Category |', '|----------|----------|']  # Restored header for proper table formatting
+    # Generate section badges in a single-row layout
+    section_badges = []
     
-    # Calculate rows needed for 2 columns
-    rows = math.ceil(len(section_files) / 2)
-    
-    for i in range(0, rows):
-        row = []
-        # First column
-        display_name = section_files[i].replace('-', ' ').title()
-        badge = f'[![{display_name}](https://img.shields.io/badge/{display_name.replace(" ", "_")}-2ea44f?style=for-the-badge&logo=github)](sections/{section_files[i]}.md)'
-        row.append(badge)
-        
-        # Second column
-        second_idx = i + rows
-        if second_idx < len(section_files):
-            display_name = section_files[second_idx].replace('-', ' ').title()
-            badge = f'[![{display_name}](https://img.shields.io/badge/{display_name.replace(" ", "_")}-2ea44f?style=for-the-badge&logo=github)](sections/{section_files[second_idx]}.md)'
-            row.append(badge)
-        else:
-            row.append('')  # Empty cell for last row if odd number
-            
-        section_table.append(f'| {row[0]} | {row[1]} |')
+    for section in section_files:
+        display_name = section.replace('-', ' ').title()
+        badge = f'[![{display_name}](https://img.shields.io/badge/{display_name.replace(" ", "_")}-2ea44f?style=for-the-badge&logo=github)](sections/{section}.md)'
+        section_badges.append(f'- {badge}')
 
     # Get current timestamp
     timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
     # Generate project type badges
-    project_type_table = generate_project_type_badges()
+    project_type_list = generate_project_type_badges()
+    
+    # Generate repository statistics
+    repo_stats = generate_repository_statistics()
 
     # Generate README content
     readme_content = f"""# Daniel Rosehill Github Repository Index
@@ -90,6 +94,8 @@ def generate_readme():
 *Last updated: {timestamp}*
 
 This is an automatically generated index of my public GitHub repositories.
+
+{repo_stats}
 
 ## Repository Views
 
@@ -103,12 +109,12 @@ The timeline provides a chronological view of all repositories, showing when eac
 ## By Type
 Browse repositories by their project type:
 
-{project_type_table}
+{project_type_list}
 
 ## By Category
 Browse repositories organized by their primary function or topic:
 
-{chr(10).join(section_table)}
+{chr(10).join(section_badges)}
 
 ---
 

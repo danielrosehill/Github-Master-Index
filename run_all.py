@@ -40,15 +40,23 @@ def run_all(incremental=False):
         csv_creator = import_from_file("scripts/csv-creator.py")
         csv_creator.save_timeline_csv(timeline_data)
 
-    print("\n3. Generating chronological timeline...")
+    print("\n3. Generating repository status data...")
+    status_badges = import_from_file("scripts/status_badges.py")
+    status_badges.generate_status_badges()
+
+    print("\n4. Generating chronological timeline...")
     timeline_generator = import_from_file("scripts/timeline_generator.py")
     timeline_generator.generate_timeline()
 
-    print("\n4. Generating category markdown files...")
+    print("\n5. Generating category markdown files...")
     markdown_generator = import_from_file("scripts/markdown_generator.py")
     markdown_generator.generate_markdown_files('data/exports/repo-index.json', 'lists/categories')
     
-    print("\n5. Generating README.md...")
+    print("\n6. Enhancing section files with status badges and language info...")
+    section_enhancer = import_from_file("scripts/section_enhancer.py")
+    section_enhancer.enhance_section_files()
+    
+    print("\n7. Generating README.md...")
     readme_builder = import_from_file("scripts/readme-builder.py")
     readme_builder.generate_readme()
     

@@ -1,0 +1,1377 @@
+{
+  "AI-Assistant-Ideator": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "AI-Assistant-Builder": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Open-Web-UI-Homebox-Tool": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Context-Chunker-Assistant": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Openwebui-Hunter-Tool": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Open-WebUI-Backups": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "AI-Assistant-Library-Frontend": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "About-Me": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Jerusalem-Tech-Companies": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Roo-Code-Docs": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Roo-Code": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Token-Bonfire-Monitor": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Markdown-Keep-Or-Delete": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "LLM-Training-Date-Cutoffs": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "AI-Assistant-System-Prompt-Library-0325-Export": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Speech-To-Docs": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Dollar-Software-Genie": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Linux-Github-Repo-Launcher": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "openwebui-docs": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "AI-Docs-Generator-Gdrive": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "is_remote_friendly": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Whisper-Transcription-Notepad-Linux": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Linux-Whisper-Notepad": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "My-Bash-Aliases": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "STT-Price-Points-260225": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "System-Prompt-Factory": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "General-System-Prompts": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Homebox-Desktop-Wrapper-AppImage": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Thought-Pad": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Github-Master-Index": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Reddit-Posts": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "OpenWebUI-Macro-Keypad": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "OpenWebUI-Prompt-Library": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Two-AIs-Talk": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "open-webui": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "System-Prompt-Generation-Agent-Configs": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Snap-It": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Cline-Roo-Code-Repo-Template": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "AI-Assistants": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "RooCode-Mode-Prompts": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Github-Repo-Pruner": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Homebox-Ideas": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Awesome-AI-Agents-And-Assistants": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Friendly-AI-Exploration-Bot": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "RAG-Markdown-Loader": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Awesome-AI-Subreddits": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Personal-RAG-Agent-Workflow": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "RAG-API-SDK-Docs-Pipeline": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "AI-Interview-Workflow-V2": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "LLM-Max-Token-Length-0225": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Open-That-Repo": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "AI-Job-Search-Assistant-Workflow": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Home-Assistant-Smoke-Alarm-Config": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Israel-Preparedness-Guidelines-AI-Assistant": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Israel-To-ROW-Salary-Converter-V2": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Israeli-Google-Drive-Accounting-Doc-Router": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Google-Drive-Folder-Scaffolding-Builder": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Dual-WhatsApp-Linux-Desktop": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Cline-Website-Creation-Demo": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Agentic-Context-Development-Interview-Demo": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "AI-Generated-Projects-Index": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "NFC-Reader-Writer-App": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Home-Assistant-Israel-Dashboards": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Weird-AI-Bots": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Home-Assistant-YAML-Snippets": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "HA-Shabbat-Dashboard-0125": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Assistant-Config-Editor": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "LLM-Assistants-Web-Library": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Personalised-AI-Idea": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "AI-Assistant-Template": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "AI-Assistants-Index": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Assistant-Configuration-Improver": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Github-Ideas-And-FRs": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Voice-Assistant-Agent-Platforms": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Environmental-Data---AI-Assistants": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Home-Assistant-YomTov-Shabbat-0125": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "OpenWebUI-My-Docker-Compose": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Better-Hashnode-Backups": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Personal-AI-Agent-Development-Template": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "AI-Second-Brain-Tools": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "My-AI-LLM-Configs": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Personal-Context-Store-Ideation": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Just-Some-AI-App-Ideas": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Tool-Searches": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "USB-Foot-Mouse-Linux": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Awesome-STT-Tools": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "My-Docker-Compose-Lib-Private": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Task-Management-App-Prompt": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Awesome-STT-Projects": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Personal-STT-Benchmarking": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Voice-LLM-App-Notes": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Public-Or-Private-Repo-Extension": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Deepgram-STT-Linux-App": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Gmail-Search-Strings": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Perplexity-Security-1224": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Feature-Ideas-And-Requests": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Corn-The-Sloth-Public": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "GVFD-Explorer-Chatbot-V2": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Context-Data-Generation-Bot": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "My-OpenAI-Python-SDK-Helper": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "openai-python": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Prompt-And-Output-Separator": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Mock-PII-Data": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Global-Value-Factors-Explorer-Dataset": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Emissions-Monetisation-Calculator": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Prompt-Puncutation-Experiment": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Context-Waterfall-Architecture-Notes": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Personal-Context-Vector-Pipeline": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Bias-Censorship-Eval-Tests": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Anonymisation-Assistant": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "AI-Abusive-Message-Documentation-Tool": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Personal-Context-Repo-Idea": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "every-chatgpt-gui": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "PDF-Extract-And-TTS": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "LLM-Long-Codegen-Test": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "LLM-API-Key-Manager": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "AI-Generated-Project-Starters": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "My-Calculators": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "GHG-Emissions-Data-Pipeline": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "GHG-vs-EBITDA-V2": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Master-Index": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Data-Projects-Index": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Sustainability-Report-Data-Extractor": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Value-Factors-Data-Vis": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Monetised-GHG-Emissions": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "GHG-EBITDA-Correlations": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Fun-LLM-Data-Prompts": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Linux-Desktop-LLM-Apps": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Eco-Ninja-3": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "dsnote": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Prompt-Builder": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "LLM-Output-Vault-Parameters": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Monetised-Emissions-V2": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "My-Docs-Index": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Demo-Github-Repo-Cleaner-Utility": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "VS-Code-LLM-Tools": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Daniels-Take-On": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "LLM-Attribution-Badges": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Langchain-Workflows": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Testing-Repo-Public": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Prompt-Engineering-Resources": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Local-Github-Repo-Index-Generator": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Projects": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "LLM-Workflow-Documentation": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "LLM-Output-Notes": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Github-Submodules-Docs": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Docs-Archive": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Gists": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Ideas": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Sustainability-Reports-Source": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "GVFD-Derivative-Docs": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Wiki": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "mkdocs-gen-nav-plugin": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "My-Principles-Of-Prompting": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Mr-David-Rosen": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "LLMs-on-LLMs": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "LLM-Experiment-Notebook": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "LibreChat": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "LLM-API-Price-Estimates": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Hugo-Scripts": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Prompts-And-Outputs": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "osi-data-import": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "OpenSUSE-Config-Backup-Tool": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "GHG-Emissions-Monetisation-Calculator": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Emissions-Data-Reports": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "My-LLM-KM-Idea": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Test-Markdown-Docs": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Prototypes": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "My-Thoughts-On-Tech": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Nuclino-Notes-Backup": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Global-Value-Factors-Explorer": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Israel-GeoInsights": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "LLM-Evaluation-Prompts": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "LLM-Prompt-Extraction-GUI": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "pikud-haoref-api": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Example-LLM-Python-GUI-Build": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Google-Fonts-Hebrew-Downloader": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Nice-Hebrew-Fonts": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Public-Shelter-Lists-Israel": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Israel-News-Monitor": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Daniel-s-Workstation-Backup-Genie": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "My-LLM-Context-Repo-Public": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Awesome-Obsidian-AI-Tools": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Obisidian-Prompt-Output-Saver-Local-Only": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Obsidian-Prompt-Output-Saver": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "LLM-Obsidian-Vault-Backup-Utility": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "LLM-Workspace-Scaffolder": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "OpenAI-Github-Repo-Index-Creator": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Obisidian-For-LLM-Capture": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "llmnote": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Model-Idea-Refinement-GPT-Agent": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Database-Relationship-Identifier-Postgres": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Output-Hub-POC-Seed": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "How-To-Guides": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Natural-Language-Relationship-Definition": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Markdown-Templates-For-LLM-Work": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Data-Relationships-Helper": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Data-Analysis-Notebook": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "GPT-Repo-Utility": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "GPT-To-PDF": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Distro-Tuner": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Postgres-Utilities": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "refine-public-mods": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Fedora-GUIs": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Snippet-Library": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Scaffolding-Scripts": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "danielrosehill": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Taxonomy-Generators": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "AI-Generated-Code-Samples": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Shields-Markdown-Badges": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "LLM-Workspace-Scaffolding": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "My-Scaffolding-Templates": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Document-Templates": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Israel-Rocket-Shelter-Guidelines": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Custom-Chat-GPT-Finder": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Output-Hub": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Awesome-LLM-Prompt-Libraries": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Awesome-Prompt-Engineering": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "awesome-chatgpt-prompts": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Custom-LLM-Agent-Platforms": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Tampermonkey-Scripts": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "GPT_Python": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Random-Taxonomies": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "LLM-Use-Case-Self-Ideation": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "homebox": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Jerusalem-Public-Shelters": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "opendefinition": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "LLM-Outputs": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Awesome-LLM-Communities": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Daniel-Public-Changelog": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Github-Optimisation": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Prompt-Library": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Github-Repo-Index": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Python-Scripts": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "ChatGPT-CustomGPT-Dev": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Custom-LLM-Agents": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Misc-Scripts": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "PersonalHomepage": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "astrostarter": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Awesome-Linux-IDEs": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "minimal-awesome-list-generator": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "ImpactDBPipeline": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Awesome-Kubernetes-Linux-Desktop": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Tech-Ideas": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "ImpactInvestingData": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Awesome-Israeli-Jewish-Home-Assistant": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "awesome-opensource-israel": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Jewish-Sabbaths-Holidays": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Home-Assistant-Dashboards-General-": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "MakoletTime": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Home-Assistant-snippets": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Home-Assistant-Shabbat-Yom-Tom": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Homepage": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Impact-Investing-First-Entry-": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Outcomes-Funds": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Impact-Weighted-Accounts-Demo-App": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "ImpactWeightedAccounts": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "backup_internet_israel": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "My_Tech_Stack": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Public-GPG-Keys": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "twofactorauth": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "AWSCCPPrep": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "MechanicalKeyboards": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "UbuntuReinstallation": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "FirstEntryPublic": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "MyDesktop": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Cloud-Backup-Scripts": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "UbuntuBugResolution": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Master_Backup_Strategy": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "CloudBackupApproaches": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Home": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "UbuntuBackupStrategy": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "danielrosehill.github.io": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Misc": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "UbuntuModifications": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  }
+}
