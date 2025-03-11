@@ -42,6 +42,9 @@ The official Python library for the OpenAI API
 ## Opendefinition [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/opendefinition)
 Open Definition source
 
+## Openwebui Docs [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/openwebui-docs)
+https://docs.openwebui.com
+
 ## Osi Data Import [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/osi-data-import)
 Data import tools for OSI
 
@@ -50,6 +53,12 @@ A Node.js wrapper library for Pikud Haoref's unofficial rocket alert API.
 
 ## Refine Public Mods [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/refine-public-mods)
 A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
+
+## Roo Code [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Roo-Code)
+Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.
+
+## Roo Code Docs [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Roo-Code-Docs)
+This is the documentation for Roo Code (prev. Roo Cline), an AI-powered autonomous coding agent that lives in your editor.
 
 ## Twofactorauth [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/twofactorauth)
 List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.

@@ -1,7 +1,27 @@
 name,pretty_name,description,url,is_fork,created_at
+AI-Assistant-Ideator,Artificial Intelligence Assistant Ideator,Streamlit app for ideating AI assisants,https://github.com/danielrosehill/AI-Assistant-Ideator,False,2025-03-09T19:21:47Z
+AI-Assistant-Builder,Artificial Intelligence Assistant Builder,Streamlit app for honing system prompts for AI assistants,https://github.com/danielrosehill/AI-Assistant-Builder,False,2025-03-09T14:12:18Z
+Open-Web-UI-Homebox-Tool,Open Web Ui Homebox Tool,No description provided,https://github.com/danielrosehill/Open-Web-UI-Homebox-Tool,False,2025-03-07T14:22:02Z
+Context-Chunker-Assistant,Context Chunker Assistant,A n interactive chatbot approach to chunking context data for embedding into RAG,https://github.com/danielrosehill/Context-Chunker-Assistant,False,2025-03-07T00:54:50Z
+Openwebui-Hunter-Tool,Openwebui Hunter Tool,No description provided,https://github.com/danielrosehill/Openwebui-Hunter-Tool,False,2025-03-07T00:23:49Z
+Open-WebUI-Backups,Open Webui Backups,"A model backup script for backing up an Open Web UI instance (SQLite, ChromaDB)",https://github.com/danielrosehill/Open-WebUI-Backups,False,2025-03-05T15:14:24Z
+AI-Assistant-Library-Frontend,Artificial Intelligence Assistant Library Frontend,"Display frontend for system prompt library, 03-25",https://github.com/danielrosehill/AI-Assistant-Library-Frontend,False,2025-03-04T15:42:07Z
+About-Me,About Me,Because behind every Github profile is (hopefully) a human being!,https://github.com/danielrosehill/About-Me,False,2025-03-04T14:31:31Z
+Jerusalem-Tech-Companies,Jerusalem Tech Companies,"Mapping tech companies in Jerusalem, Israel",https://github.com/danielrosehill/Jerusalem-Tech-Companies,False,2025-03-04T12:51:08Z
+Roo-Code-Docs,Roo Code Docs,"This is the documentation for Roo Code (prev. Roo Cline), an AI-powered autonomous coding agent that lives in your editor.",https://github.com/danielrosehill/Roo-Code-Docs,True,2025-03-04T12:37:10Z
+Roo-Code,Roo Code,Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.,https://github.com/danielrosehill/Roo-Code,True,2025-03-04T12:32:45Z
+Token-Bonfire-Monitor,Token Bonfire Monitor,Do you enjoy watching money burn? JK. This is a utility for AI code-gen fiends trying to keep budget under control. OpenRouter monitoring.,https://github.com/danielrosehill/Token-Bonfire-Monitor,False,2025-03-04T09:29:32Z
+Markdown-Keep-Or-Delete,Markdown Keep Or Delete,No description provided,https://github.com/danielrosehill/Markdown-Keep-Or-Delete,False,2025-03-04T01:44:47Z
+LLM-Training-Date-Cutoffs,Large Language Model Training Date Cutoffs,A few datapoints for personal reference,https://github.com/danielrosehill/LLM-Training-Date-Cutoffs,False,2025-03-04T00:13:12Z
+AI-Assistant-System-Prompt-Library-0325-Export,Artificial Intelligence Assistant System Prompt Library 0325 Export,Point in time export of system prompts in natural language (markdown),https://github.com/danielrosehill/AI-Assistant-System-Prompt-Library-0325-Export,False,2025-03-03T20:40:35Z
+Speech-To-Docs,Speech To Docs,"WIP. Building on a successful POC Whisper notepad, an attempt to build on the idea.",https://github.com/danielrosehill/Speech-To-Docs,False,2025-03-03T20:05:56Z
+Dollar-Software-Genie,Dollar Software Genie,No description provided,https://github.com/danielrosehill/Dollar-Software-Genie,False,2025-03-03T02:55:56Z
+Linux-Github-Repo-Launcher,Linux Github Repo Launcher,Github repository search and quick launch utility preconfigured for VS Code & Windsurf,https://github.com/danielrosehill/Linux-Github-Repo-Launcher,False,2025-03-03T01:51:01Z
+openwebui-docs,Openwebui Docs,https://docs.openwebui.com,https://github.com/danielrosehill/openwebui-docs,True,2025-03-02T19:00:57Z
+AI-Docs-Generator-Gdrive,Artificial Intelligence Docs Generator Gdrive,Interface for custom document generation with output to Google Drive,https://github.com/danielrosehill/AI-Docs-Generator-Gdrive,False,2025-03-02T14:33:00Z
+is_remote_friendly,Is_remote_friendly,"A taxonomy to categorise companies' variations of ""remote friendliness"" for personal purposes",https://github.com/danielrosehill/is_remote_friendly,False,2025-03-01T20:46:16Z
 Whisper-Transcription-Notepad-Linux,Whisper Transcription Notepad Linux,Transcription notepad with cloud speech to text (STT) for Linux,https://github.com/danielrosehill/Whisper-Transcription-Notepad-Linux,False,2025-02-27T15:16:59Z
 Linux-Whisper-Notepad,Linux Whisper Notepad,A minimalist desktop notepad using OpenAI Whisper (via API),https://github.com/danielrosehill/Linux-Whisper-Notepad,False,2025-02-27T15:09:49Z
-Repo-Opener,Repo Opener,Linux GUI for displaying repositories in base path with IDE-speciific open buttons,https://github.com/danielrosehill/Repo-Opener,False,2025-02-27T02:09:58Z
 My-Bash-Aliases,My Bash Aliases,"Personal bash alias library, public",https://github.com/danielrosehill/My-Bash-Aliases,False,2025-02-26T16:13:35Z
 STT-Price-Points-260225,Speech to Text Price Points 260225,Some timestampped API pricepoints for speech to text providers,https://github.com/danielrosehill/STT-Price-Points-260225,False,2025-02-26T14:15:31Z
 System-Prompt-Factory,System Prompt Factory,A system prompt generation UI that combines model and user characteristics to generate more targeted (but still general) system prompts for LLMs,https://github.com/danielrosehill/System-Prompt-Factory,False,2025-02-25T00:57:03Z

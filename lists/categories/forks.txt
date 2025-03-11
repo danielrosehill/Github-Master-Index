@@ -1,6 +1,8 @@
 Awesome-Prompt-Engineering
 Jewish-Sabbaths-Holidays
 LibreChat
+Roo-Code
+Roo-Code-Docs
 awesome-chatgpt-prompts
 awesome-opensource-israel
 dsnote
@@ -12,6 +14,7 @@ mkdocs-gen-nav-plugin
 open-webui
 openai-python
 opendefinition
+openwebui-docs
 osi-data-import
 pikud-haoref-api
 refine-public-mods

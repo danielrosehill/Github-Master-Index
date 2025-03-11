@@ -1,5 +1,173 @@
 [
   {
+    "name": "AI-Assistant-Ideator",
+    "pretty_name": "Artificial Intelligence Assistant Ideator",
+    "description": "Streamlit app for ideating AI assisants",
+    "url": "https://github.com/danielrosehill/AI-Assistant-Ideator",
+    "is_fork": false,
+    "created_at": "2025-03-09T19:21:47Z"
+  },
+  {
+    "name": "AI-Assistant-Builder",
+    "pretty_name": "Artificial Intelligence Assistant Builder",
+    "description": "Streamlit app for honing system prompts for AI assistants",
+    "url": "https://github.com/danielrosehill/AI-Assistant-Builder",
+    "is_fork": false,
+    "created_at": "2025-03-09T14:12:18Z"
+  },
+  {
+    "name": "Open-Web-UI-Homebox-Tool",
+    "pretty_name": "Open Web Ui Homebox Tool",
+    "description": "No description provided",
+    "url": "https://github.com/danielrosehill/Open-Web-UI-Homebox-Tool",
+    "is_fork": false,
+    "created_at": "2025-03-07T14:22:02Z"
+  },
+  {
+    "name": "Context-Chunker-Assistant",
+    "pretty_name": "Context Chunker Assistant",
+    "description": "A n interactive chatbot approach to chunking context data for embedding into RAG",
+    "url": "https://github.com/danielrosehill/Context-Chunker-Assistant",
+    "is_fork": false,
+    "created_at": "2025-03-07T00:54:50Z"
+  },
+  {
+    "name": "Openwebui-Hunter-Tool",
+    "pretty_name": "Openwebui Hunter Tool",
+    "description": "No description provided",
+    "url": "https://github.com/danielrosehill/Openwebui-Hunter-Tool",
+    "is_fork": false,
+    "created_at": "2025-03-07T00:23:49Z"
+  },
+  {
+    "name": "Open-WebUI-Backups",
+    "pretty_name": "Open Webui Backups",
+    "description": "A model backup script for backing up an Open Web UI instance (SQLite, ChromaDB)",
+    "url": "https://github.com/danielrosehill/Open-WebUI-Backups",
+    "is_fork": false,
+    "created_at": "2025-03-05T15:14:24Z"
+  },
+  {
+    "name": "AI-Assistant-Library-Frontend",
+    "pretty_name": "Artificial Intelligence Assistant Library Frontend",
+    "description": "Display frontend for system prompt library, 03-25",
+    "url": "https://github.com/danielrosehill/AI-Assistant-Library-Frontend",
+    "is_fork": false,
+    "created_at": "2025-03-04T15:42:07Z"
+  },
+  {
+    "name": "About-Me",
+    "pretty_name": "About Me",
+    "description": "Because behind every Github profile is (hopefully) a human being!",
+    "url": "https://github.com/danielrosehill/About-Me",
+    "is_fork": false,
+    "created_at": "2025-03-04T14:31:31Z"
+  },
+  {
+    "name": "Jerusalem-Tech-Companies",
+    "pretty_name": "Jerusalem Tech Companies",
+    "description": "Mapping tech companies in Jerusalem, Israel",
+    "url": "https://github.com/danielrosehill/Jerusalem-Tech-Companies",
+    "is_fork": false,
+    "created_at": "2025-03-04T12:51:08Z"
+  },
+  {
+    "name": "Roo-Code-Docs",
+    "pretty_name": "Roo Code Docs",
+    "description": "This is the documentation for Roo Code (prev. Roo Cline), an AI-powered autonomous coding agent that lives in your editor.",
+    "url": "https://github.com/danielrosehill/Roo-Code-Docs",
+    "is_fork": true,
+    "created_at": "2025-03-04T12:37:10Z"
+  },
+  {
+    "name": "Roo-Code",
+    "pretty_name": "Roo Code",
+    "description": "Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.",
+    "url": "https://github.com/danielrosehill/Roo-Code",
+    "is_fork": true,
+    "created_at": "2025-03-04T12:32:45Z"
+  },
+  {
+    "name": "Token-Bonfire-Monitor",
+    "pretty_name": "Token Bonfire Monitor",
+    "description": "Do you enjoy watching money burn? JK. This is a utility for AI code-gen fiends trying to keep budget under control. OpenRouter monitoring.",
+    "url": "https://github.com/danielrosehill/Token-Bonfire-Monitor",
+    "is_fork": false,
+    "created_at": "2025-03-04T09:29:32Z"
+  },
+  {
+    "name": "Markdown-Keep-Or-Delete",
+    "pretty_name": "Markdown Keep Or Delete",
+    "description": "No description provided",
+    "url": "https://github.com/danielrosehill/Markdown-Keep-Or-Delete",
+    "is_fork": false,
+    "created_at": "2025-03-04T01:44:47Z"
+  },
+  {
+    "name": "LLM-Training-Date-Cutoffs",
+    "pretty_name": "Large Language Model Training Date Cutoffs",
+    "description": "A few datapoints for personal reference",
+    "url": "https://github.com/danielrosehill/LLM-Training-Date-Cutoffs",
+    "is_fork": false,
+    "created_at": "2025-03-04T00:13:12Z"
+  },
+  {
+    "name": "AI-Assistant-System-Prompt-Library-0325-Export",
+    "pretty_name": "Artificial Intelligence Assistant System Prompt Library 0325 Export",
+    "description": "Point in time export of system prompts in natural language (markdown)",
+    "url": "https://github.com/danielrosehill/AI-Assistant-System-Prompt-Library-0325-Export",
+    "is_fork": false,
+    "created_at": "2025-03-03T20:40:35Z"
+  },
+  {
+    "name": "Speech-To-Docs",
+    "pretty_name": "Speech To Docs",
+    "description": "WIP. Building on a successful POC Whisper notepad, an attempt to build on the idea.",
+    "url": "https://github.com/danielrosehill/Speech-To-Docs",
+    "is_fork": false,
+    "created_at": "2025-03-03T20:05:56Z"
+  },
+  {
+    "name": "Dollar-Software-Genie",
+    "pretty_name": "Dollar Software Genie",
+    "description": "No description provided",
+    "url": "https://github.com/danielrosehill/Dollar-Software-Genie",
+    "is_fork": false,
+    "created_at": "2025-03-03T02:55:56Z"
+  },
+  {
+    "name": "Linux-Github-Repo-Launcher",
+    "pretty_name": "Linux Github Repo Launcher",
+    "description": "Github repository search and quick launch utility preconfigured for VS Code & Windsurf",
+    "url": "https://github.com/danielrosehill/Linux-Github-Repo-Launcher",
+    "is_fork": false,
+    "created_at": "2025-03-03T01:51:01Z"
+  },
+  {
+    "name": "openwebui-docs",
+    "pretty_name": "Openwebui Docs",
+    "description": "https://docs.openwebui.com",
+    "url": "https://github.com/danielrosehill/openwebui-docs",
+    "is_fork": true,
+    "created_at": "2025-03-02T19:00:57Z"
+  },
+  {
+    "name": "AI-Docs-Generator-Gdrive",
+    "pretty_name": "Artificial Intelligence Docs Generator Gdrive",
+    "description": "Interface for custom document generation with output to Google Drive",
+    "url": "https://github.com/danielrosehill/AI-Docs-Generator-Gdrive",
+    "is_fork": false,
+    "created_at": "2025-03-02T14:33:00Z"
+  },
+  {
+    "name": "is_remote_friendly",
+    "pretty_name": "Is_remote_friendly",
+    "description": "A taxonomy to categorise companies' variations of \"remote friendliness\" for personal purposes",
+    "url": "https://github.com/danielrosehill/is_remote_friendly",
+    "is_fork": false,
+    "created_at": "2025-03-01T20:46:16Z"
+  },
+  {
     "name": "Whisper-Transcription-Notepad-Linux",
     "pretty_name": "Whisper Transcription Notepad Linux",
     "description": "Transcription notepad with cloud speech to text (STT) for Linux",
@@ -14,14 +182,6 @@
     "url": "https://github.com/danielrosehill/Linux-Whisper-Notepad",
     "is_fork": false,
     "created_at": "2025-02-27T15:09:49Z"
-  },
-  {
-    "name": "Repo-Opener",
-    "pretty_name": "Repo Opener",
-    "description": "Linux GUI for displaying repositories in base path with IDE-speciific open buttons",
-    "url": "https://github.com/danielrosehill/Repo-Opener",
-    "is_fork": false,
-    "created_at": "2025-02-27T02:09:58Z"
   },
   {
     "name": "My-Bash-Aliases",
