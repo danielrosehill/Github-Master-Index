@@ -24,9 +24,6 @@ WIP - VS Code Extension to notify users whether the repo they're working on is p
 ## Scaffolding Scripts [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Scaffolding-Scripts)
 Scripts for scaffolding folder structures I commonly use
 
-## Snap It [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Snap-It)
-Simple GUI for taking on-demand Snapper snapshots
-
 ## Tampermonkey Scripts [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Tampermonkey-Scripts)
 Tampermonkey scripts for browser automation tasks
 

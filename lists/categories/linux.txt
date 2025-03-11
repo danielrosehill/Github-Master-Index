@@ -1,10 +1,10 @@
-Awesome-Kubernetes-Linux-Desktop
 Awesome-Linux-IDEs
-Deepgram-STT-Linux-App
+Awesome-Obsidian-AI-Tools
+Awesome-Prompt-Engineering
+Awesome-STT-Projects
 Distro-Tuner
 Dual-WhatsApp-Linux-Desktop
 Fedora-GUIs
-Linux-CUAs
 Linux-Desktop-LLM-Apps
 OpenSUSE-Config-Backup-Tool
 OpenWebUI-Macro-Keypad

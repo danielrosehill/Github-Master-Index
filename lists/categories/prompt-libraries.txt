@@ -1,8 +1,5 @@
-Awesome-LLM-Prompt-Libraries
-Awesome-Prompt-Engineering
 Fun-LLM-Data-Prompts
 LLM-Evaluation-Prompts
-LLM-System-Prompts
 My-Principles-Of-Prompting
 OpenWebUI-Prompt-Library
 Prompt-And-Output-Separator

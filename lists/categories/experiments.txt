@@ -1,12 +1,7 @@
-AI-Generated-Code-Samples
-AI-Generated-Project-Starters
-AI-Interview-Workflow-V2
-Bias-Censorship-Eval-Tests
 Example-LLM-Python-GUI-Build
 Fun-LLM-Data-Prompts
 LLM-Evaluation-Prompts
 LLM-Experiment-Notebook
-LLM-Long-Codegen-Test
 LLM-Output-Notes
 LLM-Outputs
 LLMs-on-LLMs

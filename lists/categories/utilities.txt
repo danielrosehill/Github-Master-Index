@@ -6,5 +6,4 @@ OpenAI-Github-Repo-Index-Creator
 Postgres-Utilities
 Public-Or-Private-Repo-Extension
 Scaffolding-Scripts
-Snap-It
 Tampermonkey-Scripts

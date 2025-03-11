@@ -1,3 +1,4 @@
+Awesome-Prompt-Engineering
 Awesome-STT-Projects
 Awesome-STT-Tools
 Better-Hashnode-Backups
@@ -14,7 +15,3 @@ Data-Relationships-Helper
 Database-Relationship-Identifier-Postgres
 Deepgram-STT-Linux-App
 Demo-Github-Repo-Cleaner-Utility
-PDF-Extract-And-TTS
-Personal-STT-Benchmarking
-Voice-Assistant-Agent-Platforms
-Voice-LLM-App-Notes

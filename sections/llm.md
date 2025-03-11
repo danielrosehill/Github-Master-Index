@@ -1,5 +1,35 @@
 # Llm Repositories
 
+## Bias Censorship Eval Tests [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Bias-Censorship-Eval-Tests)
+Some loosely organised experiments intended to probe the levels of political censorship inherent in LLMs
+
+## Chatgpt Customgpt Dev [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/ChatGPT-CustomGPT-Dev)
+Scripts and utilities for managing custom GPTs built with ChatGPT
+
+## Cline Roo Code Repo Template [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Cline-Roo-Code-Repo-Template)
+Repo template for Cline / Roo Code AI dev with my docs-as-prompts approach!
+
+## Cline Website Creation Demo [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Cline-Website-Creation-Demo)
+Demonstration project for YouTube using referred prompts for development
+
+## Custom Large Language Model Agent Platforms [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Custom-LLM-Agent-Platforms)
+Tools, frameworks, and platforms for custom LLM agent creation, including AI workforces/fleets
+
+## Custom Large Language Model Agents [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Custom-LLM-Agents)
+This repository contains configuration scripts for large language model assistants, which I have deployed mostly currently on Hugging Face Chat. 
+
+## Daniel Public Changelog [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Daniel-Public-Changelog)
+A publicly accessible changelog of all my technical projects
+
+## Data Analysis Notebook [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Data-Analysis-Notebook)
+A public notebook of some analytical work with datasets
+
+## Data Projects Index [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Data-Projects-Index)
+Data apps and datasets deployed to Streamlit Community Cloud, Hugging Face, and elsewhere. 
+
+## Data Relationships Helper [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Data-Relationships-Helper)
+Utility for helping users understand the classic data relationships in RDMSs (M2M, O2M, M2O etc)
+
 ## Large Language Model Api Key Manager [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/LLM-API-Key-Manager)
 Coming soon, a minimalist local first tool for organizing and displaying a list of API keys for large language models that can be accessed this way. 
 
@@ -17,9 +47,6 @@ A few prompts that I am storing in a repo for the purpose of running controlled 
 
 ## Large Language Model Experiment Notebook [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/LLM-Experiment-Notebook)
 Experiments in evaluating various prompting strategies and LLM performance generally
-
-## Large Language Model Long Codegen Test [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/LLM-Long-Codegen-Test)
-Experiment to evaluate the ability of code-gen LLMs to generate a long continuous (single) output
 
 ## Large Language Model Max Token Length 0225 [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/LLM-Max-Token-Length-0225)
 A plot showing the evolution of the max output token length by major LLMs, Feb 2025

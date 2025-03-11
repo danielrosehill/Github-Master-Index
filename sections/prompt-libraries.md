@@ -3,12 +3,6 @@
 ## Awesome Chatgpt Prompts [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/awesome-chatgpt-prompts)
 This repo includes ChatGPT prompt curation to use ChatGPT better.
 
-## Awesome Large Language Model Prompt Libraries [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Awesome-LLM-Prompt-Libraries)
-An index of prompting libraries for GPTs, including ChatGPT. Some of these are on Github and others are hosted externally.
-
-## Awesome Prompt Engineering [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Awesome-Prompt-Engineering)
-This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc 
-
 ## Fun Large Language Model Data Prompts [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Fun-LLM-Data-Prompts)
 As prompting fro data analysis & vis is quite specific, a small side collection of prompts for this purpose
 

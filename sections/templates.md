@@ -3,12 +3,6 @@
 ## Artificial Intelligence Assistant Template [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Assistant-Template)
 Template repository for version controlling AI assistant configurations (and associated elements like context data)
 
-## Artificial Intelligence Generated Project Starters [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Generated-Project-Starters)
-AI-generated project starters for anyone wishing to carry on the ideas!
-
-## Cline Roo Code Repo Template [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Cline-Roo-Code-Repo-Template)
-Repo template for Cline / Roo Code AI dev with my docs-as-prompts approach!
-
 ## Document Templates [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Document-Templates)
 Documentation matters! Some of the templates (in markdown) that I like to use
 

@@ -1,4 +1,5 @@
-NFC-Reader-Writer-App
-Snap-It
-Github-Repo-Pruner
 Dual-WhatsApp-Linux-Desktop
+Github-Repo-Pruner
+Linux-Whisper-Notepad
+NFC-Reader-Writer-App
+Whisper-Transcription-Notepad-Linux

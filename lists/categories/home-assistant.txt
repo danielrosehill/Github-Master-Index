@@ -1,4 +1,3 @@
-Awesome-Israeli-Jewish-Home-Assistant
 HA-Shabbat-Dashboard-0125
 Home-Assistant-Dashboards-General-
 Home-Assistant-Israel-Dashboards

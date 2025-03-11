@@ -6,6 +6,18 @@ Demonstration modelling how a chained LLM agent workflow could be used to expedi
 ## Artificial Intelligence Abusive Message Documentation Tool [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Abusive-Message-Documentation-Tool)
 Configuration text for an LLM assistant designed to assist users with documenting abusive messages
 
+## Artificial Intelligence Assistant Builder [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Assistant-Builder)
+Streamlit app for honing system prompts for AI assistants
+
+## Artificial Intelligence Assistant Ideator [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Assistant-Ideator)
+Streamlit app for ideating AI assisants
+
+## Artificial Intelligence Assistant Library Frontend [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Assistant-Library-Frontend)
+Display frontend for system prompt library, 03-25
+
+## Artificial Intelligence Assistant System Prompt Library 0325 Export [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Assistant-System-Prompt-Library-0325-Export)
+Point in time export of system prompts in natural language (markdown)
+
 ## Artificial Intelligence Assistant Template [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Assistant-Template)
 Template repository for version controlling AI assistant configurations (and associated elements like context data)
 
@@ -14,6 +26,21 @@ My useful, sprawling and only slightly crazy network of AI assistants for ... an
 
 ## Artificial Intelligence Assistants Index [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Assistants-Index)
 Indexing repository nesting links to standalone repositories containing configurations for AI assistants & agents
+
+## Artificial Intelligence Docs Generator Gdrive [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Docs-Generator-Gdrive)
+Interface for custom document generation with output to Google Drive
+
+## Artificial Intelligence Generated Code Samples [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Generated-Code-Samples)
+Scripts and other programs generated with various LLMs. Sometimes they need refinement. Frequently they just work!
+
+## Artificial Intelligence Generated Project Starters [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Generated-Project-Starters)
+AI-generated project starters for anyone wishing to carry on the ideas!
+
+## Artificial Intelligence Generated Projects Index [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Generated-Projects-Index)
+Index of development projects that were partially or fully developed using AI
+
+## Artificial Intelligence Interview Workflow V2 [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Interview-Workflow-V2)
+No description provided
 
 ## Artificial Intelligence Job Search Assistant Workflow [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Job-Search-Assistant-Workflow)
 A chained agent workflow for job hunters (presented as a model)
@@ -38,6 +65,9 @@ An index of prompting libraries for GPTs, including ChatGPT. Some of these are o
 
 ## Awesome Prompt Engineering [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Awesome-Prompt-Engineering)
 This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc 
+
+## Bias Censorship Eval Tests [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Bias-Censorship-Eval-Tests)
+Some loosely organised experiments intended to probe the levels of political censorship inherent in LLMs
 
 ## Chatgpt Customgpt Dev [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/ChatGPT-CustomGPT-Dev)
 Scripts and utilities for managing custom GPTs built with ChatGPT

@@ -2,7 +2,7 @@
 
 ![Banner](banners/index.png)
 
-*Last updated: 2025-03-11 14:51:11*
+*Last updated: 2025-03-11 15:12:17*
 
 This is an automatically generated index of my public GitHub repositories.
 
@@ -31,18 +31,20 @@ Browse repositories by their project type:
 ## By Category
 Browse repositories organized by their primary function or topic:
 
-[![Ai Repos](https://img.shields.io/badge/Ai_Repos-2ea44f?style=for-the-badge&logo=github)](sections/ai-repos.md)<br>[![Assistants](https://img.shields.io/badge/Assistants-2ea44f?style=for-the-badge&logo=github)](sections/assistants.md)<br>[![Awesome Lists](https://img.shields.io/badge/Awesome_Lists-2ea44f?style=for-the-badge&logo=github)](sections/awesome-lists.md)<br>[![Backups](https://img.shields.io/badge/Backups-2ea44f?style=for-the-badge&logo=github)](sections/backups.md)<br>[![Cloud Backup](https://img.shields.io/badge/Cloud_Backup-2ea44f?style=for-the-badge&logo=github)](sections/cloud-backup.md)<br>[![Context Rag](https://img.shields.io/badge/Context_Rag-2ea44f?style=for-the-badge&logo=github)](sections/context-rag.md)<br>[![Demos](https://img.shields.io/badge/Demos-2ea44f?style=for-the-badge&logo=github)](sections/demos.md)<br>[![Emissions](https://img.shields.io/badge/Emissions-2ea44f?style=for-the-badge&logo=github)](sections/emissions.md)<br>[![Github Tools](https://img.shields.io/badge/Github_Tools-2ea44f?style=for-the-badge&logo=github)](sections/github-tools.md)<br>[![Home Assistant](https://img.shields.io/badge/Home_Assistant-2ea44f?style=for-the-badge&logo=github)](sections/home-assistant.md)<br>[![Israel](https://img.shields.io/badge/Israel-2ea44f?style=for-the-badge&logo=github)](sections/israel.md)<br>[![Linux](https://img.shields.io/badge/Linux-2ea44f?style=for-the-badge&logo=github)](sections/linux.md)<br>[![Llm](https://img.shields.io/badge/Llm-2ea44f?style=for-the-badge&logo=github)](sections/llm.md)<br>[![Obsidian](https://img.shields.io/badge/Obsidian-2ea44f?style=for-the-badge&logo=github)](sections/obsidian.md)<br>[![Opensuse](https://img.shields.io/badge/Opensuse-2ea44f?style=for-the-badge&logo=github)](sections/opensuse.md)<br>[![Prompt Libraries](https://img.shields.io/badge/Prompt_Libraries-2ea44f?style=for-the-badge&logo=github)](sections/prompt-libraries.md)<br>[![Scaffolders](https://img.shields.io/badge/Scaffolders-2ea44f?style=for-the-badge&logo=github)](sections/scaffolders.md)<br>[![Utilities](https://img.shields.io/badge/Utilities-2ea44f?style=for-the-badge&logo=github)](sections/utilities.md)<br>[![Voice](https://img.shields.io/badge/Voice-2ea44f?style=for-the-badge&logo=github)](sections/voice.md)
+[![All Categories](https://img.shields.io/badge/All_Categories-FF5722?style=for-the-badge&logo=github&logoColor=white)](sections/all-categories.md)
+
+[![Ai Repos](https://img.shields.io/badge/Ai_Repos-2ea44f?style=for-the-badge&logo=github)](sections/ai-repos.md)<br>[![All Categories](https://img.shields.io/badge/All_Categories-2ea44f?style=for-the-badge&logo=github)](sections/all-categories.md)<br>[![Assistants](https://img.shields.io/badge/Assistants-2ea44f?style=for-the-badge&logo=github)](sections/assistants.md)<br>[![Awesome Lists](https://img.shields.io/badge/Awesome_Lists-2ea44f?style=for-the-badge&logo=github)](sections/awesome-lists.md)<br>[![Backups](https://img.shields.io/badge/Backups-2ea44f?style=for-the-badge&logo=github)](sections/backups.md)<br>[![Cloud Backup](https://img.shields.io/badge/Cloud_Backup-2ea44f?style=for-the-badge&logo=github)](sections/cloud-backup.md)<br>[![Context Rag](https://img.shields.io/badge/Context_Rag-2ea44f?style=for-the-badge&logo=github)](sections/context-rag.md)<br>[![Demos](https://img.shields.io/badge/Demos-2ea44f?style=for-the-badge&logo=github)](sections/demos.md)<br>[![Emissions](https://img.shields.io/badge/Emissions-2ea44f?style=for-the-badge&logo=github)](sections/emissions.md)<br>[![Github Tools](https://img.shields.io/badge/Github_Tools-2ea44f?style=for-the-badge&logo=github)](sections/github-tools.md)<br>[![Home Assistant](https://img.shields.io/badge/Home_Assistant-2ea44f?style=for-the-badge&logo=github)](sections/home-assistant.md)<br>[![Israel](https://img.shields.io/badge/Israel-2ea44f?style=for-the-badge&logo=github)](sections/israel.md)<br>[![Linux](https://img.shields.io/badge/Linux-2ea44f?style=for-the-badge&logo=github)](sections/linux.md)<br>[![Llm](https://img.shields.io/badge/Llm-2ea44f?style=for-the-badge&logo=github)](sections/llm.md)<br>[![Obsidian](https://img.shields.io/badge/Obsidian-2ea44f?style=for-the-badge&logo=github)](sections/obsidian.md)<br>[![Open Webui](https://img.shields.io/badge/Open_Webui-2ea44f?style=for-the-badge&logo=github)](sections/open-webui.md)<br>[![Opensuse](https://img.shields.io/badge/Opensuse-2ea44f?style=for-the-badge&logo=github)](sections/opensuse.md)<br>[![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-2ea44f?style=for-the-badge&logo=github)](sections/prompt-engineering.md)<br>[![Prompt Libraries](https://img.shields.io/badge/Prompt_Libraries-2ea44f?style=for-the-badge&logo=github)](sections/prompt-libraries.md)<br>[![Scaffolders](https://img.shields.io/badge/Scaffolders-2ea44f?style=for-the-badge&logo=github)](sections/scaffolders.md)<br>[![Utilities](https://img.shields.io/badge/Utilities-2ea44f?style=for-the-badge&logo=github)](sections/utilities.md)<br>[![Voice](https://img.shields.io/badge/Voice-2ea44f?style=for-the-badge&logo=github)](sections/voice.md)
 
 ## Repository Statistics
 
-**Total Repositories:** 191
+**Total Repositories:** 204
 
 **Top Categories:**
-- Ai Repos: 57 repositories
-- Indexes: 22 repositories
-- Assistants: 21 repositories
-- Forks: 21 repositories
-- Israel: 17 repositories
+- Ai Repos: 66 repositories
+- Assistants: 36 repositories
+- Indexes: 34 repositories
+- Forks: 29 repositories
+- Israel: 28 repositories
 
 ---
 

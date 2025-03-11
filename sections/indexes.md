@@ -1,10 +1,34 @@
 # Indexes Repositories
 
+## Agentic Context Development Interview Demo [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Agentic-Context-Development-Interview-Demo)
+Demonstration modelling how a chained LLM agent workflow could be used to expedite the generation of personal contextual data for personalised LLM experiences and personal RAG development
+
 ## Artificial Intelligence Assistants Index [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Assistants-Index)
 Indexing repository nesting links to standalone repositories containing configurations for AI assistants & agents
 
+## Artificial Intelligence Docs Generator Gdrive [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Docs-Generator-Gdrive)
+Interface for custom document generation with output to Google Drive
+
+## Artificial Intelligence Generated Code Samples [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Generated-Code-Samples)
+Scripts and other programs generated with various LLMs. Sometimes they need refinement. Frequently they just work!
+
+## Artificial Intelligence Generated Project Starters [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Generated-Project-Starters)
+AI-generated project starters for anyone wishing to carry on the ideas!
+
 ## Artificial Intelligence Generated Projects Index [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Generated-Projects-Index)
 Index of development projects that were partially or fully developed using AI
+
+## Artificial Intelligence Interview Workflow V2 [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Interview-Workflow-V2)
+No description provided
+
+## Anonymisation Assistant [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Anonymisation-Assistant)
+Configuration for a large language assistant designed to assist with redacting personally identifiable details in documents
+
+## Assistant Config Editor [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Assistant-Config-Editor)
+Streamlit web UI for editing assistant configuration texts
+
+## Assistant Configuration Improver [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Assistant-Configuration-Improver)
+Assistant which improves the configuration of assistant configuration texts
 
 ## Awesome Artificial Intelligence Agents And Assistants [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Awesome-AI-Agents-And-Assistants)
 An ecosystem map of the AI agent and assistant building landscape in Feb 2025
@@ -14,9 +38,6 @@ Subreddits discussing AI related things!
 
 ## Awesome Chatgpt Prompts [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/awesome-chatgpt-prompts)
 This repo includes ChatGPT prompt curation to use ChatGPT better.
-
-## Awesome Israeli Jewish Home Assistant [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Awesome-Israeli-Jewish-Home-Assistant)
-Home automation projects that are relevant to people in Israel or Jews generally (e.g. Shabbat and zmanim time integrations)
 
 ## Awesome Kubernetes Linux Desktop [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Awesome-Kubernetes-Linux-Desktop)
 GUIs and other tools that make managing Kubernetes clusters easier for Linux desktop users (I use Ubuntu but will add resources for other distros)
@@ -44,6 +65,24 @@ A list of some STT projects from around the internet
 
 ## Awesome Speech to Text Tools [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Awesome-STT-Tools)
 A few useful speech to text tools that I've stumbled across including browser extensions, Linux desktop tools and ASR. 
+
+## Better Hashnode Backups [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Better-Hashnode-Backups)
+Backups a Hashnode blog including the images from the CDN
+
+## Bias Censorship Eval Tests [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Bias-Censorship-Eval-Tests)
+Some loosely organised experiments intended to probe the levels of political censorship inherent in LLMs
+
+## Chatgpt Customgpt Dev [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/ChatGPT-CustomGPT-Dev)
+Scripts and utilities for managing custom GPTs built with ChatGPT
+
+## Cline Roo Code Repo Template [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Cline-Roo-Code-Repo-Template)
+Repo template for Cline / Roo Code AI dev with my docs-as-prompts approach!
+
+## Cline Website Creation Demo [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Cline-Website-Creation-Demo)
+Demonstration project for YouTube using referred prompts for development
+
+## Custom Large Language Model Agent Platforms [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Custom-LLM-Agent-Platforms)
+Tools, frameworks, and platforms for custom LLM agent creation, including AI workforces/fleets
 
 ## Data Projects Index [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Data-Projects-Index)
 Data apps and datasets deployed to Streamlit Community Cloud, Hugging Face, and elsewhere. 

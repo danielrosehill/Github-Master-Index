@@ -1,4 +1,3 @@
-OpenSUSE-Config-Backup-Tool
 Distro-Tuner
-Linux-CUAs
 Linux-Desktop-LLM-Apps
+OpenSUSE-Config-Backup-Tool

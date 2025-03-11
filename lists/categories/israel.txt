@@ -1,4 +1,4 @@
-Awesome-Israeli-Jewish-Home-Assistant
+AI-Assistant-System-Prompt-Library-0325-Export
 HA-Shabbat-Dashboard-0125
 Home-Assistant-Israel-Dashboards
 Home-Assistant-Shabbat-Yom-Tom
@@ -11,7 +11,18 @@ Israel-To-ROW-Salary-Converter-V2
 Israeli-Google-Drive-Accounting-Doc-Router
 Jerusalem-Public-Shelters
 Jewish-Sabbaths-Holidays
+LLM-Long-Codegen-Test
+LibreChat
+Linux-Whisper-Notepad
+Master_Backup_Strategy
+NFC-Reader-Writer-App
 Public-Shelter-Lists-Israel
+Reddit-Posts
+Roo-Code-Docs
+Snap-It
+Snippet-Library
+Taxonomy-Generators
+Whisper-Transcription-Notepad-Linux
 awesome-opensource-israel
 backup_internet_israel
 pikud-haoref-api

@@ -1,13 +1,16 @@
 # Linux Repositories
 
-## Awesome Kubernetes Linux Desktop [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Awesome-Kubernetes-Linux-Desktop)
-GUIs and other tools that make managing Kubernetes clusters easier for Linux desktop users (I use Ubuntu but will add resources for other distros)
-
 ## Awesome Linux Ides [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Awesome-Linux-IDEs)
 IDEs and development tools that work on one or multiple Linux distros. where possible details are noted like the supported distros, programming languages and more.   
 
-## Deepgram Speech to Text Linux App [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Deepgram-STT-Linux-App)
-Work in progress - AI-assisted STT app for Linux desktop users
+## Awesome Obsidian Artificial Intelligence Tools [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Awesome-Obsidian-AI-Tools)
+Obsidian plugins focused on leveraging AI & LLMs inside of (and beyond) vaults
+
+## Awesome Prompt Engineering [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Awesome-Prompt-Engineering)
+This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc 
+
+## Awesome Speech to Text Projects [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Awesome-STT-Projects)
+A list of some STT projects from around the internet
 
 ## Distro Tuner [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Distro-Tuner)
 Quick template for creating a local repo with symlinks to key system files on Linux

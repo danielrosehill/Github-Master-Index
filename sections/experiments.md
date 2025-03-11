@@ -1,17 +1,5 @@
 # Experiments Repositories
 
-## Artificial Intelligence Generated Code Samples [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Generated-Code-Samples)
-Scripts and other programs generated with various LLMs. Sometimes they need refinement. Frequently they just work!
-
-## Artificial Intelligence Generated Project Starters [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Generated-Project-Starters)
-AI-generated project starters for anyone wishing to carry on the ideas!
-
-## Artificial Intelligence Interview Workflow V2 [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Interview-Workflow-V2)
-No description provided
-
-## Bias Censorship Eval Tests [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Bias-Censorship-Eval-Tests)
-Some loosely organised experiments intended to probe the levels of political censorship inherent in LLMs
-
 ## Example Large Language Model Python Gui Build [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Example-LLM-Python-GUI-Build)
 No description provided
 
@@ -23,9 +11,6 @@ A few prompts that I am storing in a repo for the purpose of running controlled 
 
 ## Large Language Model Experiment Notebook [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/LLM-Experiment-Notebook)
 Experiments in evaluating various prompting strategies and LLM performance generally
-
-## Large Language Model Long Codegen Test [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/LLM-Long-Codegen-Test)
-Experiment to evaluate the ability of code-gen LLMs to generate a long continuous (single) output
 
 ## Large Language Model Output Notes [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/LLM-Output-Notes)
 First entry documentation repository for notes mostly unedited from LLMs

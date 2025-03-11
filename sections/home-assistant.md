@@ -1,8 +1,5 @@
 # Home-assistant Repositories
 
-## Awesome Israeli Jewish Home Assistant [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Awesome-Israeli-Jewish-Home-Assistant)
-Home automation projects that are relevant to people in Israel or Jews generally (e.g. Shabbat and zmanim time integrations)
-
 ## Home Assistant Shabbat Dashboard 0125 [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/HA-Shabbat-Dashboard-0125)
 Simple designed Home Assistant dashboard for Shabbat / Yom Tov times
 

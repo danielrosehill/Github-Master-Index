@@ -1,6 +1,4 @@
 AI-Assistant-Template
-AI-Generated-Project-Starters
-Cline-Roo-Code-Repo-Template
 Document-Templates
 LLM-Workspace-Scaffolder
 LLM-Workspace-Scaffolding

@@ -125,6 +125,8 @@ Browse repositories by their project type:
 ## By Category
 Browse repositories organized by their primary function or topic:
 
+[![All Categories](https://img.shields.io/badge/All_Categories-FF5722?style=for-the-badge&logo=github&logoColor=white)](sections/all-categories.md)
+
 {chr(10).join(section_badges).replace(chr(10), '<br>')}
 
 {repo_stats}

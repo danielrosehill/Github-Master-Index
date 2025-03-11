@@ -1,8 +1,16 @@
-Awesome-Prompt-Engineering
+AI-Assistant-System-Prompt-Library-0325-Export
 Jewish-Sabbaths-Holidays
+LLM-Long-Codegen-Test
 LibreChat
+Linux-Whisper-Notepad
+Master_Backup_Strategy
+NFC-Reader-Writer-App
 Roo-Code
 Roo-Code-Docs
+Snap-It
+Snippet-Library
+Taxonomy-Generators
+Whisper-Transcription-Notepad-Linux
 awesome-chatgpt-prompts
 awesome-opensource-israel
 dsnote

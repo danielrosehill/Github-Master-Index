@@ -1,7 +1,16 @@
 AI-Abusive-Message-Documentation-Tool
+AI-Assistant-Builder
+AI-Assistant-Ideator
+AI-Assistant-Library-Frontend
+AI-Assistant-System-Prompt-Library-0325-Export
 AI-Assistant-Template
 AI-Assistants
 AI-Assistants-Index
+AI-Docs-Generator-Gdrive
+AI-Generated-Code-Samples
+AI-Generated-Project-Starters
+AI-Generated-Projects-Index
+AI-Interview-Workflow-V2
 AI-Job-Search-Assistant-Workflow
 AI-Second-Brain-Tools
 Agentic-Context-Development-Interview-Demo
@@ -10,6 +19,7 @@ Assistant-Configuration-Improver
 Awesome-AI-Agents-And-Assistants
 Awesome-LLM-Prompt-Libraries
 Awesome-Prompt-Engineering
+Bias-Censorship-Eval-Tests
 ChatGPT-CustomGPT-Dev
 Context-Data-Generation-Bot
 Context-Waterfall-Architecture-Notes
@@ -29,7 +39,6 @@ LLM-Max-Token-Length-0225
 LLM-Output-Notes
 LLM-Output-Vault-Parameters
 LLM-Outputs
-LLM-System-Prompts
 LLM-Use-Case-Self-Ideation
 LLM-Workspace-Scaffolder
 LLMs-on-LLMs

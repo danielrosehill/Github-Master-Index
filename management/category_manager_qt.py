@@ -3,13 +3,14 @@ import sys
 import os
 import json
 from pathlib import Path
+from datetime import datetime
 from PyQt6.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout, 
                            QHBoxLayout, QGridLayout, QLabel, QLineEdit, 
                            QPushButton, QTableWidget, QTableWidgetItem, 
                            QCheckBox, QScrollArea, QFrame, QStatusBar,
                            QStyle, QStyleFactory, QMessageBox, QDialog,
                            QListWidget, QListWidgetItem, QDialogButtonBox,
-                           QTabWidget)
+                           QTabWidget, QComboBox)
 from PyQt6.QtCore import Qt, QSize, QTimer
 from PyQt6.QtGui import QIcon, QFont, QShortcut, QKeySequence
 import sys
@@ -30,6 +31,7 @@ class CategoryManagerQt(QMainWindow):
         
         # Initialize data
         self.repos = self.load_repos()
+        self.repo_metadata = self.load_repo_metadata()
         self.categories = self.load_categories()
         self.category_assignments = self.load_current_assignments()
         self.uncategorized_repos = self.get_uncategorized_repos()
@@ -56,7 +58,7 @@ class CategoryManagerQt(QMainWindow):
         self.setCentralWidget(central_widget)
         main_layout = QGridLayout(central_widget)
         
-        # Create search bar
+        # Create search bar and sort options
         search_frame = QFrame()
         search_layout = QHBoxLayout(search_frame)
         search_label = QLabel("Search:")
@@ -64,8 +66,17 @@ class CategoryManagerQt(QMainWindow):
         self.search_input = QLineEdit()
         self.search_input.setPlaceholderText("Search repositories...")
         self.search_input.textChanged.connect(self.filter_repos)
+        
+        # Add sort options
+        sort_label = QLabel("Sort by:")
+        self.sort_combo = QComboBox()
+        self.sort_combo.addItems(["Alphabetical", "Creation Date (Newest First)"])
+        self.sort_combo.currentIndexChanged.connect(self.sort_repos)
+        
         search_layout.addWidget(search_label)
         search_layout.addWidget(self.search_input)
+        search_layout.addWidget(sort_label)
+        search_layout.addWidget(self.sort_combo)
 
         # Add filter for uncategorized repos
         show_uncategorized_btn = QPushButton("Show Uncategorized")
@@ -207,6 +218,22 @@ class CategoryManagerQt(QMainWindow):
             self.show_error(f"Error loading repos: {str(e)}")
         return repos
     
+    def load_repo_metadata(self):
+        """Load repository metadata including creation dates"""
+        metadata = {}
+        try:
+            metadata_file = self.base_path / "data" / "exports" / "repo-index.json"
+            if metadata_file.exists():
+                with open(metadata_file, "r") as f:
+                    repo_data = json.load(f)
+                    for repo_info in repo_data:
+                        name = repo_info.get("name")
+                        if name:
+                            metadata[name] = repo_info
+        except Exception as e:
+            self.show_error(f"Error loading repository metadata: {str(e)}")
+        return metadata
+    
     def load_categories(self):
         """Load available categories from lists/categories directory"""
         categories = []
@@ -241,6 +268,12 @@ class CategoryManagerQt(QMainWindow):
         
         for i, repo in enumerate(self.repos):
             name_item = QTableWidgetItem(repo)
+            # Store creation date as item data for sorting
+            if repo in self.repo_metadata:
+                created_at = self.repo_metadata[repo].get("created_at", "")
+                if created_at:
+                    name_item.setData(Qt.ItemDataRole.UserRole, created_at)
+            
             self.repo_table.setItem(i, 0, name_item)
             
             # Add category count
@@ -484,10 +517,78 @@ class CategoryManagerQt(QMainWindow):
             except Exception as e:
                 self.show_error(f"Error creating category: {str(e)}")
                 
-    
     def show_error(self, message):
         """Show error message box"""
         QMessageBox.critical(self, "Error", message)
+    
+    def sort_repos(self):
+        """Sort repositories based on selected sort option"""
+        sort_option = self.sort_combo.currentText()
+        
+        if sort_option == "Creation Date (Newest First)":
+            # Sort by creation date (newest first)
+            self.sort_by_creation_date()
+        else:
+            # Default: Sort alphabetically
+            self.repo_table.sortItems(0, Qt.SortOrder.AscendingOrder)
+        
+        self.statusBar().showMessage(f"Sorted by {sort_option}", 3000)
+    
+    def sort_by_creation_date(self):
+        """Sort repositories by creation date (newest first)"""
+        # Create a list of (row, creation_date) tuples
+        row_dates = []
+        for row in range(self.repo_table.rowCount()):
+            item = self.repo_table.item(row, 0)
+            if item:
+                # Get creation date from item data
+                created_at = item.data(Qt.ItemDataRole.UserRole)
+                if created_at:
+                    try:
+                        date_obj = datetime.strptime(created_at, "%Y-%m-%dT%H:%M:%SZ")
+                        row_dates.append((row, date_obj))
+                    except (ValueError, TypeError):
+                        # If date parsing fails, put at the end
+                        row_dates.append((row, datetime(1970, 1, 1)))
+                else:
+                    # No date available, put at the end
+                    row_dates.append((row, datetime(1970, 1, 1)))
+        
+        # Sort by date (newest first)
+        row_dates.sort(key=lambda x: x[1], reverse=True)
+        
+        # Reorder table rows based on sorted dates
+        for new_row, (old_row, _) in enumerate(row_dates):
+            # Move row old_row to position new_row
+            self.move_table_row(old_row, new_row)
+    
+    def move_table_row(self, from_row, to_row):
+        """Move a row in the table from one position to another"""
+        if from_row == to_row:
+            return
+            
+        # Save the row data
+        row_data = []
+        for col in range(self.repo_table.columnCount()):
+            item = self.repo_table.item(from_row, col)
+            if item:
+                new_item = QTableWidgetItem(item.text())
+                # Copy user data (like creation date)
+                new_item.setData(Qt.ItemDataRole.UserRole, item.data(Qt.ItemDataRole.UserRole))
+                row_data.append(new_item)
+            else:
+                row_data.append(None)
+        
+        # Remove the row
+        self.repo_table.removeRow(from_row)
+        
+        # Insert the row at the new position
+        self.repo_table.insertRow(to_row)
+        
+        # Restore the row data
+        for col, item in enumerate(row_data):
+            if item:
+                self.repo_table.setItem(to_row, col, item)
 
 def main():
     app = QApplication(sys.argv)
