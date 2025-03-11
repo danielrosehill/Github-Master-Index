@@ -1,6 +1,41 @@
 # GitHub Repository Timeline
 
+## Table of Contents
+
+- [2025](#2025)
+  - [March 2025](#2025-march)
+  - [February 2025](#2025-february)
+  - [January 2025](#2025-january)
+- [2024](#2024)
+  - [December 2024](#2024-december)
+  - [November 2024](#2024-november)
+  - [October 2024](#2024-october)
+  - [September 2024](#2024-september)
+  - [August 2024](#2024-august)
+  - [July 2024](#2024-july)
+  - [June 2024](#2024-june)
+  - [May 2024](#2024-may)
+  - [April 2024](#2024-april)
+  - [March 2024](#2024-march)
+- [2021](#2021)
+  - [September 2021](#2021-september)
+  - [June 2021](#2021-june)
+  - [March 2021](#2021-march)
+- [2020](#2020)
+  - [October 2020](#2020-october)
+  - [June 2020](#2020-june)
+  - [May 2020](#2020-may)
+  - [April 2020](#2020-april)
+  - [February 2020](#2020-february)
+- [2019](#2019)
+  - [December 2019](#2019-december)
+  - [October 2019](#2019-october)
+
+---
+
 # 2025
+
+# March 2025 <a id='2025-march'></a>
 
 ## 9 Mar
 
@@ -147,6 +182,8 @@ Interface for custom document generation with output to Google Drive
 A taxonomy to categorise companies' variations of "remote friendliness" for personal purposes
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/is_remote_friendly)
+
+# February 2025 <a id='2025-february'></a>
 
 ## 27 Feb
 
@@ -442,6 +479,8 @@ Desktop NFC reader/writer GUI for the ACR1252U (validated with NTAG213 on Linux)
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/NFC-Reader-Writer-App)
 
+# January 2025 <a id='2025-january'></a>
+
 ## 31 Jan
 
 **Home Assistant Israel Dashboards**
@@ -637,6 +676,8 @@ A list of some STT projects from around the internet
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Awesome-STT-Projects)
 
 # 2024
+
+# December 2024 <a id='2024-december'></a>
 
 ## 31 Dec
 
@@ -952,6 +993,8 @@ Monetised
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Monetised-Emissions-V2)
 
+# November 2024 <a id='2024-november'></a>
+
 ## 29 Nov
 
 **My Docs Index**
@@ -1186,6 +1229,8 @@ A small selection of GHG emissions datapoints from various sources
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Emissions-Data-Reports)
 
+# October 2024 <a id='2024-october'></a>
+
 ## 31 Oct
 
 **My Large Language Model Km Idea**
@@ -1299,6 +1344,8 @@ News monitoring app intended for people living in Israel
 A Claude-developed, me-prompted incremental BTRFS backup utility with hardcoded serial number verification on the target device
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Daniel-s-Workstation-Backup-Genie)
+
+# September 2024 <a id='2024-september'></a>
 
 ## 30 Sep
 
@@ -1449,6 +1496,8 @@ Simple text conversion utility. User inputs prompts and outputs, GUI renders to 
 Quick template for creating a local repo with symlinks to key system files on Linux
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Distro-Tuner)
+
+# August 2024 <a id='2024-august'></a>
 
 ## 25 Aug
 
@@ -1638,6 +1687,8 @@ Open Definition source
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/opendefinition)
 
+# July 2024 <a id='2024-july'></a>
+
 ## 31 Jul
 
 **Large Language Model Outputs**
@@ -1708,6 +1759,8 @@ This repository contains configuration scripts for large language model assistan
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Custom-LLM-Agents)
 
+# June 2024 <a id='2024-june'></a>
+
 ## 27 Jun
 
 **Misc Scripts**
@@ -1730,6 +1783,8 @@ A few spins on the Astro starter theme to demonstrate some capabilities that I l
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/astrostarter)
 
+# May 2024 <a id='2024-may'></a>
+
 ## 19 May
 
 **Awesome Linux Ides**
@@ -1745,6 +1800,8 @@ A fork of the Awesome list generator modified for simplicity
 🔱 *This is a fork*
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/minimal-awesome-list-generator)
+
+# April 2024 <a id='2024-april'></a>
 
 ## 21 Apr
 
@@ -1814,6 +1871,8 @@ General Home Assistant dashboards - screenshots and YAML
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Home-Assistant-Dashboards-General-)
 
+# March 2024 <a id='2024-march'></a>
+
 ## 29 Mar
 
 **Makolettime**
@@ -1874,6 +1933,8 @@ A repository for hosting data and data visualisations related to the work of the
 
 # 2021
 
+# September 2021 <a id='2021-september'></a>
+
 ## 6 Sep
 
 **Backup_internet_israel**
@@ -1882,6 +1943,8 @@ Network schematics and purchasing notes for those interested in provisioning fai
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/backup_internet_israel)
 
+# June 2021 <a id='2021-june'></a>
+
 ## 20 Jun
 
 **My_tech_stack**
@@ -1889,6 +1952,8 @@ Network schematics and purchasing notes for those interested in provisioning fai
 I periodically begin using new tools and services. This is a means of documenting them. 
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/My_Tech_Stack)
+
+# March 2021 <a id='2021-march'></a>
 
 ## 11 Mar
 
@@ -1899,6 +1964,8 @@ My public PGP keys
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Public-GPG-Keys)
 
 # 2020
+
+# October 2020 <a id='2020-october'></a>
 
 ## 26 Oct
 
@@ -1917,6 +1984,8 @@ List of sites with two factor auth support which includes SMS, email, phone call
 Preparation materials for the AWS Certified Cloud Practitioner exam. Please use at your own discretion. I do not warrant that any of these training materials are free of errors. 
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/AWSCCPPrep)
+
+# June 2020 <a id='2020-june'></a>
 
 ## 14 Jun
 
@@ -1946,6 +2015,8 @@ Markdown documentation for the evolution of my desktop
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/MyDesktop)
 
+# May 2020 <a id='2020-may'></a>
+
 ## 8 May
 
 **Cloud Backup Scripts**
@@ -1970,6 +2041,8 @@ A markdown file summarizing my current approaches for creating 3-2-1 compliant b
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Master_Backup_Strategy)
 
+# April 2020 <a id='2020-april'></a>
+
 ## 30 Apr
 
 **Cloudbackupapproaches**
@@ -1986,6 +2059,8 @@ No description provided
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Home)
 
+# February 2020 <a id='2020-february'></a>
+
 ## 22 Feb
 
 **Ubuntubackupstrategy**
@@ -1995,6 +2070,8 @@ Various Bash scripts, edited configuration packages, and other resources to be m
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/UbuntuBackupStrategy)
 
 # 2019
+
+# December 2019 <a id='2019-december'></a>
 
 ## 26 Dec
 
@@ -2011,6 +2088,8 @@ Github Repository
 Miscellaneous project files
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Misc)
+
+# October 2019 <a id='2019-october'></a>
 
 ## 26 Oct
 
