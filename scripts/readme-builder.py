@@ -8,7 +8,7 @@ import glob
 project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 def generate_project_type_badges():
-    """Generate badges for project types in a single-row layout."""
+    """Generate badges for project types in a single-row layout without bullet points."""
     project_types = [
         "Created CLIs", "Created GUIs", "Documentation", "Experiments",
         "Forks", "Ideas", "Indexes", "Lists", "Templates", "Streamlit Apps",
@@ -20,9 +20,9 @@ def generate_project_type_badges():
     for display_name in project_types:
         file_name = display_name.lower().replace(" ", "-")
         badge = f'[![{display_name}](https://img.shields.io/badge/{display_name.replace(" ", "_")}-0D47A1?style=for-the-badge&logo=github)](sections/{file_name}.md)'
-        badges.append(f'- {badge}')
+        badges.append(badge)
     
-    return '\n'.join(badges)
+    return '<br>'.join(badges)
 
 def generate_repository_statistics():
     """Generate statistics about the repositories."""
@@ -69,13 +69,13 @@ def generate_readme():
     section_files = sorted([f[:-3] for f in os.listdir(sections_dir) 
                           if f.endswith('.md') and f not in type_categories])
     
-    # Generate section badges in a single-row layout
+    # Generate section badges in a single-row layout without bullet points
     section_badges = []
     
     for section in section_files:
         display_name = section.replace('-', ' ').title()
         badge = f'[![{display_name}](https://img.shields.io/badge/{display_name.replace(" ", "_")}-2ea44f?style=for-the-badge&logo=github)](sections/{section}.md)'
-        section_badges.append(f'- {badge}')
+        section_badges.append(badge)
 
     # Get current timestamp
     timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
@@ -85,6 +85,17 @@ def generate_readme():
     
     # Generate repository statistics
     repo_stats = generate_repository_statistics()
+    
+    # Generate table of contents
+    toc = [
+        "## Table of Contents",
+        "- [Repository Views](#repository-views)",
+        "- [View Timeline](#view-timeline)",
+        "- [By Type](#by-type)",
+        "- [By Category](#by-category)",
+        "- [Repository Statistics](#repository-statistics)",
+        "- [Data Access & API](#data-access--api)"
+    ]
 
     # Generate README content
     readme_content = f"""# Daniel Rosehill Github Repository Index
@@ -95,7 +106,7 @@ def generate_readme():
 
 This is an automatically generated index of my public GitHub repositories.
 
-{repo_stats}
+{chr(10).join(toc)}
 
 ## Repository Views
 
@@ -114,7 +125,9 @@ Browse repositories by their project type:
 ## By Category
 Browse repositories organized by their primary function or topic:
 
-{chr(10).join(section_badges)}
+{chr(10).join(section_badges).replace(chr(10), '<br>')}
+
+{repo_stats}
 
 ---
 
