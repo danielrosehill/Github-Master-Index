@@ -93,22 +93,24 @@ This is an automatically generated index of my public GitHub repositories.
 
 ## Repository Views
 
-This index provides two ways to explore my GitHub repositories:
+This index provides multiple ways to explore my GitHub repositories:
 
-### 1. Chronological Timeline
-[![View Timeline](https://img.shields.io/badge/Timeline-blue?style=for-the-badge&logo=github)](timeline.md)
+## View Timeline
+[![View Timeline](https://img.shields.io/badge/Timeline-4285F4?style=for-the-badge&logo=github&logoColor=white)](timeline.md)
 
 The timeline provides a chronological view of all repositories, showing when each project was created and its current status. This is useful for seeing how my work and interests have evolved over time.
 
-### 2. Projects By Type
-Browse repositories by their type:
+## By Type
+Browse repositories by their project type:
 
 {project_type_table}
 
-### 3. Category Index
-The category index organizes repositories by their primary function or topic. Each category below contains a curated list of related projects:
+## By Category
+Browse repositories organized by their primary function or topic:
 
 {chr(10).join(section_table)}
+
+---
 
 ## Data Access & API
 

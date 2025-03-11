@@ -2,21 +2,21 @@
 
 ![Banner](banners/index.png)
 
-*Last updated: 2025-03-11 14:35:25*
+*Last updated: 2025-03-11 14:40:46*
 
 This is an automatically generated index of my public GitHub repositories.
 
 ## Repository Views
 
-This index provides two ways to explore my GitHub repositories:
+This index provides multiple ways to explore my GitHub repositories:
 
-### 1. Chronological Timeline
-[![View Timeline](https://img.shields.io/badge/Timeline-blue?style=for-the-badge&logo=github)](timeline.md)
+## View Timeline
+[![View Timeline](https://img.shields.io/badge/Timeline-4285F4?style=for-the-badge&logo=github&logoColor=white)](timeline.md)
 
 The timeline provides a chronological view of all repositories, showing when each project was created and its current status. This is useful for seeing how my work and interests have evolved over time.
 
-### 2. Projects By Type
-Browse repositories by their type:
+## By Type
+Browse repositories by their project type:
 
 | Type | Type |
 |----------|----------|
@@ -27,8 +27,8 @@ Browse repositories by their type:
 | [![Forks](https://img.shields.io/badge/Forks-0D47A1?style=for-the-badge&logo=github)](sections/forks.md) | [![Data](https://img.shields.io/badge/Data-0D47A1?style=for-the-badge&logo=github)](sections/data.md) |
 | [![Ideas](https://img.shields.io/badge/Ideas-0D47A1?style=for-the-badge&logo=github)](sections/ideas.md) | [![Wrappers](https://img.shields.io/badge/Wrappers-0D47A1?style=for-the-badge&logo=github)](sections/wrappers.md) |
 
-### 3. Category Index
-The category index organizes repositories by their primary function or topic. Each category below contains a curated list of related projects:
+## By Category
+Browse repositories organized by their primary function or topic:
 
 | Category | Category |
 |----------|----------|
@@ -40,6 +40,8 @@ The category index organizes repositories by their primary function or topic. Ea
 | [![Home Assistant](https://img.shields.io/badge/Home_Assistant-2ea44f?style=for-the-badge&logo=github)](sections/home-assistant.md) | [![Utilities](https://img.shields.io/badge/Utilities-2ea44f?style=for-the-badge&logo=github)](sections/utilities.md) |
 | [![Israel](https://img.shields.io/badge/Israel-2ea44f?style=for-the-badge&logo=github)](sections/israel.md) | [![Voice](https://img.shields.io/badge/Voice-2ea44f?style=for-the-badge&logo=github)](sections/voice.md) |
 | [![Linux](https://img.shields.io/badge/Linux-2ea44f?style=for-the-badge&logo=github)](sections/linux.md) |  |
+
+---
 
 ## Data Access & API
 
