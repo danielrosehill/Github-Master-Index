@@ -9,9 +9,9 @@ from PyQt6.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout,
                            QCheckBox, QScrollArea, QFrame, QStatusBar,
                            QStyle, QStyleFactory, QMessageBox, QDialog,
                            QListWidget, QListWidgetItem, QDialogButtonBox,
-                           QTabWidget, QShortcut)
+                           QTabWidget)
 from PyQt6.QtCore import Qt, QSize, QTimer
-from PyQt6.QtGui import QIcon, QFont
+from PyQt6.QtGui import QIcon, QFont, QShortcut, QKeySequence
 import sys
 sys.path.append(str(Path(__file__).parent.parent))
 from scripts.auto_categorizer import AutoCategorizer
@@ -181,15 +181,15 @@ class CategoryManagerQt(QMainWindow):
     def setup_shortcuts(self):
         """Setup keyboard shortcuts for common operations"""
         # Save shortcut
-        save_shortcut = QShortcut(Qt.Key.Key_S | Qt.KeyboardModifier.ControlModifier, self)
+        save_shortcut = QShortcut(QKeySequence("Ctrl+S"), self)
         save_shortcut.activated.connect(self.save_changes)
         
         # Search shortcut
-        search_shortcut = QShortcut(Qt.Key.Key_F | Qt.KeyboardModifier.ControlModifier, self)
+        search_shortcut = QShortcut(QKeySequence("Ctrl+F"), self)
         search_shortcut.activated.connect(lambda: self.search_input.setFocus())
         
         # New category shortcut
-        new_cat_shortcut = QShortcut(Qt.Key.Key_N | Qt.KeyboardModifier.ControlModifier, self)
+        new_cat_shortcut = QShortcut(QKeySequence("Ctrl+N"), self)
         new_cat_shortcut.activated.connect(self.show_new_category_dialog)
         
         self.statusBar().showMessage("Shortcuts: Ctrl+S (Save), Ctrl+F (Search), Ctrl+N (New Category), 1-9 (Quick assign categories)")
