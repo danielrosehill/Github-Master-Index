@@ -6,6 +6,7 @@ AI-Assistant-System-Prompt-Library-0325-Export
 AI-Assistant-Template
 AI-Assistants
 AI-Assistants-Index
+AI-Dev-Prompts-Example
 AI-Docs-Generator-Gdrive
 AI-Generated-Code-Samples
 AI-Generated-Project-Starters
@@ -19,6 +20,7 @@ Agentic-Context-Development-Interview-Demo
 Anonymisation-Assistant
 Assistant-Config-Editor
 Assistant-Configuration-Improver
+AutoGPT
 Awesome-AI-Agents-And-Assistants
 Awesome-AI-Subreddits
 Awesome-Israeli-Jewish-Home-Assistant
@@ -30,8 +32,10 @@ Awesome-Obsidian-AI-Tools
 Awesome-Prompt-Engineering
 Awesome-STT-Projects
 Awesome-STT-Tools
+Awesome-Self-Hosted-AI-Tools
 Better-Hashnode-Backups
 Bias-Censorship-Eval-Tests
+Browser-Use-Agent-GUI
 ChatGPT-CustomGPT-Dev
 Cline-Roo-Code-Repo-Template
 Cline-Website-Creation-Demo
@@ -55,6 +59,7 @@ Deepgram-STT-Linux-App
 Demo-Github-Repo-Cleaner-Utility
 Distro-Tuner
 Docs-Archive
+Docs-Grabber
 Document-Templates
 Dollar-Software-Genie
 Dual-WhatsApp-Linux-Desktop
@@ -140,10 +145,12 @@ LLM-Workspace-Scaffolder
 LLM-Workspace-Scaffolding
 LLMs-on-LLMs
 Langchain-Workflows
+Lazy-Awesome-Lists
 LibreChat
 Linux-Desktop-LLM-Apps
 Linux-Github-Repo-Launcher
 Linux-Whisper-Notepad
+Linux-Whisper-Notepad-0325
 Local-Github-Repo-Index-Generator
 MakoletTime
 Markdown-Keep-Or-Delete
@@ -159,6 +166,7 @@ Monetised-Emissions-V2
 Monetised-GHG-Emissions
 Mr-David-Rosen
 My-AI-LLM-Configs
+My-AI-Stack
 My-Bash-Aliases
 My-Calculators
 My-Docker-Compose-Lib-Private
@@ -184,7 +192,9 @@ Open-WebUI-Backups
 OpenAI-Github-Repo-Index-Creator
 OpenSUSE-Config-Backup-Tool
 OpenWebUI-Macro-Keypad
+OpenWebUI-Model-Export-Converter
 OpenWebUI-My-Docker-Compose
+OpenWebUI-Postgres-Qdrant
 OpenWebUI-Prompt-Library
 Openwebui-Hunter-Tool
 Outcomes-Funds
@@ -252,6 +262,8 @@ Voice-LLM-App-Notes
 Weird-AI-Bots
 Whisper-Transcription-Notepad-Linux
 Wiki
+Windsurf-Demo-Repo
+Windsurf-Updater
 astrostarter
 awesome-chatgpt-prompts
 awesome-opensource-israel

@@ -1,4 +1,16 @@
 name,pretty_name,description,url,is_fork,created_at
+OpenWebUI-Model-Export-Converter,Openwebui Model Export Converter,Data processing script for converting manual JSON exports into parsed CSV data,https://github.com/danielrosehill/OpenWebUI-Model-Export-Converter,False,2025-03-19T12:11:13Z
+Windsurf-Updater,Windsurf Updater,Stopgap and non-official utillity for updating Windsurf on non-Ubuntu Linux (Tarball installer),https://github.com/danielrosehill/Windsurf-Updater,False,2025-03-18T19:00:18Z
+Windsurf-Demo-Repo,Windsurf Demo Repo,Skeleton / model repo for using Windsurf for code generation (WIP),https://github.com/danielrosehill/Windsurf-Demo-Repo,False,2025-03-18T11:00:45Z
+Awesome-Self-Hosted-AI-Tools,Awesome Self Hosted Artificial Intelligence Tools,Great AI tools that can be self-hosted,https://github.com/danielrosehill/Awesome-Self-Hosted-AI-Tools,False,2025-03-16T18:06:28Z
+My-AI-Stack,My Artificial Intelligence Stack,Periodically updated documentation about current AI stack/favorite components,https://github.com/danielrosehill/My-AI-Stack,False,2025-03-14T15:26:40Z
+Linux-Whisper-Notepad-0325,Linux Whisper Notepad 0325,Notepad for Linux that uses OpenAI Whisper (API) and reformats dictated text,https://github.com/danielrosehill/Linux-Whisper-Notepad-0325,False,2025-03-13T19:02:13Z
+AI-Dev-Prompts-Example,Artificial Intelligence Dev Prompts Example,"Examples of AI prompts for code generation (Python GUI) and some notes on emerging ""best practices""",https://github.com/danielrosehill/AI-Dev-Prompts-Example,False,2025-03-13T16:37:34Z
+Docs-Grabber,Docs Grabber,A quick utility for grabbing docs from Github repos (use-case: providing context to AI tools),https://github.com/danielrosehill/Docs-Grabber,False,2025-03-13T15:58:03Z
+AutoGPT,Autogpt,"AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",https://github.com/danielrosehill/AutoGPT,True,2025-03-13T13:40:07Z
+Browser-Use-Agent-GUI,Browser Use Agent Gui,Linux GUI for initiating and monitoring Browser Use with an exit switch,https://github.com/danielrosehill/Browser-Use-Agent-GUI,False,2025-03-13T11:51:33Z
+OpenWebUI-Postgres-Qdrant,Openwebui Postgres Qdrant,Docker Compose for OpenWebUI + Postgres + Qdrant,https://github.com/danielrosehill/OpenWebUI-Postgres-Qdrant,False,2025-03-12T10:29:42Z
+Lazy-Awesome-Lists,Lazy Awesome Lists,For when you're feeling inspired to make an awesome list but it all seems like so much work...,https://github.com/danielrosehill/Lazy-Awesome-Lists,False,2025-03-11T19:54:17Z
 AI-Assistant-Ideator,Artificial Intelligence Assistant Ideator,Streamlit app for ideating AI assisants,https://github.com/danielrosehill/AI-Assistant-Ideator,False,2025-03-09T19:21:47Z
 AI-Assistant-Builder,Artificial Intelligence Assistant Builder,Streamlit app for honing system prompts for AI assistants,https://github.com/danielrosehill/AI-Assistant-Builder,False,2025-03-09T14:12:18Z
 Open-Web-UI-Homebox-Tool,Open Web Ui Homebox Tool,No description provided,https://github.com/danielrosehill/Open-Web-UI-Homebox-Tool,False,2025-03-07T14:22:02Z

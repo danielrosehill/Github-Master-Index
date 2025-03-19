@@ -37,6 +37,94 @@
 
 # March 2025 <a id='2025-march'></a>
 
+## 19 Mar
+
+**Openwebui Model Export Converter**
+
+Data processing script for converting manual JSON exports into parsed CSV data
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/OpenWebUI-Model-Export-Converter)
+
+## 18 Mar
+
+**Windsurf Updater**
+
+Stopgap and non-official utillity for updating Windsurf on non-Ubuntu Linux (Tarball installer)
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Windsurf-Updater)
+
+**Windsurf Demo Repo**
+
+Skeleton / model repo for using Windsurf for code generation (WIP)
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Windsurf-Demo-Repo)
+
+## 16 Mar
+
+**Awesome Self Hosted Artificial Intelligence Tools**
+
+Great AI tools that can be self-hosted
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Awesome-Self-Hosted-AI-Tools)
+
+## 14 Mar
+
+**My Artificial Intelligence Stack**
+
+Periodically updated documentation about current AI stack/favorite components
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/My-AI-Stack)
+
+## 13 Mar
+
+**Linux Whisper Notepad 0325**
+
+Notepad for Linux that uses OpenAI Whisper (API) and reformats dictated text
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Linux-Whisper-Notepad-0325)
+
+**Artificial Intelligence Dev Prompts Example**
+
+Examples of AI prompts for code generation (Python GUI) and some notes on emerging "best practices"
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/AI-Dev-Prompts-Example)
+
+**Docs Grabber**
+
+A quick utility for grabbing docs from Github repos (use-case: providing context to AI tools)
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Docs-Grabber)
+
+**Autogpt**
+
+AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+
+🔱 *This is a fork*
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/AutoGPT)
+
+**Browser Use Agent Gui**
+
+Linux GUI for initiating and monitoring Browser Use with an exit switch
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Browser-Use-Agent-GUI)
+
+## 12 Mar
+
+**Openwebui Postgres Qdrant**
+
+Docker Compose for OpenWebUI + Postgres + Qdrant
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/OpenWebUI-Postgres-Qdrant)
+
+## 11 Mar
+
+**Lazy Awesome Lists**
+
+For when you're feeling inspired to make an awesome list but it all seems like so much work...
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Lazy-Awesome-Lists)
+
 ## 9 Mar
 
 **Artificial Intelligence Assistant Ideator**

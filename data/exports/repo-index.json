@@ -1,5 +1,101 @@
 [
   {
+    "name": "OpenWebUI-Model-Export-Converter",
+    "pretty_name": "Openwebui Model Export Converter",
+    "description": "Data processing script for converting manual JSON exports into parsed CSV data",
+    "url": "https://github.com/danielrosehill/OpenWebUI-Model-Export-Converter",
+    "is_fork": false,
+    "created_at": "2025-03-19T12:11:13Z"
+  },
+  {
+    "name": "Windsurf-Updater",
+    "pretty_name": "Windsurf Updater",
+    "description": "Stopgap and non-official utillity for updating Windsurf on non-Ubuntu Linux (Tarball installer)",
+    "url": "https://github.com/danielrosehill/Windsurf-Updater",
+    "is_fork": false,
+    "created_at": "2025-03-18T19:00:18Z"
+  },
+  {
+    "name": "Windsurf-Demo-Repo",
+    "pretty_name": "Windsurf Demo Repo",
+    "description": "Skeleton / model repo for using Windsurf for code generation (WIP)",
+    "url": "https://github.com/danielrosehill/Windsurf-Demo-Repo",
+    "is_fork": false,
+    "created_at": "2025-03-18T11:00:45Z"
+  },
+  {
+    "name": "Awesome-Self-Hosted-AI-Tools",
+    "pretty_name": "Awesome Self Hosted Artificial Intelligence Tools",
+    "description": "Great AI tools that can be self-hosted",
+    "url": "https://github.com/danielrosehill/Awesome-Self-Hosted-AI-Tools",
+    "is_fork": false,
+    "created_at": "2025-03-16T18:06:28Z"
+  },
+  {
+    "name": "My-AI-Stack",
+    "pretty_name": "My Artificial Intelligence Stack",
+    "description": "Periodically updated documentation about current AI stack/favorite components",
+    "url": "https://github.com/danielrosehill/My-AI-Stack",
+    "is_fork": false,
+    "created_at": "2025-03-14T15:26:40Z"
+  },
+  {
+    "name": "Linux-Whisper-Notepad-0325",
+    "pretty_name": "Linux Whisper Notepad 0325",
+    "description": "Notepad for Linux that uses OpenAI Whisper (API) and reformats dictated text",
+    "url": "https://github.com/danielrosehill/Linux-Whisper-Notepad-0325",
+    "is_fork": false,
+    "created_at": "2025-03-13T19:02:13Z"
+  },
+  {
+    "name": "AI-Dev-Prompts-Example",
+    "pretty_name": "Artificial Intelligence Dev Prompts Example",
+    "description": "Examples of AI prompts for code generation (Python GUI) and some notes on emerging \"best practices\"",
+    "url": "https://github.com/danielrosehill/AI-Dev-Prompts-Example",
+    "is_fork": false,
+    "created_at": "2025-03-13T16:37:34Z"
+  },
+  {
+    "name": "Docs-Grabber",
+    "pretty_name": "Docs Grabber",
+    "description": "A quick utility for grabbing docs from Github repos (use-case: providing context to AI tools)",
+    "url": "https://github.com/danielrosehill/Docs-Grabber",
+    "is_fork": false,
+    "created_at": "2025-03-13T15:58:03Z"
+  },
+  {
+    "name": "AutoGPT",
+    "pretty_name": "Autogpt",
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "url": "https://github.com/danielrosehill/AutoGPT",
+    "is_fork": true,
+    "created_at": "2025-03-13T13:40:07Z"
+  },
+  {
+    "name": "Browser-Use-Agent-GUI",
+    "pretty_name": "Browser Use Agent Gui",
+    "description": "Linux GUI for initiating and monitoring Browser Use with an exit switch",
+    "url": "https://github.com/danielrosehill/Browser-Use-Agent-GUI",
+    "is_fork": false,
+    "created_at": "2025-03-13T11:51:33Z"
+  },
+  {
+    "name": "OpenWebUI-Postgres-Qdrant",
+    "pretty_name": "Openwebui Postgres Qdrant",
+    "description": "Docker Compose for OpenWebUI + Postgres + Qdrant",
+    "url": "https://github.com/danielrosehill/OpenWebUI-Postgres-Qdrant",
+    "is_fork": false,
+    "created_at": "2025-03-12T10:29:42Z"
+  },
+  {
+    "name": "Lazy-Awesome-Lists",
+    "pretty_name": "Lazy Awesome Lists",
+    "description": "For when you're feeling inspired to make an awesome list but it all seems like so much work...",
+    "url": "https://github.com/danielrosehill/Lazy-Awesome-Lists",
+    "is_fork": false,
+    "created_at": "2025-03-11T19:54:17Z"
+  },
+  {
     "name": "AI-Assistant-Ideator",
     "pretty_name": "Artificial Intelligence Assistant Ideator",
     "description": "Streamlit app for ideating AI assisants",
