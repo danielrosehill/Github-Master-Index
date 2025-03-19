@@ -53,6 +53,8 @@ Stopgap and non-official utillity for updating Windsurf on non-Ubuntu Linux (Tar
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Windsurf-Updater)
 
+---
+
 **Windsurf Demo Repo**
 
 Skeleton / model repo for using Windsurf for code generation (WIP)
@@ -83,17 +85,23 @@ Notepad for Linux that uses OpenAI Whisper (API) and reformats dictated text
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Linux-Whisper-Notepad-0325)
 
+---
+
 **Artificial Intelligence Dev Prompts Example**
 
 Examples of AI prompts for code generation (Python GUI) and some notes on emerging "best practices"
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/AI-Dev-Prompts-Example)
 
+---
+
 **Docs Grabber**
 
 A quick utility for grabbing docs from Github repos (use-case: providing context to AI tools)
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Docs-Grabber)
+
+---
 
 **Autogpt**
 
@@ -102,6 +110,8 @@ AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our
 🔱 *This is a fork*
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/AutoGPT)
+
+---
 
 **Browser Use Agent Gui**
 
@@ -133,6 +143,8 @@ Streamlit app for ideating AI assisants
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/AI-Assistant-Ideator)
 
+---
+
 **Artificial Intelligence Assistant Builder**
 
 Streamlit app for honing system prompts for AI assistants
@@ -147,11 +159,15 @@ No description provided
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Open-Web-UI-Homebox-Tool)
 
+---
+
 **Context Chunker Assistant**
 
 A n interactive chatbot approach to chunking context data for embedding into RAG
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Context-Chunker-Assistant)
+
+---
 
 **Openwebui Hunter Tool**
 
@@ -175,17 +191,23 @@ Display frontend for system prompt library, 03-25
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/AI-Assistant-Library-Frontend)
 
+---
+
 **About Me**
 
 Because behind every Github profile is (hopefully) a human being!
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/About-Me)
 
+---
+
 **Jerusalem Tech Companies**
 
 Mapping tech companies in Jerusalem, Israel
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Jerusalem-Tech-Companies)
+
+---
 
 **Roo Code Docs**
 
@@ -195,6 +217,8 @@ This is the documentation for Roo Code (prev. Roo Cline), an AI-powered autonomo
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Roo-Code-Docs)
 
+---
+
 **Roo Code**
 
 Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.
@@ -203,17 +227,23 @@ Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code 
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Roo-Code)
 
+---
+
 **Token Bonfire Monitor**
 
 Do you enjoy watching money burn? JK. This is a utility for AI code-gen fiends trying to keep budget under control. OpenRouter monitoring.
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Token-Bonfire-Monitor)
 
+---
+
 **Markdown Keep Or Delete**
 
 No description provided
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Markdown-Keep-Or-Delete)
+
+---
 
 **Large Language Model Training Date Cutoffs**
 
@@ -229,17 +259,23 @@ Point in time export of system prompts in natural language (markdown)
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/AI-Assistant-System-Prompt-Library-0325-Export)
 
+---
+
 **Speech To Docs**
 
 WIP. Building on a successful POC Whisper notepad, an attempt to build on the idea.
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Speech-To-Docs)
 
+---
+
 **Dollar Software Genie**
 
 No description provided
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Dollar-Software-Genie)
+
+---
 
 **Linux Github Repo Launcher**
 
@@ -256,6 +292,8 @@ https://docs.openwebui.com
 🔱 *This is a fork*
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/openwebui-docs)
+
+---
 
 **Artificial Intelligence Docs Generator Gdrive**
 
@@ -281,6 +319,8 @@ Transcription notepad with cloud speech to text (STT) for Linux
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Whisper-Transcription-Notepad-Linux)
 
+---
+
 **Linux Whisper Notepad**
 
 A minimalist desktop notepad using OpenAI Whisper (via API)
@@ -294,6 +334,8 @@ A minimalist desktop notepad using OpenAI Whisper (via API)
 Personal bash alias library, public
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/My-Bash-Aliases)
+
+---
 
 **Speech to Text Price Points 260225**
 
@@ -317,6 +359,8 @@ Some system prompts intended to (attempt to) configure neutral behavior from LLM
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/General-System-Prompts)
 
+---
+
 **Homebox Desktop Wrapper Appimage**
 
 Linux Electron desktop wrapper for Homebox
@@ -338,6 +382,8 @@ Linux desktop application that provides a two-stage process for creating notes f
 A repository that indexes my Github projects
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Github-Master-Index)
+
+---
 
 **Reddit Posts**
 
@@ -369,6 +415,8 @@ Experiment:  two AI agents, each one thinks the other is a liar...
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Two-AIs-Talk)
 
+---
+
 **Open Webui**
 
 User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -385,6 +433,8 @@ A collection of system prompts for agents instructed to generate or edit system 
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/System-Prompt-Generation-Agent-Configs)
 
+---
+
 **Snap It**
 
 Simple GUI for taking on-demand Snapper snapshots
@@ -398,6 +448,8 @@ Simple GUI for taking on-demand Snapper snapshots
 Repo template for Cline / Roo Code AI dev with my docs-as-prompts approach!
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Cline-Roo-Code-Repo-Template)
+
+---
 
 **Artificial Intelligence Assistants**
 
@@ -413,11 +465,15 @@ Some custom mode-setting system prompts for Roo Code
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/RooCode-Mode-Prompts)
 
+---
+
 **Github Repo Pruner**
 
 Helps to discard old repositories from a local filesystem (for Linux)
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Github-Repo-Pruner)
+
+---
 
 **Homebox Ideas**
 
@@ -433,6 +489,8 @@ An ecosystem map of the AI agent and assistant building landscape in Feb 2025
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Awesome-AI-Agents-And-Assistants)
 
+---
+
 **Friendly Artificial Intelligence Exploration Bot**
 
 Configuration for an instructional tool for inquisitive AI students
@@ -446,6 +504,8 @@ Configuration for an instructional tool for inquisitive AI students
 Loads markdown documents into a folder
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/RAG-Markdown-Loader)
+
+---
 
 **Awesome Artificial Intelligence Subreddits**
 
@@ -493,6 +553,8 @@ Utility for quickly opening a Github repo on your computer
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Open-That-Repo)
 
+---
+
 **Artificial Intelligence Job Search Assistant Workflow**
 
 A chained agent workflow for job hunters (presented as a model)
@@ -515,17 +577,23 @@ AI assistant configuration for proviidng Home Front Command guidelines
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Israel-Preparedness-Guidelines-AI-Assistant)
 
+---
+
 **Israel To Row Salary Converter V2**
 
 V2 of Israel to ROW salary conversion utility (Streamlit)
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Israel-To-ROW-Salary-Converter-V2)
 
+---
+
 **Israeli Google Drive Accounting Doc Router**
 
 Routes accounting documents through Google Drive
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Israeli-Google-Drive-Accounting-Doc-Router)
+
+---
 
 **Google Drive Folder Scaffolding Builder**
 
@@ -541,11 +609,15 @@ Dual WA client for the Linux desktop (AI generated)
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Dual-WhatsApp-Linux-Desktop)
 
+---
+
 **Cline Website Creation Demo**
 
 Demonstration project for YouTube using referred prompts for development
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Cline-Website-Creation-Demo)
+
+---
 
 **Agentic Context Development Interview Demo**
 
@@ -560,6 +632,8 @@ Demonstration modelling how a chained LLM agent workflow could be used to expedi
 Index of development projects that were partially or fully developed using AI
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/AI-Generated-Projects-Index)
+
+---
 
 **Nfc Reader Writer App**
 
@@ -577,6 +651,8 @@ HA dashboards with Israel-specifc entities
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Home-Assistant-Israel-Dashboards)
 
+---
+
 **Weird Artificial Intelligence Bots**
 
 Some configurations for offbeat AI roleplay characters just for fun
@@ -590,6 +666,8 @@ Some configurations for offbeat AI roleplay characters just for fun
 Code snippets for Home Assistant dashboard elements
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Home-Assistant-YAML-Snippets)
+
+---
 
 **Home Assistant Shabbat Dashboard 0125**
 
@@ -605,11 +683,15 @@ Streamlit web UI for editing assistant configuration texts
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Assistant-Config-Editor)
 
+---
+
 **Large Language Model Assistants Web Library**
 
 A web UI for open-sourcing my assistant configurations (WIP)
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/LLM-Assistants-Web-Library)
+
+---
 
 **Personalised Artificial Intelligence Idea**
 
@@ -625,11 +707,15 @@ Template repository for version controlling AI assistant configurations (and ass
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/AI-Assistant-Template)
 
+---
+
 **Artificial Intelligence Assistants Index**
 
 Indexing repository nesting links to standalone repositories containing configurations for AI assistants & agents
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/AI-Assistants-Index)
+
+---
 
 **Assistant Configuration Improver**
 
@@ -677,6 +763,8 @@ A Docker Compose for Open Web UI with a few modifications
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/OpenWebUI-My-Docker-Compose)
 
+---
+
 **Better Hashnode Backups**
 
 Backups a Hashnode blog including the images from the CDN
@@ -699,6 +787,8 @@ AI platforms that market themselves as "second brains" (RAG + LLM). Usually: kno
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/AI-Second-Brain-Tools)
 
+---
+
 **My Artificial Intelligence Large Language Model Configs**
 
 Configurations for various models accessed via API
@@ -712,6 +802,8 @@ Configurations for various models accessed via API
 Prompts generating ideas for developing personal contextual knowledge storage vaults
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Personal-Context-Store-Ideation)
+
+---
 
 **Just Some Artificial Intelligence App Ideas**
 
@@ -743,6 +835,8 @@ A few useful speech to text tools that I've stumbled across including browser ex
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Awesome-STT-Tools)
 
+---
+
 **My Docker Compose Lib Private**
 
 No description provided
@@ -756,6 +850,8 @@ No description provided
 A versioned prompt just to find one tool! (Experimenting with prompt length and details provided to improve accuracy!)
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Task-Management-App-Prompt)
+
+---
 
 **Awesome Speech to Text Projects**
 
@@ -783,17 +879,23 @@ A few notes describing the kind of voice app for large language models I would l
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Voice-LLM-App-Notes)
 
+---
+
 **Public Or Private Repo Extension**
 
 WIP - VS Code Extension to notify users whether the repo they're working on is public or private
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Public-Or-Private-Repo-Extension)
 
+---
+
 **Deepgram Speech to Text Linux App**
 
 Work in progress - AI-assisted STT app for Linux desktop users
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Deepgram-STT-Linux-App)
+
+---
 
 **Gmail Search Strings**
 
@@ -809,6 +911,8 @@ Repository to demonstrate the "security through security" being currently implem
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Perplexity-Security-1224)
 
+---
+
 **Feature Ideas And Requests**
 
 General feature requests for tech tools that I use and love!
@@ -823,11 +927,15 @@ Character sketches for an AI character...
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Corn-The-Sloth-Public)
 
+---
+
 **Gvfd Explorer Chatbot V2**
 
 Chatbot supporting user discovery of the global value factors database
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/GVFD-Explorer-Chatbot-V2)
+
+---
 
 **Context Data Generation Bot**
 
@@ -842,6 +950,8 @@ Configuration for an AI assistant to generate personal contextual data (and inte
 Docs for a utility that pulls the readme page from OpenAI Python SDK documentation and formats it for a context snippet. 
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/My-OpenAI-Python-SDK-Helper)
+
+---
 
 **Openai Python**
 
@@ -867,6 +977,8 @@ Synthetic data containing personally identifiable information
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Mock-PII-Data)
 
+---
+
 **Global Value Factors Explorer Dataset**
 
 Derivative database of IFVI Global Value Factors for data analysis and visualization use cases. 
@@ -880,6 +992,8 @@ Derivative database of IFVI Global Value Factors for data analysis and visualiza
 Calculation tool for "monetising" companies' emissions at various proposed social cost of carbon values
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Emissions-Monetisation-Calculator)
+
+---
 
 **Prompt Puncutation Experiment**
 
@@ -902,6 +1016,8 @@ A model for routing contextual data into vector storage for use with LLMs
 Notes planning a personal contextual data pipeline
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Personal-Context-Vector-Pipeline)
+
+---
 
 **Bias Censorship Eval Tests**
 
@@ -943,6 +1059,8 @@ Every front-end GUI client for ChatGPT, Claude, and other LLMs
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/every-chatgpt-gui)
 
+---
+
 **Pdf Extract And Text to Speech**
 
 Streamlit app using Google Cloud APIs to extract core text from a PDF and perform TTS. For listening to long docs. API keys required.
@@ -965,11 +1083,15 @@ Coming soon, a minimalist local first tool for organizing and displaying a list 
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/LLM-API-Key-Manager)
 
+---
+
 **Artificial Intelligence Generated Project Starters**
 
 AI-generated project starters for anyone wishing to carry on the ideas!
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/AI-Generated-Project-Starters)
+
+---
 
 **My Calculators**
 
@@ -977,11 +1099,15 @@ Unit exchange calculators for calculations I commonly require
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/My-Calculators)
 
+---
+
 **Ghg Emissions Data Pipeline**
 
 Data pipeline repository supplying various data visualisation projects
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/GHG-Emissions-Data-Pipeline)
+
+---
 
 **Ghg Vs Ebitda V2**
 
@@ -997,11 +1123,15 @@ This repository serves as a master index linking to the various indices I have f
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Master-Index)
 
+---
+
 **Data Projects Index**
 
 Data apps and datasets deployed to Streamlit Community Cloud, Hugging Face, and elsewhere. 
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Data-Projects-Index)
+
+---
 
 **Sustainability Report Data Extractor**
 
@@ -1025,6 +1155,8 @@ Calculating monetised GHG emissions for various companies based upon disclosure 
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Monetised-GHG-Emissions)
 
+---
+
 **Ghg Ebitda Correlations**
 
 Streamlit data visualisation examining correlation between emissions & profitability
@@ -1047,6 +1179,8 @@ Quick list of  some LLM related apps with Linux desktop support (chat UIs, CLIs,
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Linux-Desktop-LLM-Apps)
 
+---
+
 **Eco Ninja 3**
 
 Configuration for an LLM assistant that performs analysis on sustainability data
@@ -1063,17 +1197,23 @@ Speech Note Linux app. Note taking, reading and translating with offline Speech 
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/dsnote)
 
+---
+
 **Prompt Builder**
 
 Work in progress. Assemble prompts based upon templated forms in the browser. 
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Prompt-Builder)
 
+---
+
 **Large Language Model Output Vault Parameters**
 
 Some parameteric data about my LLM output repository as it scales
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/LLM-Output-Vault-Parameters)
+
+---
 
 **Monetised Emissions V2**
 
@@ -1147,6 +1287,8 @@ Lists of resources and tools for prompt engineering and evaluation
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Prompt-Engineering-Resources)
 
+---
+
 **Local Github Repo Index Generator**
 
 Script to generate an index of the Github repos on your local / computer
@@ -1160,6 +1302,8 @@ Script to generate an index of the Github repos on your local / computer
 A list of projects I am working on
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Projects)
+
+---
 
 **Large Language Model Workflow Documentation**
 
@@ -1175,11 +1319,15 @@ First entry documentation repository for notes mostly unedited from LLMs
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/LLM-Output-Notes)
 
+---
+
 **Github Submodules Docs**
 
 A few personal notes jotted down for working with submodules in Github while trying to avoid going insane
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Github-Submodules-Docs)
+
+---
 
 **Docs Archive**
 
@@ -1187,11 +1335,15 @@ archived documentation gathered from different sources and centralized on this r
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Docs-Archive)
 
+---
+
 **Gists**
 
 Short tech notes (as in Github Gists, but versioned in a repo to sync them to a doc site)
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Gists)
+
+---
 
 **Ideas**
 
@@ -1199,17 +1351,23 @@ The first seedlings of ideas as they pop out of my head and onto the page/code e
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Ideas)
 
+---
+
 **Sustainability Reports Source**
 
 Source data and documentation for corporat sustainability disclosures/reporting
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Sustainability-Reports-Source)
 
+---
+
 **Gvfd Derivative Docs**
 
 Documentation for derivative database of IFVI Global Value Factors Database (GVFD)
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/GVFD-Derivative-Docs)
+
+---
 
 **Wiki**
 
@@ -1226,6 +1384,8 @@ Mkdocs plugin for generating navigation by directory structure
 🔱 *This is a fork*
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/mkdocs-gen-nav-plugin)
+
+---
 
 **My Principles Of Prompting**
 
@@ -1249,11 +1409,15 @@ Large language models (LLMs) explaining themselves - and how to make best use of
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/LLMs-on-LLMs)
 
+---
+
 **Large Language Model Experiment Notebook**
 
 Experiments in evaluating various prompting strategies and LLM performance generally
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/LLM-Experiment-Notebook)
+
+---
 
 **Librechat**
 
@@ -1278,6 +1442,8 @@ Some cost estimates for using LLMs via API versus web UI services (like ChatGPT)
 A few scripts for editing static sites built with the Hugo static site generator
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Hugo-Scripts)
+
+---
 
 **Prompts And Outputs**
 
@@ -1311,6 +1477,8 @@ Calculation simulation utility for monetised GHG emissions
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/GHG-Emissions-Monetisation-Calculator)
 
+---
+
 **Emissions Data Reports**
 
 A small selection of GHG emissions datapoints from various sources
@@ -1327,6 +1495,8 @@ A small selection of GHG emissions datapoints from various sources
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/My-LLM-KM-Idea)
 
+---
+
 **Test Markdown Docs**
 
 A few formatted markdown files for testing the real-time markdown rendering support of various knowledge management, note-taking and wiki tools
@@ -1341,11 +1511,15 @@ Loose markdown files documenting various early stage projects (ie, prototypes)
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Prototypes)
 
+---
+
 **My Thoughts On Tech**
 
 A first-entry notepad to jot down some notes that may be developed into blogs (or not). My philosophy and lens on everything from AI to backups.
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/My-Thoughts-On-Tech)
+
+---
 
 **Nuclino Notes Backup**
 
@@ -1360,6 +1534,8 @@ Backup utility for Nuclino via the API
 (Non-official) derivative version of IFVI Global Value Factors Database in JSON/GeoJSON to facilitate data analysis projects
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Global-Value-Factors-Explorer)
+
+---
 
 **Israel Geoinsights**
 
@@ -1401,11 +1577,15 @@ No description provided
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Example-LLM-Python-GUI-Build)
 
+---
+
 **Google Fonts Hebrew Downloader**
 
 A utility for downloading Hebrew fonts from Google Fonts using the API (needs a key)
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Google-Fonts-Hebrew-Downloader)
+
+---
 
 **Nice Hebrew Fonts**
 
@@ -1413,11 +1593,15 @@ A collection of Hebrew fonts from around the internet
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Nice-Hebrew-Fonts)
 
+---
+
 **Public Shelter Lists Israel**
 
 No description provided
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Public-Shelter-Lists-Israel)
+
+---
 
 **Israel News Monitor**
 
@@ -1443,6 +1627,8 @@ A context repo for experimenting with LLM models. A public version, so some info
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/My-LLM-Context-Repo-Public)
 
+---
+
 **Awesome Obsidian Artificial Intelligence Tools**
 
 Obsidian plugins focused on leveraging AI & LLMs inside of (and beyond) vaults
@@ -1456,6 +1642,8 @@ Obsidian plugins focused on leveraging AI & LLMs inside of (and beyond) vaults
 A GUI component for the Obsidian vault project. This saves prompts and outputs into the vault but doesn't integrate with an LLM API
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Obisidian-Prompt-Output-Saver-Local-Only)
+
+---
 
 **Obsidian Prompt Output Saver**
 
@@ -1478,6 +1666,8 @@ Simple backup GUI for my Obsidian vault for storing LLM artifacts (prompts, outp
 A quick scaffolding script for populating a repository with folders for organising prompts and outputs, as commonly required when working with LLMs
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/LLM-Workspace-Scaffolder)
+
+---
 
 **Openai Github Repo Index Creator**
 
@@ -1511,11 +1701,15 @@ A model/template for a custom GPT/LLM agent whose focus is on helping to ideate 
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Model-Idea-Refinement-GPT-Agent)
 
+---
+
 **Database Relationship Identifier Postgres**
 
 Utility that creates a human-readable manifest of the relationships contained in a Postgres database
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Database-Relationship-Identifier-Postgres)
+
+---
 
 **Output Hub Poc Seed**
 
@@ -1570,6 +1764,8 @@ A public notebook of some analytical work with datasets
 Utility for saving GPT outputs into an organised markdown repository
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/GPT-Repo-Utility)
+
+---
 
 **Generative Pre-trained Transformer To Pdf**
 
@@ -1629,6 +1825,8 @@ Scripts for scaffolding folder structures I commonly use
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Scaffolding-Scripts)
 
+---
+
 **Danielrosehill**
 
 Github homepage text
@@ -1643,11 +1841,15 @@ Scripts for creating taxonomies, mostly Python
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Taxonomy-Generators)
 
+---
+
 **Artificial Intelligence Generated Code Samples**
 
 Scripts and other programs generated with various LLMs. Sometimes they need refinement. Frequently they just work!
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/AI-Generated-Code-Samples)
+
+---
 
 **Shields Markdown Badges**
 
@@ -1655,17 +1857,23 @@ Markdown badges from the Shields.io project (the ones I like and use frequently)
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Shields-Markdown-Badges)
 
+---
+
 **Large Language Model Workspace Scaffolding**
 
 A folder structure (scaffold) for those employing systematic workflows for working with LLMs
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/LLM-Workspace-Scaffolding)
 
+---
+
 **My Scaffolding Templates**
 
 File structure templates for common projects. More specific templates sometimes have their own repository.
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/My-Scaffolding-Templates)
+
+---
 
 **Document Templates**
 
@@ -1681,11 +1889,15 @@ An improved translation of the Home Front Command instructions for finding emerg
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Israel-Rocket-Shelter-Guidelines)
 
+---
+
 **Custom Chat Generative Pre-trained Transformer Finder**
 
 Utility for identifying newly released custom ChatGPTs shared via the ChatGPT App Store
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Custom-Chat-GPT-Finder)
+
+---
 
 **Output Hub**
 
@@ -1693,11 +1905,15 @@ An admin application I'm developing for managing all aspects of working with LLM
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Output-Hub)
 
+---
+
 **Awesome Large Language Model Prompt Libraries**
 
 An index of prompting libraries for GPTs, including ChatGPT. Some of these are on Github and others are hosted externally.
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Awesome-LLM-Prompt-Libraries)
+
+---
 
 **Awesome Prompt Engineering**
 
@@ -1706,6 +1922,8 @@ This repository contains a hand-curated resources for Prompt Engineering with a 
 🔱 *This is a fork*
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Awesome-Prompt-Engineering)
+
+---
 
 **Awesome Chatgpt Prompts**
 
@@ -1722,6 +1940,8 @@ This repo includes ChatGPT prompt curation to use ChatGPT better.
 Tools, frameworks, and platforms for custom LLM agent creation, including AI workforces/fleets
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Custom-LLM-Agent-Platforms)
+
+---
 
 **Tampermonkey Scripts**
 
@@ -1745,11 +1965,15 @@ List of taxonomies generated with GPT for various purposes and open-sourced for 
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Random-Taxonomies)
 
+---
+
 **Large Language Model Use Case Self Ideation**
 
 LLM-generated documents describing potential use-cases for GPTs & other LLMs across both professional and business contexts with sections describing potential/predicted evolutions as underlying technology advances
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/LLM-Use-Case-Self-Ideation)
+
+---
 
 **Homebox**
 
@@ -1766,6 +1990,8 @@ A continuation of HomeBox the inventory and organization system built for the Ho
 Jerusalem public shelter locations extracted from ODBL licensed sources. Please do not rely upon these for your own preparedness efforts.
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Jerusalem-Public-Shelters)
+
+---
 
 **Opendefinition**
 
@@ -1800,6 +2026,8 @@ Great online communities discussing use of LLMs including (but not limited to) C
 A publicly accessible changelog of all my technical projects
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Daniel-Public-Changelog)
+
+---
 
 **Github Optimisation**
 
@@ -1865,6 +2093,8 @@ My personal homepage - based on the Milky Way Astro theme by Tristen Tomczak
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/PersonalHomepage)
 
+---
+
 **Astrostarter**
 
 A few spins on the Astro starter theme to demonstrate some capabilities that I like adding to this framework
@@ -1880,6 +2110,8 @@ A few spins on the Astro starter theme to demonstrate some capabilities that I l
 IDEs and development tools that work on one or multiple Linux distros. where possible details are noted like the supported distros, programming languages and more.   
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Awesome-Linux-IDEs)
+
+---
 
 **Minimal Awesome List Generator**
 
@@ -1993,17 +2225,23 @@ A homepage for my Github account. This page gives an overview of the projects I'
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Homepage)
 
+---
+
 **Impact Investing First Entry **
 
 A repository for hosting data about impact investing that is not covered by other more specific repositories here.
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Impact-Investing-First-Entry-)
 
+---
+
 **Outcomes Funds**
 
 Data analysis and visualisations performed on data from various sources tracking the establishment and progress of outcomes funds around the world.
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Outcomes-Funds)
+
+---
 
 **Impact Weighted Accounts Demo App**
 
@@ -2083,11 +2321,15 @@ Some markdown documentation for my own reference regarding different Cherry MX m
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/MechanicalKeyboards)
 
+---
+
 **Ubuntureinstallation**
 
 This repository will contain Bash scripts and other tools intended to automatically expedite the installation of my preferred system from stock Ubuntu. This should reflect the changes in the Ubuntu modifications repository which are intended to be applied manually. 
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/UbuntuReinstallation)
+
+---
 
 **Firstentrypublic**
 

@@ -58,7 +58,7 @@ def generate_timeline():
                 markdown_content += f"## {date}\n\n"
                 
                 # Add repositories for this date
-                for repo in timeline[year][month][date]:
+                for i, repo in enumerate(timeline[year][month][date]):
                     name = repo['pretty_name']
                     desc = repo['description']
                     url = repo['url']
@@ -71,6 +71,10 @@ def generate_timeline():
                     markdown_content += f"[![GitHub Repository]"
                     markdown_content += f"(https://img.shields.io/badge/GitHub-Repository-blue)]"
                     markdown_content += f"({url})\n\n"
+                    
+                    # Add horizontal line between repositories, but not after the last one in a date group
+                    if i < len(timeline[year][month][date]) - 1:
+                        markdown_content += "---\n\n"
 
     # Save the timeline
     with open('timeline.md', 'w', encoding='utf-8') as f:
