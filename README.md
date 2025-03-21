@@ -2,7 +2,7 @@
 
 ![Banner](banners/index.png)
 
-*Last updated: 2025-03-21 03:36:32*
+*Last updated: 2025-03-21 02:30:26*
 
 This is an automatically generated index of my public GitHub repositories.
 
@@ -72,4 +72,4 @@ For detailed API documentation and usage examples:
 - [Interactive API Documentation](https://danielrosehill.github.io/Github-Timeline/)
 - [API Usage Examples](examples/api-usage.md)
 
-The data is automatically updated daily at 2:00 AM UTC through GitHub Actions. For more information about the automated update process, see [Automated Updates Documentation](docs/automated-updates.md).
+The data is automatically updated whenever the repository is updated.
