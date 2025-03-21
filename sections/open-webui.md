@@ -27,8 +27,17 @@ Desktop NFC reader/writer GUI for the ACR1252U (validated with NTAG213 on Linux)
 ## Open Web Ui Homebox Tool [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Open-Web-UI-Homebox-Tool)
 No description provided
 
+## Open Web Ui Model Index Public [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Open-Web-UI-Model-Index-Public)
+An index of models that I have open-sourced on Open Web UI Community
+
 ## Openwebui Hunter Tool [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Openwebui-Hunter-Tool)
 No description provided
+
+## Openwebui My Docker Compose [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/OpenWebUI-My-Docker-Compose)
+A Docker Compose for Open Web UI with a few modifications
+
+## Openwebui Postgres Qdrant [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/OpenWebUI-Postgres-Qdrant)
+Docker Compose for OpenWebUI + Postgres + Qdrant
 
 ## Reddit Posts [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Reddit-Posts)
 Things I've posted on Reddit and which are copied here so that they can be ingested as context for various AI workflows
@@ -41,6 +50,9 @@ Simple GUI for taking on-demand Snapper snapshots
 
 ## Snippet Library [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Snippet-Library)
 Library of code snippets
+
+## System Prompt Factory [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/System-Prompt-Factory)
+A system prompt generation UI that combines model and user characteristics to generate more targeted (but still general) system prompts for LLMs
 
 ## Taxonomy Generators [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Taxonomy-Generators)
 Scripts for creating taxonomies, mostly Python

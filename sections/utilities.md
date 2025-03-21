@@ -1,5 +1,8 @@
 # Utilities Repositories
 
+## Github Notation [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Github-Notation)
+A shorthand system I use to organise repositories
+
 ## Github Repo Pruner [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Github-Repo-Pruner)
 Helps to discard old repositories from a local filesystem (for Linux)
 
@@ -11,6 +14,12 @@ Builds date/year folder scaffolding in Drive folders (with App Scripts)
 
 ## Local Github Repo Index Generator [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Local-Github-Repo-Index-Generator)
 Script to generate an index of the Github repos on your local / computer
+
+## My Bash Aliases [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/My-Bash-Aliases)
+Personal bash alias library, public
+
+## My Calculators [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/My-Calculators)
+Unit exchange calculators for calculations I commonly require
 
 ## Openai Github Repo Index Creator [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/OpenAI-Github-Repo-Index-Creator)
 Simple script for creating a Github index using the OpenAI API
@@ -26,4 +35,7 @@ Scripts for scaffolding folder structures I commonly use
 
 ## Tampermonkey Scripts [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Tampermonkey-Scripts)
 Tampermonkey scripts for browser automation tasks
+
+## Windsurf Updater [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Windsurf-Updater)
+Stopgap and non-official utillity for updating Windsurf on non-Ubuntu Linux (Tarball installer)
 

@@ -90,6 +90,12 @@ Configuration for an instructional tool for inquisitive AI students
 ## Fun Large Language Model Data Prompts [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Fun-LLM-Data-Prompts)
 As prompting fro data analysis & vis is quite specific, a small side collection of prompts for this purpose
 
+## Github To Openwebui Context Pipeline [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Github-To-OpenWebUI-Context-Pipeline)
+Model data pipeline from a Github repository to Open Web UI knowledge using actions
+
+## Gpt_python [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/GPT_Python)
+ChatGPT-generated Python scripts for various purposes
+
 ## Israel Preparedness Guidelines Artificial Intelligence Assistant [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Israel-Preparedness-Guidelines-AI-Assistant)
 AI assistant configuration for proviidng Home Front Command guidelines
 
@@ -144,8 +150,14 @@ A context repo for experimenting with LLM models. A public version, so some info
 ## My Principles Of Prompting [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/My-Principles-Of-Prompting)
 A small and opinionated repository of my thoughts about prompting LLMs to maximise their utility for specific use-cases
 
+## Open Web Ui Model Index Public [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Open-Web-UI-Model-Index-Public)
+An index of models that I have open-sourced on Open Web UI Community
+
 ## Openwebui Prompt Library [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/OpenWebUI-Prompt-Library)
 A selection of prompts designed for use with Open Web UI (rather than conventional prompts, they're more useful for steering existing conversations)
+
+## Perplexity Security 1224 [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Perplexity-Security-1224)
+Repository to demonstrate the "security through security" being currently implemented
 
 ## Personal Artificial Intelligence Agent Development Template [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Personal-AI-Agent-Development-Template)
 A model template/skeleton for creating personalised LLM agents

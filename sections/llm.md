@@ -12,6 +12,9 @@ Repo template for Cline / Roo Code AI dev with my docs-as-prompts approach!
 ## Cline Website Creation Demo [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Cline-Website-Creation-Demo)
 Demonstration project for YouTube using referred prompts for development
 
+## Context Chunker Assistant [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Context-Chunker-Assistant)
+A n interactive chatbot approach to chunking context data for embedding into RAG
+
 ## Custom Large Language Model Agent Platforms [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Custom-LLM-Agent-Platforms)
 Tools, frameworks, and platforms for custom LLM agent creation, including AI workforces/fleets
 
@@ -29,6 +32,9 @@ Data apps and datasets deployed to Streamlit Community Cloud, Hugging Face, and 
 
 ## Data Relationships Helper [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Data-Relationships-Helper)
 Utility for helping users understand the classic data relationships in RDMSs (M2M, O2M, M2O etc)
+
+## General System Prompts [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/General-System-Prompts)
+Some system prompts intended to (attempt to) configure neutral behavior from LLMs
 
 ## Large Language Model Api Key Manager [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/LLM-API-Key-Manager)
 Coming soon, a minimalist local first tool for organizing and displaying a list of API keys for large language models that can be accessed this way. 
@@ -68,4 +74,7 @@ A quick scaffolding script for populating a repository with folders for organisi
 
 ## Llms On Llms [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/LLMs-on-LLMs)
 Large language models (LLMs) explaining themselves - and how to make best use of them (prompt engineering). Often insightful, though accuracy not guaranteed!
+
+## Open Web Ui Model Index Public [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Open-Web-UI-Model-Index-Public)
+An index of models that I have open-sourced on Open Web UI Community
 

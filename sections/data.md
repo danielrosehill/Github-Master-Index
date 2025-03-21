@@ -18,6 +18,9 @@ A small selection of GHG emissions datapoints from various sources
 ## Ghg Emissions Data Pipeline [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/GHG-Emissions-Data-Pipeline)
 Data pipeline repository supplying various data visualisation projects
 
+## Github To Openwebui Context Pipeline [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Github-To-OpenWebUI-Context-Pipeline)
+Model data pipeline from a Github repository to Open Web UI knowledge using actions
+
 ## Global Value Factors Explorer Dataset [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Global-Value-Factors-Explorer-Dataset)
 Derivative database of IFVI Global Value Factors for data analysis and visualization use cases. 
 

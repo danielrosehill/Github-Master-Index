@@ -15,6 +15,9 @@ Periodically updated markdown documentation summarizing manual / non-programmati
 ## Daniel S Workstation Backup Genie [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Daniel-s-Workstation-Backup-Genie)
 A Claude-developed, me-prompted incremental BTRFS backup utility with hardcoded serial number verification on the target device
 
+## Homepage [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Homepage)
+A homepage for my Github account. This page gives an overview of the projects I'm working on and sharing on Github.
+
 ## Large Language Model Obsidian Vault Backup Utility [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/LLM-Obsidian-Vault-Backup-Utility)
 Simple backup GUI for my Obsidian vault for storing LLM artifacts (prompts, outputs, agent configs)
 

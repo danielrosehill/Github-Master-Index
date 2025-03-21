@@ -1,5 +1,8 @@
 # Prompt-engineering Repositories
 
+## Artificial Intelligence Dev Prompts Example [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Dev-Prompts-Example)
+Examples of AI prompts for code generation (Python GUI) and some notes on emerging "best practices"
+
 ## Awesome Prompt Engineering [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Awesome-Prompt-Engineering)
 This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc 
 
@@ -50,4 +53,10 @@ Work in progress - AI-assisted STT app for Linux desktop users
 
 ## Demo Github Repo Cleaner Utility [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Demo-Github-Repo-Cleaner-Utility)
 Demo repo for a YouTube video to share some thoughts about prompting for code generation.
+
+## General System Prompts [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/General-System-Prompts)
+Some system prompts intended to (attempt to) configure neutral behavior from LLMs
+
+## Mr David Rosen [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Mr-David-Rosen)
+An LLM-generated alias to explore contextually guided prompting strategies
 

@@ -24,6 +24,9 @@ A few small learning projects intended at developing very simple GUIs for Fedora
 ## Linux Desktop Large Language Model Apps [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Linux-Desktop-LLM-Apps)
 Quick list of  some LLM related apps with Linux desktop support (chat UIs, CLIs, wrappers, etc)
 
+## Linux Whisper Notepad 0325 [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Linux-Whisper-Notepad-0325)
+Notepad for Linux that uses OpenAI Whisper (API) and reformats dictated text
+
 ## Opensuse Config Backup Tool [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/OpenSUSE-Config-Backup-Tool)
 Some scripts for backing up OpenSUSE package lists for expedited reprovisioning
 
@@ -44,4 +47,7 @@ This repository will contain Bash scripts and other tools intended to automatica
 
 ## Usb Foot Mouse Linux [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/USB-Foot-Mouse-Linux)
 Documentation for getting a cheap USB HID foot mouse to work on Linux
+
+## Windsurf Updater [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Windsurf-Updater)
+Stopgap and non-official utillity for updating Windsurf on non-Ubuntu Linux (Tarball installer)
 
