@@ -3,3 +3,10 @@ Github-Repo-Index
 Github-Repo-Pruner
 Local-Github-Repo-Index-Generator
 OpenAI-Github-Repo-Index-Creator
+Github-Repo-Indexer-Gemini
+Docs-Grabber
+Lazy-Awesome-Lists
+Linux-Github-Repo-Launcher
+Github-Master-Index
+Shields-Markdown-Badges
+Github-Optimisation

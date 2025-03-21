@@ -1,0 +1,152 @@
+{
+  "timestamp": "2025-03-21T04:34:15.935903",
+  "new_categories": [
+    "hebrew-fonts"
+  ],
+  "entity_categories": {},
+  "changes_made": [
+    "Created new category: hebrew-fonts",
+    "Added Prototypes to category prototypes",
+    "Added Global-Value-Factors-Explorer to category data-processing",
+    "Added LLM-Prompt-Extraction-GUI to category llm-frontend",
+    "Added Google-Fonts-Hebrew-Downloader to category developer-utilities",
+    "Added Nice-Hebrew-Fonts to category hebrew-fonts",
+    "Added Output-Hub-POC-Seed to category data-processing",
+    "Added GPT-Repo-Utility to category llm-tools",
+    "Added GPT-Repo-Utility to category data-processing",
+    "Added GPT-Repo-Utility to category prompt-libraries",
+    "Added GPT-To-PDF to category text-processing",
+    "Added GPT-To-PDF to category gui-utilities",
+    "Added GPT-To-PDF to category python",
+    "Added danielrosehill to category ai-interests",
+    "Added danielrosehill to category github-profile",
+    "Added Shields-Markdown-Badges to category github-tools"
+  ],
+  "categorization_results": {
+    "Prototypes": [
+      {
+        "name": "prototypes",
+        "confidence": 100,
+        "explanation": "The repository contains loose markdown files documenting various early stage projects, which are essentially prototypes.",
+        "is_new": false,
+        "is_entity": false
+      }
+    ],
+    "Global-Value-Factors-Explorer": [
+      {
+        "name": "data-processing",
+        "confidence": 90,
+        "explanation": "The repository contains a dataset in JSON/GeoJSON format for data analysis projects, indicating a focus on processing data.",
+        "is_new": false,
+        "is_entity": false
+      }
+    ],
+    "LLM-Prompt-Extraction-GUI": [
+      {
+        "name": "llm-frontend",
+        "confidence": 90,
+        "explanation": "The repository involves a GUI for extracting prompts from LLM outputs, which aligns with the purpose of LLM frontend tools.",
+        "is_new": false,
+        "is_entity": false
+      }
+    ],
+    "Google-Fonts-Hebrew-Downloader": [
+      {
+        "name": "developer-utilities",
+        "confidence": 90,
+        "explanation": "The repository is a utility for downloading Google Fonts, which falls under developer utilities.",
+        "is_new": false,
+        "is_entity": false
+      }
+    ],
+    "Nice-Hebrew-Fonts": [
+      {
+        "name": "hebrew-fonts",
+        "confidence": 100,
+        "explanation": "The repository contains a collection of Hebrew fonts, making it suitable for this category.",
+        "is_new": true,
+        "is_entity": false
+      }
+    ],
+    "Output-Hub-POC-Seed": [
+      {
+        "name": "data-processing",
+        "confidence": 80,
+        "explanation": "The repository seeds a relational database structure, indicating involvement in data processing.",
+        "is_new": false,
+        "is_entity": false
+      }
+    ],
+    "GPT-Repo-Utility": [
+      {
+        "name": "llm-tools",
+        "confidence": 90,
+        "explanation": "This repository provides a utility for saving GPT outputs, which aligns with the purpose of tools related to Large Language Models (LLMs).",
+        "is_new": false,
+        "is_entity": false
+      },
+      {
+        "name": "data-processing",
+        "confidence": 85,
+        "explanation": "The repository involves organizing and storing outputs of GPT interactions, which falls under the realm of data processing.",
+        "is_new": false,
+        "is_entity": false
+      },
+      {
+        "name": "prompt-libraries",
+        "confidence": 80,
+        "explanation": "The 'Prompts' component in the repository serves as a prompt library for retaining prompts for future use, fitting the prompt libraries category.",
+        "is_new": false,
+        "is_entity": false
+      }
+    ],
+    "GPT-To-PDF": [
+      {
+        "name": "text-processing",
+        "confidence": 90,
+        "explanation": "The repository involves text conversion utility using GPT, which falls under text processing.",
+        "is_new": false,
+        "is_entity": false
+      },
+      {
+        "name": "gui-utilities",
+        "confidence": 85,
+        "explanation": "The repository provides a GUI for text conversion to PDF, making it a GUI utility.",
+        "is_new": false,
+        "is_entity": false
+      },
+      {
+        "name": "python",
+        "confidence": 80,
+        "explanation": "The repository contains Python code for the conversion utility.",
+        "is_new": false,
+        "is_entity": false
+      }
+    ],
+    "danielrosehill": [
+      {
+        "name": "ai-interests",
+        "confidence": 100,
+        "explanation": "The repository focuses on AI interests, including RAG pipelines and agents.",
+        "is_new": false,
+        "is_entity": false
+      },
+      {
+        "name": "github-profile",
+        "confidence": 90,
+        "explanation": "The repository serves as a GitHub profile for Daniel Rosehill.",
+        "is_new": false,
+        "is_entity": false
+      }
+    ],
+    "Shields-Markdown-Badges": [
+      {
+        "name": "github-tools",
+        "confidence": 90,
+        "explanation": "The repository contains markdown badges from Shields.io, which are tools commonly used on GitHub.",
+        "is_new": false,
+        "is_entity": false
+      }
+    ]
+  }
+}

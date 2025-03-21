@@ -21,3 +21,6 @@ LLM-Outputs
 LLM-Use-Case-Self-Ideation
 LLM-Workspace-Scaffolder
 LLMs-on-LLMs
+Open-Web-UI-Model-Index-Public
+Context-Chunker-Assistant
+General-System-Prompts

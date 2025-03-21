@@ -13,3 +13,5 @@ UbuntuBackupStrategy
 UbuntuBugResolution
 UbuntuModifications
 UbuntuReinstallation
+Windsurf-Updater
+Linux-Whisper-Notepad-0325

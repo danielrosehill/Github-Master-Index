@@ -1,2 +1,0 @@
-# One repository name per line (without .git extension)
-Agentic-Context-Development-Interview-Demo

@@ -10,3 +10,7 @@ Prompt-Puncutation-Experiment
 Prompts-And-Outputs
 RooCode-Mode-Prompts
 awesome-chatgpt-prompts
+System-Prompt-Factory
+Environmental-Data---AI-Assistants
+GPT-Repo-Utility
+Output-Hub

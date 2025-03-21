@@ -1,0 +1,181 @@
+{
+  "timestamp": "2025-03-21T04:32:03.956290",
+  "new_categories": [],
+  "entity_categories": {},
+  "changes_made": [
+    "Added Dollar-Software-Genie to category ai-tools",
+    "Added Dollar-Software-Genie to category code-generation",
+    "Added Dollar-Software-Genie to category openai-api",
+    "Added Dollar-Software-Genie to category llm-frontend",
+    "Added Linux-Github-Repo-Launcher to category github-tools",
+    "Added Linux-Github-Repo-Launcher to category python",
+    "Added is_remote_friendly to category data-processing",
+    "Added My-Bash-Aliases to category utilities",
+    "Added STT-Price-Points-260225 to category speech-to-text",
+    "Added System-Prompt-Factory to category llm-apis",
+    "Added System-Prompt-Factory to category prompt-libraries",
+    "Added System-Prompt-Factory to category open-webui",
+    "Added General-System-Prompts to category llm",
+    "Added General-System-Prompts to category prompt-engineering",
+    "Added Thought-Pad to category speech-to-text",
+    "Added Thought-Pad to category gpt",
+    "Added Thought-Pad to category markdown-export",
+    "Added Github-Master-Index to category github-tools",
+    "Added Open-That-Repo to category developer-utilities"
+  ],
+  "categorization_results": {
+    "Dollar-Software-Genie": [
+      {
+        "name": "ai-tools",
+        "confidence": 90,
+        "explanation": "The repository involves generating software ideas using AI code generation tools.",
+        "is_new": false,
+        "is_entity": false
+      },
+      {
+        "name": "code-generation",
+        "confidence": 90,
+        "explanation": "The repository focuses on generating complete code implementations based on software ideas.",
+        "is_new": false,
+        "is_entity": false
+      },
+      {
+        "name": "openai-api",
+        "confidence": 90,
+        "explanation": "The repository utilizes the OpenAI API for generating ideas and code implementations.",
+        "is_new": false,
+        "is_entity": true
+      },
+      {
+        "name": "llm-frontend",
+        "confidence": 80,
+        "explanation": "The repository involves frontend interactions with Large Language Models (LLMs) for generating software ideas and code.",
+        "is_new": false,
+        "is_entity": false
+      }
+    ],
+    "Linux-Github-Repo-Launcher": [
+      {
+        "name": "github-tools",
+        "confidence": 90,
+        "explanation": "The repository is a utility for browsing and launching GitHub repositories, fitting the GitHub tools category.",
+        "is_new": false,
+        "is_entity": false
+      },
+      {
+        "name": "python",
+        "confidence": 80,
+        "explanation": "The utility is built with Python, making it relevant to the Python category.",
+        "is_new": false,
+        "is_entity": false
+      }
+    ],
+    "is_remote_friendly": [
+      {
+        "name": "data-processing",
+        "confidence": 90,
+        "explanation": "The repository deals with processing data related to categorizing companies' variations of 'remote friendliness'.",
+        "is_new": false,
+        "is_entity": false
+      }
+    ],
+    "My-Bash-Aliases": [
+      {
+        "name": "utilities",
+        "confidence": 90,
+        "explanation": "The repository contains bash aliases for terminal operations, fitting the utilities category.",
+        "is_new": false,
+        "is_entity": false
+      }
+    ],
+    "STT-Price-Points-260225": [
+      {
+        "name": "speech-to-text",
+        "confidence": 100,
+        "explanation": "The repository focuses on comparing pricing information of various Speech-to-Text API providers.",
+        "is_new": false,
+        "is_entity": false
+      }
+    ],
+    "System-Prompt-Factory": [
+      {
+        "name": "llm-apis",
+        "confidence": 90,
+        "explanation": "The repository involves generating system prompts for LLMs, which likely involves interacting with LLM APIs.",
+        "is_new": false,
+        "is_entity": false
+      },
+      {
+        "name": "prompt-libraries",
+        "confidence": 85,
+        "explanation": "The repository focuses on generating system prompts, which can be considered as part of prompt libraries for LLMs.",
+        "is_new": false,
+        "is_entity": false
+      },
+      {
+        "name": "open-webui",
+        "confidence": 80,
+        "explanation": "The repository provides a web interface for generating system prompts, aligning with the concept of OpenWebUI.",
+        "is_new": false,
+        "is_entity": true
+      }
+    ],
+    "General-System-Prompts": [
+      {
+        "name": "llm",
+        "confidence": 100,
+        "explanation": "The repository focuses on system prompts for LLMs, indicating a direct relevance to Large Language Models.",
+        "is_new": false,
+        "is_entity": false
+      },
+      {
+        "name": "prompt-engineering",
+        "confidence": 95,
+        "explanation": "The repository is specifically about creating system prompts, aligning well with the field of prompt engineering.",
+        "is_new": false,
+        "is_entity": false
+      }
+    ],
+    "Thought-Pad": [
+      {
+        "name": "speech-to-text",
+        "confidence": 95,
+        "explanation": "The repository involves speech-to-text functionality using OpenAI's models.",
+        "is_new": false,
+        "is_entity": false
+      },
+      {
+        "name": "gpt",
+        "confidence": 90,
+        "explanation": "Utilizes GPT 3.5 for text formatting.",
+        "is_new": false,
+        "is_entity": true
+      },
+      {
+        "name": "markdown-export",
+        "confidence": 80,
+        "explanation": "Exports content to markdown files.",
+        "is_new": false,
+        "is_entity": false
+      }
+    ],
+    "Github-Master-Index": [
+      {
+        "name": "github-tools",
+        "confidence": 90,
+        "explanation": "The repository serves as an index for other GitHub projects, which aligns with the purpose of GitHub tools category.",
+        "is_new": false,
+        "is_entity": false
+      }
+    ],
+    "Open-That-Repo": [
+      {
+        "name": "developer-utilities",
+        "confidence": 95,
+        "explanation": "The repository provides a utility for developers to quickly locate and open local Git repositories, fitting the developer utilities category.",
+        "is_new": false,
+        "is_entity": false
+      }
+    ]
+  }
+}

@@ -7,3 +7,7 @@ Postgres-Utilities
 Public-Or-Private-Repo-Extension
 Scaffolding-Scripts
 Tampermonkey-Scripts
+Github-Notation
+Windsurf-Updater
+My-Bash-Aliases
+My-Calculators

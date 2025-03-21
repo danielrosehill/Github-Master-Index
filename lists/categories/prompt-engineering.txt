@@ -15,3 +15,6 @@ Data-Relationships-Helper
 Database-Relationship-Identifier-Postgres
 Deepgram-STT-Linux-App
 Demo-Github-Repo-Cleaner-Utility
+AI-Dev-Prompts-Example
+General-System-Prompts
+Mr-David-Rosen

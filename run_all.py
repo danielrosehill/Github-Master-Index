@@ -42,13 +42,15 @@ def run_git_commands():
         print(f"   Unexpected error during Git operations: {e}")
         return False
 
-def run_all(incremental=False, push_to_git=False):
+def run_all(incremental=False, push_to_git=False, use_llm=False, apply_llm_changes=False):
     """
     Run the complete GitHub Timeline generation process.
     
     Args:
         incremental (bool): If True, only update if data is older than threshold
         push_to_git (bool): If True, push changes to Git repository after running
+        use_llm (bool): If True, use LLM for repository categorization
+        apply_llm_changes (bool): If True, apply LLM category suggestions automatically
     """
     print(f"Starting GitHub Timeline generation... (Mode: {'Incremental' if incremental else 'Full'})")
     
@@ -72,23 +74,34 @@ def run_all(incremental=False, push_to_git=False):
         csv_creator = import_from_file("scripts/csv-creator.py")
         csv_creator.save_timeline_csv(timeline_data)
 
-    print("\n3. Generating repository status data...")
+    # Run LLM categorization if requested
+    if use_llm:
+        print("\n3. Running LLM-based repository categorization...")
+        llm_categorizer = import_from_file("scripts/llm_categorizer.py")
+        llm_categorizer.categorize_repositories(
+            json_path="data/exports/repo-index.json",
+            apply_changes=apply_llm_changes,
+            min_confidence=70
+        )
+        print(f"   LLM categorization completed (apply_changes={apply_llm_changes})")
+
+    print("\n4. Generating repository status data...")
     status_badges = import_from_file("scripts/status_badges.py")
     status_badges.generate_status_badges()
 
-    print("\n4. Generating chronological timeline...")
+    print("\n5. Generating chronological timeline...")
     timeline_generator = import_from_file("scripts/timeline_generator.py")
     timeline_generator.generate_timeline()
 
-    print("\n5. Generating category markdown files...")
+    print("\n6. Generating category markdown files...")
     markdown_generator = import_from_file("scripts/markdown_generator.py")
     markdown_generator.generate_markdown_files('data/exports/repo-index.json', 'lists/categories')
     
-    print("\n6. Enhancing section files with status badges and language info...")
+    print("\n7. Enhancing section files with status badges and language info...")
     section_enhancer = import_from_file("scripts/section_enhancer.py")
     section_enhancer.enhance_section_files()
     
-    print("\n7. Generating README.md...")
+    print("\n8. Generating README.md...")
     readme_builder = import_from_file("scripts/readme-builder.py")
     readme_builder.generate_readme()
     
@@ -133,9 +146,11 @@ if __name__ == "__main__":
     # Parse command line arguments
     incremental = "--incremental" in sys.argv
     push_to_git = "--push" in sys.argv or "--git" in sys.argv
+    use_llm = "--llm" in sys.argv
+    apply_llm_changes = "--apply-llm" in sys.argv
     
     # If no arguments are provided, assume full run with git push
     if len(sys.argv) == 1:
         push_to_git = True
     
-    run_all(incremental, push_to_git)
+    run_all(incremental, push_to_git, use_llm, apply_llm_changes)

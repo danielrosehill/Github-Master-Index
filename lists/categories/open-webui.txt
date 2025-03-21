@@ -14,3 +14,7 @@ Snap-It
 Snippet-Library
 Taxonomy-Generators
 Whisper-Transcription-Notepad-Linux
+Open-Web-UI-Model-Index-Public
+OpenWebUI-Postgres-Qdrant
+System-Prompt-Factory
+OpenWebUI-My-Docker-Compose

@@ -1,0 +1,11 @@
+Interesting-Tech-Things
+Windsurf-Demo-Repo
+Awesome-Self-Hosted-AI-Tools
+Docs-Grabber
+Lazy-Awesome-Lists
+Context-Chunker-Assistant
+About-Me
+Dollar-Software-Genie
+Corn-The-Sloth-Public
+My-OpenAI-Python-SDK-Helper
+Custom-Chat-GPT-Finder

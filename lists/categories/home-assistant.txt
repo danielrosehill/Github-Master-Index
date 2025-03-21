@@ -6,3 +6,4 @@ Home-Assistant-Smoke-Alarm-Config
 Home-Assistant-YAML-Snippets
 Home-Assistant-YomTov-Shabbat-0125
 Home-Assistant-snippets
+MakoletTime

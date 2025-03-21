@@ -1,0 +1,213 @@
+{
+  "timestamp": "2025-03-21T04:22:06.812853",
+  "new_categories": [],
+  "entity_categories": {},
+  "changes_made": [
+    "Added Docs-Grabber to category ai-tools",
+    "Added Docs-Grabber to category code-generation",
+    "Added Docs-Grabber to category github-tools",
+    "Added Browser-Use-Agent-GUI to category ai-agents",
+    "Added Browser-Use-Agent-GUI to category llm-apis",
+    "Added Browser-Use-Agent-GUI to category gui-utilities",
+    "Added OpenWebUI-Postgres-Qdrant to category open-webui",
+    "Added OpenWebUI-Postgres-Qdrant to category docker",
+    "Added OpenWebUI-Postgres-Qdrant to category postgres",
+    "Added Lazy-Awesome-Lists to category ai-tools",
+    "Added Lazy-Awesome-Lists to category github-tools",
+    "Added Context-Chunker-Assistant to category ai-tools",
+    "Added Context-Chunker-Assistant to category llm",
+    "Added Context-Chunker-Assistant to category ai-agents",
+    "Added Open-WebUI-Backups to category cloud-backup",
+    "Added Open-WebUI-Backups to category automation",
+    "Added About-Me to category llm-projects",
+    "Added About-Me to category ai-tools",
+    "Added About-Me to category contextual-data-mining",
+    "Added Jerusalem-Tech-Companies to category data-processing",
+    "Added Markdown-Keep-Or-Delete to category python",
+    "Added Markdown-Keep-Or-Delete to category gui-utilities",
+    "Added Speech-To-Docs to category speech-to-text"
+  ],
+  "categorization_results": {
+    "Docs-Grabber": [
+      {
+        "name": "ai-tools",
+        "confidence": 100,
+        "explanation": "The repository provides a utility for grabbing documentation from GitHub repositories to create contextual information for AI tools.",
+        "is_new": false,
+        "is_entity": false
+      },
+      {
+        "name": "code-generation",
+        "confidence": 95,
+        "explanation": "The repository focuses on generating AI instructions files with metadata from documentation grabbed from GitHub repositories, aligning with code generation utilities.",
+        "is_new": false,
+        "is_entity": false
+      },
+      {
+        "name": "github-tools",
+        "confidence": 90,
+        "explanation": "The repository involves interacting with GitHub repositories to extract documentation, making it relevant to GitHub tools.",
+        "is_new": false,
+        "is_entity": false
+      }
+    ],
+    "Browser-Use-Agent-GUI": [
+      {
+        "name": "ai-agents",
+        "confidence": 95,
+        "explanation": "The repository involves creating an agent for controlling a web browser using an LLM, which falls under the category of AI agents.",
+        "is_new": false,
+        "is_entity": false
+      },
+      {
+        "name": "llm-apis",
+        "confidence": 90,
+        "explanation": "The repository interacts with an LLM through APIs, specifically for controlling a web browser, making it relevant to LLM APIs.",
+        "is_new": false,
+        "is_entity": false
+      },
+      {
+        "name": "gui-utilities",
+        "confidence": 85,
+        "explanation": "The repository provides a GUI utility for initiating and monitoring browser use, fitting into the category of GUI utilities.",
+        "is_new": false,
+        "is_entity": false
+      }
+    ],
+    "OpenWebUI-Postgres-Qdrant": [
+      {
+        "name": "open-webui",
+        "confidence": 100,
+        "explanation": "The repository is specifically related to OpenWebUI, including Docker Compose setup with Postgres and Qdrant.",
+        "is_new": false,
+        "is_entity": true
+      },
+      {
+        "name": "docker",
+        "confidence": 90,
+        "explanation": "The repository involves Docker Compose setup for OpenWebUI, Postgres, and Qdrant.",
+        "is_new": false,
+        "is_entity": false
+      },
+      {
+        "name": "postgres",
+        "confidence": 90,
+        "explanation": "Involves setting up Postgres as part of the OpenWebUI stack.",
+        "is_new": false,
+        "is_entity": false
+      }
+    ],
+    "Lazy-Awesome-Lists": [
+      {
+        "name": "ai-tools",
+        "confidence": 90,
+        "explanation": "The repository is a CLI tool for creating and editing awesome lists using AI assistance.",
+        "is_new": false,
+        "is_entity": false
+      },
+      {
+        "name": "github-tools",
+        "confidence": 85,
+        "explanation": "Focused on creating and editing GitHub awesome lists, falls under tools for GitHub.",
+        "is_new": false,
+        "is_entity": false
+      }
+    ],
+    "Context-Chunker-Assistant": [
+      {
+        "name": "ai-tools",
+        "confidence": 100,
+        "explanation": "The repository is focused on providing a specialized AI system prompt for chunking context data for embedding into RAG, aligning with the purpose of AI tools category.",
+        "is_new": false,
+        "is_entity": false
+      },
+      {
+        "name": "llm",
+        "confidence": 100,
+        "explanation": "The repository involves working with context data for embedding into RAG, which is a task related to Large Language Models (LLMs).",
+        "is_new": false,
+        "is_entity": false
+      },
+      {
+        "name": "ai-agents",
+        "confidence": 90,
+        "explanation": "The repository deals with an interactive chatbot approach for chunking context data, which can be considered as an AI agent performing tasks autonomously.",
+        "is_new": false,
+        "is_entity": false
+      }
+    ],
+    "Open-WebUI-Backups": [
+      {
+        "name": "cloud-backup",
+        "confidence": 100,
+        "explanation": "The repository provides a script for backing up an Open Web UI instance to remote storage solutions like B2, S3, etc., focusing on cloud backup strategies.",
+        "is_new": false,
+        "is_entity": false
+      },
+      {
+        "name": "automation",
+        "confidence": 90,
+        "explanation": "The repository automates the backup process for Open Web UI instances, emphasizing automation in managing backups.",
+        "is_new": false,
+        "is_entity": false
+      }
+    ],
+    "About-Me": [
+      {
+        "name": "llm-projects",
+        "confidence": 95,
+        "explanation": "The repository focuses on Large Language Models (LLMs) and their applications.",
+        "is_new": false,
+        "is_entity": false
+      },
+      {
+        "name": "ai-tools",
+        "confidence": 90,
+        "explanation": "The repository discusses AI tools and their usage in various contexts.",
+        "is_new": false,
+        "is_entity": false
+      },
+      {
+        "name": "contextual-data-mining",
+        "confidence": 85,
+        "explanation": "The repository involves mining contextual data for AI applications.",
+        "is_new": false,
+        "is_entity": true
+      }
+    ],
+    "Jerusalem-Tech-Companies": [
+      {
+        "name": "data-processing",
+        "confidence": 80,
+        "explanation": "The repository involves mapping tech companies in Jerusalem, which likely involves processing data related to these companies.",
+        "is_new": false,
+        "is_entity": false
+      }
+    ],
+    "Markdown-Keep-Or-Delete": [
+      {
+        "name": "python",
+        "confidence": 90,
+        "explanation": "The repository is written in Python and utilizes Python libraries.",
+        "is_new": false,
+        "is_entity": false
+      },
+      {
+        "name": "gui-utilities",
+        "confidence": 85,
+        "explanation": "The repository provides a GUI utility for reviewing markdown files.",
+        "is_new": false,
+        "is_entity": false
+      }
+    ],
+    "Speech-To-Docs": [
+      {
+        "name": "speech-to-text",
+        "confidence": 100,
+        "explanation": "The repository likely focuses on converting speech to text, aligning with the name 'Speech-To-Docs'",
+        "is_new": false,
+        "is_entity": false
+      }
+    ]
+  }
+}

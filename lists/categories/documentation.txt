@@ -2,3 +2,5 @@ Docs-Archive
 Document-Templates
 How-To-Guides
 LLM-Workflow-Documentation
+Daniels-Take-On
+MechanicalKeyboards

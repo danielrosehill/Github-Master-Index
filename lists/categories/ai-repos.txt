@@ -64,3 +64,7 @@ System-Prompt-Generation-Agent-Configs
 Voice-Assistant-Agent-Platforms
 Weird-AI-Bots
 awesome-chatgpt-prompts
+Github-To-OpenWebUI-Context-Pipeline
+Open-Web-UI-Model-Index-Public
+Perplexity-Security-1224
+GPT_Python
