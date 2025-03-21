@@ -72,4 +72,4 @@ For detailed API documentation and usage examples:
 - [Interactive API Documentation](https://danielrosehill.github.io/Github-Timeline/)
 - [API Usage Examples](examples/api-usage.md)
 
-The data is automatically updated whenever the repository is updated.
+The data is automatically updated daily at 2:00 AM UTC through GitHub Actions. For more information about the automated update process, see [Automated Updates Documentation](docs/automated-updates.md).

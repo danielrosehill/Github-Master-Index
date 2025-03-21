@@ -2,6 +2,7 @@ import importlib.util
 import sys
 import os
 import time
+import subprocess
 from datetime import datetime
 
 def import_from_file(file_path):
@@ -11,12 +12,43 @@ def import_from_file(file_path):
     spec.loader.exec_module(module)
     return module
 
-def run_all(incremental=False):
+def run_git_commands():
+    """
+    Run git commands to add, commit, and push changes.
+    Returns True if successful, False otherwise.
+    """
+    try:
+        print("\n8. Pushing changes to Git repository...")
+        
+        # Add all changes
+        print("   Running 'git add .'...")
+        subprocess.run(["git", "add", "."], check=True)
+        
+        # Commit changes with timestamp
+        commit_message = f"Updated {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
+        print(f"   Running 'git commit -m \"{commit_message}\"'...")
+        subprocess.run(["git", "commit", "-m", commit_message], check=True)
+        
+        # Push changes
+        print("   Running 'git push'...")
+        subprocess.run(["git", "push"], check=True)
+        
+        print("   Git operations completed successfully!")
+        return True
+    except subprocess.CalledProcessError as e:
+        print(f"   Error during Git operations: {e}")
+        return False
+    except Exception as e:
+        print(f"   Unexpected error during Git operations: {e}")
+        return False
+
+def run_all(incremental=False, push_to_git=False):
     """
     Run the complete GitHub Timeline generation process.
     
     Args:
         incremental (bool): If True, only update if data is older than threshold
+        push_to_git (bool): If True, push changes to Git repository after running
     """
     print(f"Starting GitHub Timeline generation... (Mode: {'Incremental' if incremental else 'Full'})")
     
@@ -63,6 +95,10 @@ def run_all(incremental=False):
     # Update the last run timestamp
     update_timestamp()
     
+    # Push changes to Git if requested
+    if push_to_git:
+        run_git_commands()
+    
     print("\nAll operations completed!")
 
 def should_skip_update():
@@ -94,6 +130,12 @@ def update_timestamp():
         f.write(str(time.time()))
 
 if __name__ == "__main__":
-    # Check if incremental flag is passed
+    # Parse command line arguments
     incremental = "--incremental" in sys.argv
-    run_all(incremental)
+    push_to_git = "--push" in sys.argv or "--git" in sys.argv
+    
+    # If no arguments are provided, assume full run with git push
+    if len(sys.argv) == 1:
+        push_to_git = True
+    
+    run_all(incremental, push_to_git)
