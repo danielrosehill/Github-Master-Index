@@ -51,6 +51,9 @@ https://docs.openwebui.com
 ## Osi Data Import [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/osi-data-import)
 Data import tools for OSI
 
+## Owui Cookbook [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/owui-cookbook)
+we're cooking
+
 ## Pikud Haoref Api [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/pikud-haoref-api)
 A Node.js wrapper library for Pikud Haoref's unofficial rocket alert API.
 

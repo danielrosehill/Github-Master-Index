@@ -37,7 +37,57 @@
 
 # March 2025 <a id='2025-march'></a>
 
+## 21 Mar
+
+**Owui Cookbook**
+
+we're cooking
+
+🔱 *This is a fork*
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/owui-cookbook)
+
+## 20 Mar
+
+**Github To Openwebui Context Pipeline**
+
+Model data pipeline from a Github repository to Open Web UI knowledge using actions
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Github-To-OpenWebUI-Context-Pipeline)
+
+---
+
+**Open Web Ui Model Index Public**
+
+An index of models that I have open-sourced on Open Web UI Community
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Open-Web-UI-Model-Index-Public)
+
 ## 19 Mar
+
+**Interesting Tech Things**
+
+A personal (and open-source) backlog of tech projects to check out
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Interesting-Tech-Things)
+
+---
+
+**Github Repo Indexer Gemini**
+
+Uses Gemini and Github API to retrieve and organise Github repos
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Github-Repo-Indexer-Gemini)
+
+---
+
+**Github Notation**
+
+A shorthand system I use to organise repositories
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Github-Notation)
+
+---
 
 **Openwebui Model Export Converter**
 
@@ -56,6 +106,8 @@ Stopgap and non-official utillity for updating Windsurf on non-Ubuntu Linux (Tar
 ---
 
 **Windsurf Demo Repo**
+
+![Work in Progress](https://img.shields.io/badge/WIP-FCD34D?style=flat-square)
 
 Skeleton / model repo for using Windsurf for code generation (WIP)
 
@@ -80,6 +132,8 @@ Periodically updated documentation about current AI stack/favorite components
 ## 13 Mar
 
 **Linux Whisper Notepad 0325**
+
+![Work in Progress](https://img.shields.io/badge/WIP-FCD34D?style=flat-square)
 
 Notepad for Linux that uses OpenAI Whisper (API) and reformats dictated text
 
@@ -163,6 +217,8 @@ No description provided
 
 **Context Chunker Assistant**
 
+![One-Time Project](https://img.shields.io/badge/One_Time-10B981?style=flat-square)
+
 A n interactive chatbot approach to chunking context data for embedding into RAG
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Context-Chunker-Assistant)
@@ -229,27 +285,11 @@ Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code 
 
 ---
 
-**Token Bonfire Monitor**
-
-Do you enjoy watching money burn? JK. This is a utility for AI code-gen fiends trying to keep budget under control. OpenRouter monitoring.
-
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Token-Bonfire-Monitor)
-
----
-
 **Markdown Keep Or Delete**
 
 No description provided
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Markdown-Keep-Or-Delete)
-
----
-
-**Large Language Model Training Date Cutoffs**
-
-A few datapoints for personal reference
-
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/LLM-Training-Date-Cutoffs)
 
 ## 3 Mar
 
@@ -485,6 +525,8 @@ Tracking repo for some ideas for improving Homebox that I'm going to try develop
 
 **Awesome Artificial Intelligence Agents And Assistants**
 
+![AI Generated](https://img.shields.io/badge/AI_Generated-5A67D8?style=flat-square)
+
 An ecosystem map of the AI agent and assistant building landscape in Feb 2025
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Awesome-AI-Agents-And-Assistants)
@@ -628,6 +670,8 @@ Demonstration modelling how a chained LLM agent workflow could be used to expedi
 ## 1 Feb
 
 **Artificial Intelligence Generated Projects Index**
+
+![AI Generated](https://img.shields.io/badge/AI_Generated-5A67D8?style=flat-square)
 
 Index of development projects that were partially or fully developed using AI
 
@@ -1070,6 +1114,8 @@ Streamlit app using Google Cloud APIs to extract core text from a PDF and perfor
 ## 10 Dec
 
 **Large Language Model Long Codegen Test**
+
+⚠️ **Abandoned**
 
 Experiment to evaluate the ability of code-gen LLMs to generate a long continuous (single) output
 
@@ -1523,6 +1569,8 @@ A first-entry notepad to jot down some notes that may be developed into blogs (o
 
 **Nuclino Notes Backup**
 
+⏸️ **Abandoned For Now**
+
 Backup utility for Nuclino via the API
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Nuclino-Notes-Backup)
@@ -1812,6 +1860,8 @@ A few small learning projects intended at developing very simple GUIs for Fedora
 ## 12 Aug
 
 **Snippet Library**
+
+⏸️ **Abandoned For Now**
 
 Library of code snippets
 
@@ -2414,6 +2464,8 @@ Github Repository
 ## 9 Dec
 
 **Misc**
+
+🗄️ **Archived**
 
 Miscellaneous project files
 

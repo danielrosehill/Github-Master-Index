@@ -1,4 +1,10 @@
 name,pretty_name,description,url,is_fork,created_at
+owui-cookbook,Owui Cookbook,we're cooking,https://github.com/danielrosehill/owui-cookbook,True,2025-03-21T00:11:05Z
+Github-To-OpenWebUI-Context-Pipeline,Github To Openwebui Context Pipeline,Model data pipeline from a Github repository to Open Web UI knowledge using actions,https://github.com/danielrosehill/Github-To-OpenWebUI-Context-Pipeline,False,2025-03-20T23:37:22Z
+Open-Web-UI-Model-Index-Public,Open Web Ui Model Index Public,An index of models that I have open-sourced on Open Web UI Community,https://github.com/danielrosehill/Open-Web-UI-Model-Index-Public,False,2025-03-20T16:36:19Z
+Interesting-Tech-Things,Interesting Tech Things,A personal (and open-source) backlog of tech projects to check out,https://github.com/danielrosehill/Interesting-Tech-Things,False,2025-03-19T17:42:32Z
+Github-Repo-Indexer-Gemini,Github Repo Indexer Gemini,Uses Gemini and Github API to retrieve and organise Github repos,https://github.com/danielrosehill/Github-Repo-Indexer-Gemini,False,2025-03-19T14:00:12Z
+Github-Notation,Github Notation,A shorthand system I use to organise repositories,https://github.com/danielrosehill/Github-Notation,False,2025-03-19T12:54:49Z
 OpenWebUI-Model-Export-Converter,Openwebui Model Export Converter,Data processing script for converting manual JSON exports into parsed CSV data,https://github.com/danielrosehill/OpenWebUI-Model-Export-Converter,False,2025-03-19T12:11:13Z
 Windsurf-Updater,Windsurf Updater,Stopgap and non-official utillity for updating Windsurf on non-Ubuntu Linux (Tarball installer),https://github.com/danielrosehill/Windsurf-Updater,False,2025-03-18T19:00:18Z
 Windsurf-Demo-Repo,Windsurf Demo Repo,Skeleton / model repo for using Windsurf for code generation (WIP),https://github.com/danielrosehill/Windsurf-Demo-Repo,False,2025-03-18T11:00:45Z
@@ -22,9 +28,7 @@ About-Me,About Me,Because behind every Github profile is (hopefully) a human bei
 Jerusalem-Tech-Companies,Jerusalem Tech Companies,"Mapping tech companies in Jerusalem, Israel",https://github.com/danielrosehill/Jerusalem-Tech-Companies,False,2025-03-04T12:51:08Z
 Roo-Code-Docs,Roo Code Docs,"This is the documentation for Roo Code (prev. Roo Cline), an AI-powered autonomous coding agent that lives in your editor.",https://github.com/danielrosehill/Roo-Code-Docs,True,2025-03-04T12:37:10Z
 Roo-Code,Roo Code,Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.,https://github.com/danielrosehill/Roo-Code,True,2025-03-04T12:32:45Z
-Token-Bonfire-Monitor,Token Bonfire Monitor,Do you enjoy watching money burn? JK. This is a utility for AI code-gen fiends trying to keep budget under control. OpenRouter monitoring.,https://github.com/danielrosehill/Token-Bonfire-Monitor,False,2025-03-04T09:29:32Z
 Markdown-Keep-Or-Delete,Markdown Keep Or Delete,No description provided,https://github.com/danielrosehill/Markdown-Keep-Or-Delete,False,2025-03-04T01:44:47Z
-LLM-Training-Date-Cutoffs,Large Language Model Training Date Cutoffs,A few datapoints for personal reference,https://github.com/danielrosehill/LLM-Training-Date-Cutoffs,False,2025-03-04T00:13:12Z
 AI-Assistant-System-Prompt-Library-0325-Export,Artificial Intelligence Assistant System Prompt Library 0325 Export,Point in time export of system prompts in natural language (markdown),https://github.com/danielrosehill/AI-Assistant-System-Prompt-Library-0325-Export,False,2025-03-03T20:40:35Z
 Speech-To-Docs,Speech To Docs,"WIP. Building on a successful POC Whisper notepad, an attempt to build on the idea.",https://github.com/danielrosehill/Speech-To-Docs,False,2025-03-03T20:05:56Z
 Dollar-Software-Genie,Dollar Software Genie,No description provided,https://github.com/danielrosehill/Dollar-Software-Genie,False,2025-03-03T02:55:56Z

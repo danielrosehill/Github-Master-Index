@@ -17,6 +17,7 @@ openai-python
 opendefinition
 openwebui-docs
 osi-data-import
+owui-cookbook
 pikud-haoref-api
 refine-public-mods
 twofactorauth

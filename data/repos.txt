@@ -86,10 +86,13 @@ General-System-Prompts
 Gists
 Github-Ideas-And-FRs
 Github-Master-Index
+Github-Notation
 Github-Optimisation
 Github-Repo-Index
+Github-Repo-Indexer-Gemini
 Github-Repo-Pruner
 Github-Submodules-Docs
+Github-To-OpenWebUI-Context-Pipeline
 Global-Value-Factors-Explorer
 Global-Value-Factors-Explorer-Dataset
 Gmail-Search-Strings
@@ -115,6 +118,7 @@ Impact-Weighted-Accounts-Demo-App
 ImpactDBPipeline
 ImpactInvestingData
 ImpactWeightedAccounts
+Interesting-Tech-Things
 Israel-GeoInsights
 Israel-News-Monitor
 Israel-Preparedness-Guidelines-AI-Assistant
@@ -138,7 +142,6 @@ LLM-Output-Notes
 LLM-Output-Vault-Parameters
 LLM-Outputs
 LLM-Prompt-Extraction-GUI
-LLM-Training-Date-Cutoffs
 LLM-Use-Case-Self-Ideation
 LLM-Workflow-Documentation
 LLM-Workspace-Scaffolder
@@ -188,6 +191,7 @@ Obisidian-Prompt-Output-Saver-Local-Only
 Obsidian-Prompt-Output-Saver
 Open-That-Repo
 Open-Web-UI-Homebox-Tool
+Open-Web-UI-Model-Index-Public
 Open-WebUI-Backups
 OpenAI-Github-Repo-Index-Creator
 OpenSUSE-Config-Backup-Tool
@@ -247,7 +251,6 @@ Tech-Ideas
 Test-Markdown-Docs
 Testing-Repo-Public
 Thought-Pad
-Token-Bonfire-Monitor
 Tool-Searches
 Two-AIs-Talk
 USB-Foot-Mouse-Linux
@@ -282,6 +285,7 @@ openai-python
 opendefinition
 openwebui-docs
 osi-data-import
+owui-cookbook
 pikud-haoref-api
 refine-public-mods
 twofactorauth

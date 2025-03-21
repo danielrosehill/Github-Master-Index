@@ -1,4 +1,34 @@
 {
+  "owui-cookbook": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Github-To-OpenWebUI-Context-Pipeline": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Open-Web-UI-Model-Index-Public": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Interesting-Tech-Things": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Github-Repo-Indexer-Gemini": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Github-Notation": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
   "OpenWebUI-Model-Export-Converter": {
     "status": "inactive",
     "last_updated_days": 999,
@@ -114,17 +144,7 @@
     "last_updated_days": 999,
     "language": "Unknown"
   },
-  "Token-Bonfire-Monitor": {
-    "status": "inactive",
-    "last_updated_days": 999,
-    "language": "Unknown"
-  },
   "Markdown-Keep-Or-Delete": {
-    "status": "inactive",
-    "last_updated_days": 999,
-    "language": "Unknown"
-  },
-  "LLM-Training-Date-Cutoffs": {
     "status": "inactive",
     "last_updated_days": 999,
     "language": "Unknown"

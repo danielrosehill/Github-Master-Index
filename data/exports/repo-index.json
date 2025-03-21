@@ -1,5 +1,53 @@
 [
   {
+    "name": "owui-cookbook",
+    "pretty_name": "Owui Cookbook",
+    "description": "we're cooking",
+    "url": "https://github.com/danielrosehill/owui-cookbook",
+    "is_fork": true,
+    "created_at": "2025-03-21T00:11:05Z"
+  },
+  {
+    "name": "Github-To-OpenWebUI-Context-Pipeline",
+    "pretty_name": "Github To Openwebui Context Pipeline",
+    "description": "Model data pipeline from a Github repository to Open Web UI knowledge using actions",
+    "url": "https://github.com/danielrosehill/Github-To-OpenWebUI-Context-Pipeline",
+    "is_fork": false,
+    "created_at": "2025-03-20T23:37:22Z"
+  },
+  {
+    "name": "Open-Web-UI-Model-Index-Public",
+    "pretty_name": "Open Web Ui Model Index Public",
+    "description": "An index of models that I have open-sourced on Open Web UI Community",
+    "url": "https://github.com/danielrosehill/Open-Web-UI-Model-Index-Public",
+    "is_fork": false,
+    "created_at": "2025-03-20T16:36:19Z"
+  },
+  {
+    "name": "Interesting-Tech-Things",
+    "pretty_name": "Interesting Tech Things",
+    "description": "A personal (and open-source) backlog of tech projects to check out",
+    "url": "https://github.com/danielrosehill/Interesting-Tech-Things",
+    "is_fork": false,
+    "created_at": "2025-03-19T17:42:32Z"
+  },
+  {
+    "name": "Github-Repo-Indexer-Gemini",
+    "pretty_name": "Github Repo Indexer Gemini",
+    "description": "Uses Gemini and Github API to retrieve and organise Github repos",
+    "url": "https://github.com/danielrosehill/Github-Repo-Indexer-Gemini",
+    "is_fork": false,
+    "created_at": "2025-03-19T14:00:12Z"
+  },
+  {
+    "name": "Github-Notation",
+    "pretty_name": "Github Notation",
+    "description": "A shorthand system I use to organise repositories",
+    "url": "https://github.com/danielrosehill/Github-Notation",
+    "is_fork": false,
+    "created_at": "2025-03-19T12:54:49Z"
+  },
+  {
     "name": "OpenWebUI-Model-Export-Converter",
     "pretty_name": "Openwebui Model Export Converter",
     "description": "Data processing script for converting manual JSON exports into parsed CSV data",
@@ -184,28 +232,12 @@
     "created_at": "2025-03-04T12:32:45Z"
   },
   {
-    "name": "Token-Bonfire-Monitor",
-    "pretty_name": "Token Bonfire Monitor",
-    "description": "Do you enjoy watching money burn? JK. This is a utility for AI code-gen fiends trying to keep budget under control. OpenRouter monitoring.",
-    "url": "https://github.com/danielrosehill/Token-Bonfire-Monitor",
-    "is_fork": false,
-    "created_at": "2025-03-04T09:29:32Z"
-  },
-  {
     "name": "Markdown-Keep-Or-Delete",
     "pretty_name": "Markdown Keep Or Delete",
     "description": "No description provided",
     "url": "https://github.com/danielrosehill/Markdown-Keep-Or-Delete",
     "is_fork": false,
     "created_at": "2025-03-04T01:44:47Z"
-  },
-  {
-    "name": "LLM-Training-Date-Cutoffs",
-    "pretty_name": "Large Language Model Training Date Cutoffs",
-    "description": "A few datapoints for personal reference",
-    "url": "https://github.com/danielrosehill/LLM-Training-Date-Cutoffs",
-    "is_fork": false,
-    "created_at": "2025-03-04T00:13:12Z"
   },
   {
     "name": "AI-Assistant-System-Prompt-Library-0325-Export",
