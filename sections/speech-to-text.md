@@ -1,8 +1,5 @@
 # Speech-to-text Repositories
 
-## Linux Whisper Notepad 0325 [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Linux-Whisper-Notepad-0325)
-Notepad for Linux that uses OpenAI Whisper (API) and reformats dictated text
-
 ## Speech To Docs [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Speech-To-Docs)
 WIP. Building on a successful POC Whisper notepad, an attempt to build on the idea.
 

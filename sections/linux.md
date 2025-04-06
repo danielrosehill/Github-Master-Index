@@ -24,9 +24,6 @@ A few small learning projects intended at developing very simple GUIs for Fedora
 ## Linux Desktop Large Language Model Apps [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Linux-Desktop-LLM-Apps)
 Quick list of  some LLM related apps with Linux desktop support (chat UIs, CLIs, wrappers, etc)
 
-## Linux Whisper Notepad 0325 [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Linux-Whisper-Notepad-0325)
-Notepad for Linux that uses OpenAI Whisper (API) and reformats dictated text
-
 ## Opensuse Config Backup Tool [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/OpenSUSE-Config-Backup-Tool)
 Some scripts for backing up OpenSUSE package lists for expedited reprovisioning
 

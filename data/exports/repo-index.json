@@ -1,5 +1,245 @@
 [
   {
+    "name": "Prompt-Engineering-Assistants-System-Prompts",
+    "pretty_name": "Prompt Engineering Assistants System Prompts",
+    "description": "System prompts for AI assistants designed to assist with various aspects of prompt engineering",
+    "url": "https://github.com/danielrosehill/Prompt-Engineering-Assistants-System-Prompts",
+    "is_fork": false,
+    "created_at": "2025-04-06T12:26:24Z"
+  },
+  {
+    "name": "AI-Orchestration-System-Prompts",
+    "pretty_name": "Artificial Intelligence Orchestration System Prompts",
+    "description": "System prompts for AI assistants designed to orchestrate access to other agents",
+    "url": "https://github.com/danielrosehill/AI-Orchestration-System-Prompts",
+    "is_fork": false,
+    "created_at": "2025-04-06T10:37:03Z"
+  },
+  {
+    "name": "Jewish-Interest-MCP-Projects",
+    "pretty_name": "Jewish Interest Mcp Projects",
+    "description": "Some MCP (model context protocol) servers which might be of interest to Jewish users",
+    "url": "https://github.com/danielrosehill/Jewish-Interest-MCP-Projects",
+    "is_fork": false,
+    "created_at": "2025-04-05T21:26:23Z"
+  },
+  {
+    "name": "Deep-Research-Projects-0425",
+    "pretty_name": "Deep Research Projects 0425",
+    "description": "A collection of links to a few AI \"deep research\" projects and agents, April 2025",
+    "url": "https://github.com/danielrosehill/Deep-Research-Projects-0425",
+    "is_fork": false,
+    "created_at": "2025-04-05T21:02:12Z"
+  },
+  {
+    "name": "Remote-Jobs-Research-Agent",
+    "pretty_name": "Remote Jobs Research Agent",
+    "description": "Company research agent targeted towards the needs of remote job seekers sourcing detailed information about company backgrounds as well as remote-specific information",
+    "url": "https://github.com/danielrosehill/Remote-Jobs-Research-Agent",
+    "is_fork": false,
+    "created_at": "2025-04-04T17:02:11Z"
+  },
+  {
+    "name": "Structured-Gemini-Prompts",
+    "pretty_name": "Structured Gemini Prompts",
+    "description": "A couple of examples of using Gemini 2.5 with structured outputs in Google AI Studio in order to conduct document analysis. ",
+    "url": "https://github.com/danielrosehill/Structured-Gemini-Prompts",
+    "is_fork": false,
+    "created_at": "2025-04-03T17:45:49Z"
+  },
+  {
+    "name": "Perplexity-API-Tests-020425",
+    "pretty_name": "Perplexity Api Tests 020425",
+    "description": "Quick test prompts to compare respones against various Sonar API endpoints",
+    "url": "https://github.com/danielrosehill/Perplexity-API-Tests-020425",
+    "is_fork": false,
+    "created_at": "2025-04-02T16:41:22Z"
+  },
+  {
+    "name": "AI-Agent-Workspace-Spec-310325",
+    "pretty_name": "Artificial Intelligence Agent Workspace Spec 310325",
+    "description": "Description of my current AI \"agent\" workspace, challenges, plans",
+    "url": "https://github.com/danielrosehill/AI-Agent-Workspace-Spec-310325",
+    "is_fork": false,
+    "created_at": "2025-03-31T18:30:53Z"
+  },
+  {
+    "name": "Gemini-2.5-Max-Output-Tokens-Test",
+    "pretty_name": "Gemini 2.5 Max Output Tokens Test",
+    "description": "Testing out Gemini 2.5's purported ginormous max output tokens limit...",
+    "url": "https://github.com/danielrosehill/Gemini-2.5-Max-Output-Tokens-Test",
+    "is_fork": false,
+    "created_at": "2025-03-31T00:43:21Z"
+  },
+  {
+    "name": "OWUI-Docker-Compose-Generation-Agent",
+    "pretty_name": "Owui Docker Compose Generation Agent",
+    "description": "Agent for generating custom Docker Compose files for Open Web UI",
+    "url": "https://github.com/danielrosehill/OWUI-Docker-Compose-Generation-Agent",
+    "is_fork": false,
+    "created_at": "2025-03-30T16:38:40Z"
+  },
+  {
+    "name": "Whisper-Notepad-Simple",
+    "pretty_name": "Whisper Notepad Simple",
+    "description": "A Linux desktop utility for converting speech to text using the OpenAI Whisper API",
+    "url": "https://github.com/danielrosehill/Whisper-Notepad-Simple",
+    "is_fork": false,
+    "created_at": "2025-03-30T11:39:49Z"
+  },
+  {
+    "name": "You-Might-Like-Agent",
+    "pretty_name": "You Might Like Agent",
+    "description": "CLI that generates batches of curated recommendations for movies, books, podcasts, etc",
+    "url": "https://github.com/danielrosehill/You-Might-Like-Agent",
+    "is_fork": false,
+    "created_at": "2025-03-30T11:32:42Z"
+  },
+  {
+    "name": "Voice-Notepad-With-Transformations",
+    "pretty_name": "Voice Notepad With Transformations",
+    "description": "Linux voice notepad (latest version) with text transformations in addition to STT",
+    "url": "https://github.com/danielrosehill/Voice-Notepad-With-Transformations",
+    "is_fork": false,
+    "created_at": "2025-03-29T15:39:04Z"
+  },
+  {
+    "name": "AI-Assistant-Ideator-Streamlit",
+    "pretty_name": "Artificial Intelligence Assistant Ideator Streamlit",
+    "description": "Streamlit implementation for an AI \"self-ideation\" utility",
+    "url": "https://github.com/danielrosehill/AI-Assistant-Ideator-Streamlit",
+    "is_fork": false,
+    "created_at": "2025-03-29T14:50:56Z"
+  },
+  {
+    "name": "Assistant-Self-Ideation-280325",
+    "pretty_name": "Assistant Self Ideation 280325",
+    "description": "AI assistant \"self-ideation\" run",
+    "url": "https://github.com/danielrosehill/Assistant-Self-Ideation-280325",
+    "is_fork": false,
+    "created_at": "2025-03-28T13:09:43Z"
+  },
+  {
+    "name": "Ollama-Ideation-UI",
+    "pretty_name": "Ollama Ideation Ui",
+    "description": "Desktop app for running batch \"ideation\" prompts with a local LLM",
+    "url": "https://github.com/danielrosehill/Ollama-Ideation-UI",
+    "is_fork": false,
+    "created_at": "2025-03-28T05:27:07Z"
+  },
+  {
+    "name": "OpenWebUI-Bulk-Model-Updater",
+    "pretty_name": "Openwebui Bulk Model Updater",
+    "description": "Python script for applying bulk updates to models in Open Web UI, changing the base model ID to a preferred value",
+    "url": "https://github.com/danielrosehill/OpenWebUI-Bulk-Model-Updater",
+    "is_fork": false,
+    "created_at": "2025-03-28T04:17:22Z"
+  },
+  {
+    "name": "System-Prompts-For-System-Prompt-Generation",
+    "pretty_name": "System Prompts For System Prompt Generation",
+    "description": "System prompts for using AI tools to generate and improve system prompts",
+    "url": "https://github.com/danielrosehill/System-Prompts-For-System-Prompt-Generation",
+    "is_fork": false,
+    "created_at": "2025-03-26T18:52:44Z"
+  },
+  {
+    "name": "AI-Agent-Ideation-Chatbot-System-Prompt",
+    "pretty_name": "Artificial Intelligence Agent Ideation Chatbot System Prompt",
+    "description": "System prompt (03/25) for a conversational AI agent and assistant idea generator",
+    "url": "https://github.com/danielrosehill/AI-Agent-Ideation-Chatbot-System-Prompt",
+    "is_fork": false,
+    "created_at": "2025-03-26T18:31:06Z"
+  },
+  {
+    "name": "Research-System-Prompts",
+    "pretty_name": "Research System Prompts",
+    "description": "System prompts for research purposes",
+    "url": "https://github.com/danielrosehill/Research-System-Prompts",
+    "is_fork": false,
+    "created_at": "2025-03-26T17:33:20Z"
+  },
+  {
+    "name": "Voice-Prompt-Editor",
+    "pretty_name": "Voice Prompt Editor",
+    "description": "Streamlit app for capturing and editing prompts and system prompts",
+    "url": "https://github.com/danielrosehill/Voice-Prompt-Editor",
+    "is_fork": false,
+    "created_at": "2025-03-25T13:11:33Z"
+  },
+  {
+    "name": "AI-Text-Rewriting-Toolbox",
+    "pretty_name": "Artificial Intelligence Text Rewriting Toolbox",
+    "description": "LLM text reformatting and rewriting toolbox comprised of many system prompts",
+    "url": "https://github.com/danielrosehill/AI-Text-Rewriting-Toolbox",
+    "is_fork": false,
+    "created_at": "2025-03-25T10:49:00Z"
+  },
+  {
+    "name": "Side-Hustle-Ideation-Agent",
+    "pretty_name": "Side Hustle Ideation Agent",
+    "description": "Agent config for ideating a batch of side hustle ideas!",
+    "url": "https://github.com/danielrosehill/Side-Hustle-Ideation-Agent",
+    "is_fork": false,
+    "created_at": "2025-03-25T08:14:58Z"
+  },
+  {
+    "name": "AI-Agent-Ideation-Agent",
+    "pretty_name": "Artificial Intelligence Agent Ideation Agent",
+    "description": "Ideation agent that generates ideas for AI agents!",
+    "url": "https://github.com/danielrosehill/AI-Agent-Ideation-Agent",
+    "is_fork": false,
+    "created_at": "2025-03-25T03:14:26Z"
+  },
+  {
+    "name": "Writing-System-Prompts",
+    "pretty_name": "Writing System Prompts",
+    "description": "Some system prompts related to text modification and optimisation for some WIPs",
+    "url": "https://github.com/danielrosehill/Writing-System-Prompts",
+    "is_fork": false,
+    "created_at": "2025-03-24T22:49:03Z"
+  },
+  {
+    "name": "Open-Letters",
+    "pretty_name": "Open Letters",
+    "description": "For those rare occasions when I want to share something in 'open letter' format...",
+    "url": "https://github.com/danielrosehill/Open-Letters",
+    "is_fork": false,
+    "created_at": "2025-03-24T17:26:49Z"
+  },
+  {
+    "name": "Whisper-Converter-Linux",
+    "pretty_name": "Whisper Converter Linux",
+    "description": "Minimalist AI-generated desktop utility for Linux using Whisper API to transcribe audio files",
+    "url": "https://github.com/danielrosehill/Whisper-Converter-Linux",
+    "is_fork": false,
+    "created_at": "2025-03-24T15:42:54Z"
+  },
+  {
+    "name": "OpenWebUI-API-Schema-Exports",
+    "pretty_name": "Openwebui Api Schema Exports",
+    "description": "Point-in-time segmented export of the Open Web UI API definition",
+    "url": "https://github.com/danielrosehill/OpenWebUI-API-Schema-Exports",
+    "is_fork": false,
+    "created_at": "2025-03-22T18:41:19Z"
+  },
+  {
+    "name": "Voice-Notepad-Prototype-Planning",
+    "pretty_name": "Voice Notepad Prototype Planning",
+    "description": "Planning and outlining for an AI voice app for organisation",
+    "url": "https://github.com/danielrosehill/Voice-Notepad-Prototype-Planning",
+    "is_fork": false,
+    "created_at": "2025-03-22T17:19:23Z"
+  },
+  {
+    "name": "HA-Red-Alerts-Model-Automations",
+    "pretty_name": "Home Assistant Red Alerts Model Automations",
+    "description": "A few automations and hardware recommendations for HA + Pikud HaOref integration",
+    "url": "https://github.com/danielrosehill/HA-Red-Alerts-Model-Automations",
+    "is_fork": false,
+    "created_at": "2025-03-21T20:46:59Z"
+  },
+  {
     "name": "owui-cookbook",
     "pretty_name": "Owui Cookbook",
     "description": "we're cooking",
@@ -88,10 +328,10 @@
     "created_at": "2025-03-14T15:26:40Z"
   },
   {
-    "name": "Linux-Whisper-Notepad-0325",
-    "pretty_name": "Linux Whisper Notepad 0325",
+    "name": "Whisper-Notepad-For-Linux",
+    "pretty_name": "Whisper Notepad For Linux",
     "description": "Notepad for Linux that uses OpenAI Whisper (API) and reformats dictated text",
-    "url": "https://github.com/danielrosehill/Linux-Whisper-Notepad-0325",
+    "url": "https://github.com/danielrosehill/Whisper-Notepad-For-Linux",
     "is_fork": false,
     "created_at": "2025-03-13T19:02:13Z"
   },
@@ -1008,10 +1248,10 @@
     "created_at": "2024-12-16T23:13:12Z"
   },
   {
-    "name": "AI-Abusive-Message-Documentation-Tool",
-    "pretty_name": "Artificial Intelligence Abusive Message Documentation Tool",
+    "name": "Abusive-Message-Parser-AI-Config",
+    "pretty_name": "Abusive Message Parser Artificial Intelligence Config",
     "description": "Configuration text for an LLM assistant designed to assist users with documenting abusive messages",
-    "url": "https://github.com/danielrosehill/AI-Abusive-Message-Documentation-Tool",
+    "url": "https://github.com/danielrosehill/Abusive-Message-Parser-AI-Config",
     "is_fork": false,
     "created_at": "2024-12-15T14:22:14Z"
   },

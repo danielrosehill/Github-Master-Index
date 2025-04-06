@@ -3,9 +3,6 @@
 ## Agentic Context Development Interview Demo [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Agentic-Context-Development-Interview-Demo)
 Demonstration modelling how a chained LLM agent workflow could be used to expedite the generation of personal contextual data for personalised LLM experiences and personal RAG development
 
-## Artificial Intelligence Abusive Message Documentation Tool [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Abusive-Message-Documentation-Tool)
-Configuration text for an LLM assistant designed to assist users with documenting abusive messages
-
 ## Artificial Intelligence Assistant Builder [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Assistant-Builder)
 Streamlit app for honing system prompts for AI assistants
 

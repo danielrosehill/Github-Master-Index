@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [2025](#2025)
+  - [April 2025](#2025-april)
   - [March 2025](#2025-march)
   - [February 2025](#2025-february)
   - [January 2025](#2025-january)
@@ -35,9 +36,251 @@
 
 # 2025
 
+# April 2025 <a id='2025-april'></a>
+
+## 6 Apr
+
+**Prompt Engineering Assistants System Prompts**
+
+System prompts for AI assistants designed to assist with various aspects of prompt engineering
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Prompt-Engineering-Assistants-System-Prompts)
+
+---
+
+**Artificial Intelligence Orchestration System Prompts**
+
+System prompts for AI assistants designed to orchestrate access to other agents
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/AI-Orchestration-System-Prompts)
+
+## 5 Apr
+
+**Jewish Interest Mcp Projects**
+
+Some MCP (model context protocol) servers which might be of interest to Jewish users
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Jewish-Interest-MCP-Projects)
+
+---
+
+**Deep Research Projects 0425**
+
+A collection of links to a few AI "deep research" projects and agents, April 2025
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Deep-Research-Projects-0425)
+
+## 4 Apr
+
+**Remote Jobs Research Agent**
+
+Company research agent targeted towards the needs of remote job seekers sourcing detailed information about company backgrounds as well as remote-specific information
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Remote-Jobs-Research-Agent)
+
+## 3 Apr
+
+**Structured Gemini Prompts**
+
+A couple of examples of using Gemini 2.5 with structured outputs in Google AI Studio in order to conduct document analysis. 
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Structured-Gemini-Prompts)
+
+## 2 Apr
+
+**Perplexity Api Tests 020425**
+
+Quick test prompts to compare respones against various Sonar API endpoints
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Perplexity-API-Tests-020425)
+
 # March 2025 <a id='2025-march'></a>
 
+## 31 Mar
+
+**Artificial Intelligence Agent Workspace Spec 310325**
+
+Description of my current AI "agent" workspace, challenges, plans
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/AI-Agent-Workspace-Spec-310325)
+
+---
+
+**Gemini 2.5 Max Output Tokens Test**
+
+Testing out Gemini 2.5's purported ginormous max output tokens limit...
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Gemini-2.5-Max-Output-Tokens-Test)
+
+## 30 Mar
+
+**Owui Docker Compose Generation Agent**
+
+Agent for generating custom Docker Compose files for Open Web UI
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/OWUI-Docker-Compose-Generation-Agent)
+
+---
+
+**Whisper Notepad Simple**
+
+A Linux desktop utility for converting speech to text using the OpenAI Whisper API
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Whisper-Notepad-Simple)
+
+---
+
+**You Might Like Agent**
+
+CLI that generates batches of curated recommendations for movies, books, podcasts, etc
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/You-Might-Like-Agent)
+
+## 29 Mar
+
+**Voice Notepad With Transformations**
+
+Linux voice notepad (latest version) with text transformations in addition to STT
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Voice-Notepad-With-Transformations)
+
+---
+
+**Artificial Intelligence Assistant Ideator Streamlit**
+
+Streamlit implementation for an AI "self-ideation" utility
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/AI-Assistant-Ideator-Streamlit)
+
+## 28 Mar
+
+**Assistant Self Ideation 280325**
+
+AI assistant "self-ideation" run
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Assistant-Self-Ideation-280325)
+
+---
+
+**Ollama Ideation Ui**
+
+Desktop app for running batch "ideation" prompts with a local LLM
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Ollama-Ideation-UI)
+
+---
+
+**Openwebui Bulk Model Updater**
+
+Python script for applying bulk updates to models in Open Web UI, changing the base model ID to a preferred value
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/OpenWebUI-Bulk-Model-Updater)
+
+## 26 Mar
+
+**System Prompts For System Prompt Generation**
+
+System prompts for using AI tools to generate and improve system prompts
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/System-Prompts-For-System-Prompt-Generation)
+
+---
+
+**Artificial Intelligence Agent Ideation Chatbot System Prompt**
+
+System prompt (03/25) for a conversational AI agent and assistant idea generator
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/AI-Agent-Ideation-Chatbot-System-Prompt)
+
+---
+
+**Research System Prompts**
+
+System prompts for research purposes
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Research-System-Prompts)
+
+## 25 Mar
+
+**Voice Prompt Editor**
+
+Streamlit app for capturing and editing prompts and system prompts
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Voice-Prompt-Editor)
+
+---
+
+**Artificial Intelligence Text Rewriting Toolbox**
+
+LLM text reformatting and rewriting toolbox comprised of many system prompts
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/AI-Text-Rewriting-Toolbox)
+
+---
+
+**Side Hustle Ideation Agent**
+
+Agent config for ideating a batch of side hustle ideas!
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Side-Hustle-Ideation-Agent)
+
+---
+
+**Artificial Intelligence Agent Ideation Agent**
+
+Ideation agent that generates ideas for AI agents!
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/AI-Agent-Ideation-Agent)
+
+## 24 Mar
+
+**Writing System Prompts**
+
+Some system prompts related to text modification and optimisation for some WIPs
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Writing-System-Prompts)
+
+---
+
+**Open Letters**
+
+For those rare occasions when I want to share something in 'open letter' format...
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Open-Letters)
+
+---
+
+**Whisper Converter Linux**
+
+Minimalist AI-generated desktop utility for Linux using Whisper API to transcribe audio files
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Whisper-Converter-Linux)
+
+## 22 Mar
+
+**Openwebui Api Schema Exports**
+
+Point-in-time segmented export of the Open Web UI API definition
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/OpenWebUI-API-Schema-Exports)
+
+---
+
+**Voice Notepad Prototype Planning**
+
+Planning and outlining for an AI voice app for organisation
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Voice-Notepad-Prototype-Planning)
+
 ## 21 Mar
+
+**Home Assistant Red Alerts Model Automations**
+
+A few automations and hardware recommendations for HA + Pikud HaOref integration
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/HA-Red-Alerts-Model-Automations)
+
+---
 
 **Owui Cookbook**
 
@@ -131,13 +374,11 @@ Periodically updated documentation about current AI stack/favorite components
 
 ## 13 Mar
 
-**Linux Whisper Notepad 0325**
-
-![Work in Progress](https://img.shields.io/badge/WIP-FCD34D?style=flat-square)
+**Whisper Notepad For Linux**
 
 Notepad for Linux that uses OpenAI Whisper (API) and reformats dictated text
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Linux-Whisper-Notepad-0325)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Whisper-Notepad-For-Linux)
 
 ---
 
@@ -1079,11 +1320,11 @@ Configuration for a large language assistant designed to assist with redacting p
 
 ## 15 Dec
 
-**Artificial Intelligence Abusive Message Documentation Tool**
+**Abusive Message Parser Artificial Intelligence Config**
 
 Configuration text for an LLM assistant designed to assist users with documenting abusive messages
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/AI-Abusive-Message-Documentation-Tool)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Abusive-Message-Parser-AI-Config)
 
 ## 14 Dec
 

@@ -1,4 +1,154 @@
 {
+  "Prompt-Engineering-Assistants-System-Prompts": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "AI-Orchestration-System-Prompts": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Jewish-Interest-MCP-Projects": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Deep-Research-Projects-0425": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Remote-Jobs-Research-Agent": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Structured-Gemini-Prompts": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Perplexity-API-Tests-020425": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "AI-Agent-Workspace-Spec-310325": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Gemini-2.5-Max-Output-Tokens-Test": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "OWUI-Docker-Compose-Generation-Agent": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Whisper-Notepad-Simple": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "You-Might-Like-Agent": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Voice-Notepad-With-Transformations": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "AI-Assistant-Ideator-Streamlit": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Assistant-Self-Ideation-280325": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Ollama-Ideation-UI": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "OpenWebUI-Bulk-Model-Updater": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "System-Prompts-For-System-Prompt-Generation": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "AI-Agent-Ideation-Chatbot-System-Prompt": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Research-System-Prompts": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Voice-Prompt-Editor": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "AI-Text-Rewriting-Toolbox": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Side-Hustle-Ideation-Agent": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "AI-Agent-Ideation-Agent": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Writing-System-Prompts": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Open-Letters": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Whisper-Converter-Linux": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "OpenWebUI-API-Schema-Exports": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Voice-Notepad-Prototype-Planning": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "HA-Red-Alerts-Model-Automations": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
   "owui-cookbook": {
     "status": "inactive",
     "last_updated_days": 999,
@@ -54,7 +204,7 @@
     "last_updated_days": 999,
     "language": "Unknown"
   },
-  "Linux-Whisper-Notepad-0325": {
+  "Whisper-Notepad-For-Linux": {
     "status": "inactive",
     "last_updated_days": 999,
     "language": "Unknown"
@@ -629,7 +779,7 @@
     "last_updated_days": 999,
     "language": "Unknown"
   },
-  "AI-Abusive-Message-Documentation-Tool": {
+  "Abusive-Message-Parser-AI-Config": {
     "status": "inactive",
     "last_updated_days": 999,
     "language": "Unknown"
