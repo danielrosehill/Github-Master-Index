@@ -87,12 +87,6 @@ Tools, frameworks, and platforms for custom LLM agent creation, including AI wor
 ## Data Projects Index [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Data-Projects-Index)
 Data apps and datasets deployed to Streamlit Community Cloud, Hugging Face, and elsewhere. 
 
-## Github Repo Index [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Github-Repo-Index)
-An index to the Github profile of Daniel Rosehill. Repositories are organised by themes in the 'sections' folder.
-
-## Local Github Repo Index Generator [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Local-Github-Repo-Index-Generator)
-Script to generate an index of the Github repos on your local / computer
-
 ## Master Index [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Master-Index)
 This repository serves as a master index linking to the various indices I have for more narrow groupings of topics.
 

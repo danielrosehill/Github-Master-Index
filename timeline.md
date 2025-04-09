@@ -38,7 +38,111 @@
 
 # April 2025 <a id='2025-april'></a>
 
+## 8 Apr
+
+**Israel Morning News Briefs N8n Perplexity Sonar**
+
+Using Perplexity API structured prompting and N8N to deliver a tailored news brief
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Israel-Morning-News-Briefs-N8N-Perplexity-Sonar)
+
+---
+
+**Agent Network Expander Template**
+
+Modelling how AI assistants can ideate the expansion of agent/assistant networks through a simple example-following pattern
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Agent-Network-Expander-Template)
+
+---
+
+**System Prompts For Book Authors**
+
+System prompts for configuring AI assistants to help book authors including proofreading assistants and book marketing ideation tools
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/System-Prompts-For-Book-Authors)
+
+---
+
+**Structured System Prompt Generator**
+
+Streamlit generator to aid with the creation of structured prompts
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Structured-System-Prompt-Generator)
+
+## 7 Apr
+
+**Text Transformation Prompt Combiner**
+
+Basic implementation of a prompt concatenation utility for text transformation system prompts for converting transcribed text
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Text-Transformation-Prompt-Combiner)
+
+---
+
+**Speech To Text System Prompt Library**
+
+An updated skeleton library of system prompts for using LLMs to refine STT output
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Speech-To-Text-System-Prompt-Library)
+
+---
+
+**Prompt Library Privacy Screener**
+
+Model for a PII screen (using Ollama) for open sourcing prompt libraries safely
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Prompt-Library-Privacy-Screener)
+
 ## 6 Apr
+
+**Careers Utilities System Prompts**
+
+System prompts for AI assistants related to career and job matters
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Careers-Utilities-System-Prompts)
+
+---
+
+**Geopolitical Analysis System Prompts**
+
+System prompts for geopolitical related AI assistants and tools
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Geopolitical-Analysis-System-Prompts)
+
+---
+
+**Linux Related System Prompts**
+
+System prompts for AI assistants for Linux
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Linux-Related-System-Prompts)
+
+---
+
+**Data Utilities System Prompts**
+
+System prompts for data-related AI assistants
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Data-Utilities-System-Prompts)
+
+---
+
+**My Prompt Libraries**
+
+Index for my collections of user and system prompts on Github
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/My-Prompt-Libraries)
+
+---
+
+**Email Management System Prompts**
+
+Writing and email management system prompts for assistants
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Email-Management-System-Prompts)
+
+---
 
 **Prompt Engineering Assistants System Prompts**
 
@@ -663,14 +767,6 @@ Linux desktop application that provides a two-stage process for creating notes f
 A repository that indexes my Github projects
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Github-Master-Index)
-
----
-
-**Reddit Posts**
-
-Things I've posted on Reddit and which are copied here so that they can be ingested as context for various AI workflows
-
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Reddit-Posts)
 
 ## 20 Feb
 
@@ -1574,14 +1670,6 @@ Lists of resources and tools for prompt engineering and evaluation
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Prompt-Engineering-Resources)
 
----
-
-**Local Github Repo Index Generator**
-
-Script to generate an index of the Github repos on your local / computer
-
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Local-Github-Repo-Index-Generator)
-
 ## 20 Nov
 
 **Projects**
@@ -2333,14 +2421,6 @@ Ideas and scripts for optimising Github repositories
 A repository of prompts I've used when working with LLMs as well as some example outputs and notes
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Prompt-Library)
-
-## 22 Jul
-
-**Github Repo Index**
-
-An index to the Github profile of Daniel Rosehill. Repositories are organised by themes in the 'sections' folder.
-
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Github-Repo-Index)
 
 ## 18 Jul
 

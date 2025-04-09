@@ -66,9 +66,6 @@ A Node.js wrapper library for Pikud Haoref's unofficial rocket alert API.
 ## Public Shelter Lists Israel [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Public-Shelter-Lists-Israel)
 No description provided
 
-## Reddit Posts [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Reddit-Posts)
-Things I've posted on Reddit and which are copied here so that they can be ingested as context for various AI workflows
-
 ## Roo Code Docs [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Roo-Code-Docs)
 This is the documentation for Roo Code (prev. Roo Cline), an AI-powered autonomous coding agent that lives in your editor.
 

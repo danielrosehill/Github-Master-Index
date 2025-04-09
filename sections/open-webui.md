@@ -39,9 +39,6 @@ A Docker Compose for Open Web UI with a few modifications
 ## Openwebui Postgres Qdrant [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/OpenWebUI-Postgres-Qdrant)
 Docker Compose for OpenWebUI + Postgres + Qdrant
 
-## Reddit Posts [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Reddit-Posts)
-Things I've posted on Reddit and which are copied here so that they can be ingested as context for various AI workflows
-
 ## Roo Code Docs [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Roo-Code-Docs)
 This is the documentation for Roo Code (prev. Roo Cline), an AI-powered autonomous coding agent that lives in your editor.
 

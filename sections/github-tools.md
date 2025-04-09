@@ -12,9 +12,6 @@ A repository that indexes my Github projects
 ## Github Optimisation [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Github-Optimisation)
 Ideas and scripts for optimising Github repositories
 
-## Github Repo Index [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Github-Repo-Index)
-An index to the Github profile of Daniel Rosehill. Repositories are organised by themes in the 'sections' folder.
-
 ## Github Repo Indexer Gemini [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Github-Repo-Indexer-Gemini)
 Uses Gemini and Github API to retrieve and organise Github repos
 
@@ -26,9 +23,6 @@ For when you're feeling inspired to make an awesome list but it all seems like s
 
 ## Linux Github Repo Launcher [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Linux-Github-Repo-Launcher)
 Github repository search and quick launch utility preconfigured for VS Code & Windsurf
-
-## Local Github Repo Index Generator [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Local-Github-Repo-Index-Generator)
-Script to generate an index of the Github repos on your local / computer
 
 ## Openai Github Repo Index Creator [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/OpenAI-Github-Repo-Index-Creator)
 Simple script for creating a Github index using the OpenAI API

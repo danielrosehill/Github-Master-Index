@@ -1,5 +1,109 @@
 [
   {
+    "name": "Israel-Morning-News-Briefs-N8N-Perplexity-Sonar",
+    "pretty_name": "Israel Morning News Briefs N8n Perplexity Sonar",
+    "description": "Using Perplexity API structured prompting and N8N to deliver a tailored news brief",
+    "url": "https://github.com/danielrosehill/Israel-Morning-News-Briefs-N8N-Perplexity-Sonar",
+    "is_fork": false,
+    "created_at": "2025-04-08T23:56:57Z"
+  },
+  {
+    "name": "Agent-Network-Expander-Template",
+    "pretty_name": "Agent Network Expander Template",
+    "description": "Modelling how AI assistants can ideate the expansion of agent/assistant networks through a simple example-following pattern",
+    "url": "https://github.com/danielrosehill/Agent-Network-Expander-Template",
+    "is_fork": false,
+    "created_at": "2025-04-08T15:27:06Z"
+  },
+  {
+    "name": "System-Prompts-For-Book-Authors",
+    "pretty_name": "System Prompts For Book Authors",
+    "description": "System prompts for configuring AI assistants to help book authors including proofreading assistants and book marketing ideation tools",
+    "url": "https://github.com/danielrosehill/System-Prompts-For-Book-Authors",
+    "is_fork": false,
+    "created_at": "2025-04-08T14:49:43Z"
+  },
+  {
+    "name": "Structured-System-Prompt-Generator",
+    "pretty_name": "Structured System Prompt Generator",
+    "description": "Streamlit generator to aid with the creation of structured prompts",
+    "url": "https://github.com/danielrosehill/Structured-System-Prompt-Generator",
+    "is_fork": false,
+    "created_at": "2025-04-08T13:38:23Z"
+  },
+  {
+    "name": "Text-Transformation-Prompt-Combiner",
+    "pretty_name": "Text Transformation Prompt Combiner",
+    "description": "Basic implementation of a prompt concatenation utility for text transformation system prompts for converting transcribed text",
+    "url": "https://github.com/danielrosehill/Text-Transformation-Prompt-Combiner",
+    "is_fork": false,
+    "created_at": "2025-04-07T20:52:26Z"
+  },
+  {
+    "name": "Speech-To-Text-System-Prompt-Library",
+    "pretty_name": "Speech To Text System Prompt Library",
+    "description": "An updated skeleton library of system prompts for using LLMs to refine STT output",
+    "url": "https://github.com/danielrosehill/Speech-To-Text-System-Prompt-Library",
+    "is_fork": false,
+    "created_at": "2025-04-07T19:33:46Z"
+  },
+  {
+    "name": "Prompt-Library-Privacy-Screener",
+    "pretty_name": "Prompt Library Privacy Screener",
+    "description": "Model for a PII screen (using Ollama) for open sourcing prompt libraries safely",
+    "url": "https://github.com/danielrosehill/Prompt-Library-Privacy-Screener",
+    "is_fork": false,
+    "created_at": "2025-04-07T18:33:23Z"
+  },
+  {
+    "name": "Careers-Utilities-System-Prompts",
+    "pretty_name": "Careers Utilities System Prompts",
+    "description": "System prompts for AI assistants related to career and job matters",
+    "url": "https://github.com/danielrosehill/Careers-Utilities-System-Prompts",
+    "is_fork": false,
+    "created_at": "2025-04-06T15:14:38Z"
+  },
+  {
+    "name": "Geopolitical-Analysis-System-Prompts",
+    "pretty_name": "Geopolitical Analysis System Prompts",
+    "description": "System prompts for geopolitical related AI assistants and tools",
+    "url": "https://github.com/danielrosehill/Geopolitical-Analysis-System-Prompts",
+    "is_fork": false,
+    "created_at": "2025-04-06T15:05:09Z"
+  },
+  {
+    "name": "Linux-Related-System-Prompts",
+    "pretty_name": "Linux Related System Prompts",
+    "description": "System prompts for AI assistants for Linux",
+    "url": "https://github.com/danielrosehill/Linux-Related-System-Prompts",
+    "is_fork": false,
+    "created_at": "2025-04-06T14:58:38Z"
+  },
+  {
+    "name": "Data-Utilities-System-Prompts",
+    "pretty_name": "Data Utilities System Prompts",
+    "description": "System prompts for data-related AI assistants",
+    "url": "https://github.com/danielrosehill/Data-Utilities-System-Prompts",
+    "is_fork": false,
+    "created_at": "2025-04-06T14:53:26Z"
+  },
+  {
+    "name": "My-Prompt-Libraries",
+    "pretty_name": "My Prompt Libraries",
+    "description": "Index for my collections of user and system prompts on Github",
+    "url": "https://github.com/danielrosehill/My-Prompt-Libraries",
+    "is_fork": false,
+    "created_at": "2025-04-06T14:30:34Z"
+  },
+  {
+    "name": "Email-Management-System-Prompts",
+    "pretty_name": "Email Management System Prompts",
+    "description": "Writing and email management system prompts for assistants",
+    "url": "https://github.com/danielrosehill/Email-Management-System-Prompts",
+    "is_fork": false,
+    "created_at": "2025-04-06T14:17:35Z"
+  },
+  {
     "name": "Prompt-Engineering-Assistants-System-Prompts",
     "pretty_name": "Prompt Engineering Assistants System Prompts",
     "description": "System prompts for AI assistants designed to assist with various aspects of prompt engineering",
@@ -606,14 +710,6 @@
     "url": "https://github.com/danielrosehill/Github-Master-Index",
     "is_fork": false,
     "created_at": "2025-02-22T18:49:30Z"
-  },
-  {
-    "name": "Reddit-Posts",
-    "pretty_name": "Reddit Posts",
-    "description": "Things I've posted on Reddit and which are copied here so that they can be ingested as context for various AI workflows",
-    "url": "https://github.com/danielrosehill/Reddit-Posts",
-    "is_fork": false,
-    "created_at": "2025-02-22T18:30:29Z"
   },
   {
     "name": "OpenWebUI-Macro-Keypad",
@@ -1496,14 +1592,6 @@
     "created_at": "2024-11-21T19:22:56Z"
   },
   {
-    "name": "Local-Github-Repo-Index-Generator",
-    "pretty_name": "Local Github Repo Index Generator",
-    "description": "Script to generate an index of the Github repos on your local / computer",
-    "url": "https://github.com/danielrosehill/Local-Github-Repo-Index-Generator",
-    "is_fork": false,
-    "created_at": "2024-11-21T17:24:42Z"
-  },
-  {
     "name": "Projects",
     "pretty_name": "Projects",
     "description": "A list of projects I am working on",
@@ -2222,14 +2310,6 @@
     "url": "https://github.com/danielrosehill/Prompt-Library",
     "is_fork": false,
     "created_at": "2024-07-24T17:25:34Z"
-  },
-  {
-    "name": "Github-Repo-Index",
-    "pretty_name": "Github Repo Index",
-    "description": "An index to the Github profile of Daniel Rosehill. Repositories are organised by themes in the 'sections' folder.",
-    "url": "https://github.com/danielrosehill/Github-Repo-Index",
-    "is_fork": false,
-    "created_at": "2024-07-22T17:27:28Z"
   },
   {
     "name": "Python-Scripts",

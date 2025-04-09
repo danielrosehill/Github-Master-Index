@@ -12,9 +12,6 @@ Just a few search strings for finding stuff in overcrowded Gmail inboxes!
 ## Google Drive Folder Scaffolding Builder [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Google-Drive-Folder-Scaffolding-Builder)
 Builds date/year folder scaffolding in Drive folders (with App Scripts)
 
-## Local Github Repo Index Generator [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Local-Github-Repo-Index-Generator)
-Script to generate an index of the Github repos on your local / computer
-
 ## My Bash Aliases [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/My-Bash-Aliases)
 Personal bash alias library, public
 

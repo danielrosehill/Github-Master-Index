@@ -1,4 +1,69 @@
 {
+  "Israel-Morning-News-Briefs-N8N-Perplexity-Sonar": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Agent-Network-Expander-Template": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "System-Prompts-For-Book-Authors": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Structured-System-Prompt-Generator": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Text-Transformation-Prompt-Combiner": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Speech-To-Text-System-Prompt-Library": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Prompt-Library-Privacy-Screener": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Careers-Utilities-System-Prompts": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Geopolitical-Analysis-System-Prompts": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Linux-Related-System-Prompts": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Data-Utilities-System-Prompts": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "My-Prompt-Libraries": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Email-Management-System-Prompts": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
   "Prompt-Engineering-Assistants-System-Prompts": {
     "status": "inactive",
     "last_updated_days": 999,
@@ -375,11 +440,6 @@
     "language": "Unknown"
   },
   "Github-Master-Index": {
-    "status": "inactive",
-    "last_updated_days": 999,
-    "language": "Unknown"
-  },
-  "Reddit-Posts": {
     "status": "inactive",
     "last_updated_days": 999,
     "language": "Unknown"
@@ -934,11 +994,6 @@
     "last_updated_days": 999,
     "language": "Unknown"
   },
-  "Local-Github-Repo-Index-Generator": {
-    "status": "inactive",
-    "last_updated_days": 999,
-    "language": "Unknown"
-  },
   "Projects": {
     "status": "inactive",
     "last_updated_days": 999,
@@ -1385,11 +1440,6 @@
     "language": "Unknown"
   },
   "Prompt-Library": {
-    "status": "inactive",
-    "last_updated_days": 999,
-    "language": "Unknown"
-  },
-  "Github-Repo-Index": {
     "status": "inactive",
     "last_updated_days": 999,
     "language": "Unknown"

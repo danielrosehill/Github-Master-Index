@@ -22,6 +22,7 @@ AI-Text-Rewriting-Toolbox
 AWSCCPPrep
 About-Me
 Abusive-Message-Parser-AI-Config
+Agent-Network-Expander-Template
 Agentic-Context-Development-Interview-Demo
 Anonymisation-Assistant
 Assistant-Config-Editor
@@ -43,6 +44,7 @@ Awesome-Self-Hosted-AI-Tools
 Better-Hashnode-Backups
 Bias-Censorship-Eval-Tests
 Browser-Use-Agent-GUI
+Careers-Utilities-System-Prompts
 ChatGPT-CustomGPT-Dev
 Cline-Roo-Code-Repo-Template
 Cline-Website-Creation-Demo
@@ -61,6 +63,7 @@ Daniels-Take-On
 Data-Analysis-Notebook
 Data-Projects-Index
 Data-Relationships-Helper
+Data-Utilities-System-Prompts
 Database-Relationship-Identifier-Postgres
 Deep-Research-Projects-0425
 Deepgram-STT-Linux-App
@@ -72,6 +75,7 @@ Document-Templates
 Dollar-Software-Genie
 Dual-WhatsApp-Linux-Desktop
 Eco-Ninja-3
+Email-Management-System-Prompts
 Emissions-Data-Reports
 Emissions-Monetisation-Calculator
 Environmental-Data---AI-Assistants
@@ -92,12 +96,12 @@ GVFD-Derivative-Docs
 GVFD-Explorer-Chatbot-V2
 Gemini-2.5-Max-Output-Tokens-Test
 General-System-Prompts
+Geopolitical-Analysis-System-Prompts
 Gists
 Github-Ideas-And-FRs
 Github-Master-Index
 Github-Notation
 Github-Optimisation
-Github-Repo-Index
 Github-Repo-Indexer-Gemini
 Github-Repo-Pruner
 Github-Submodules-Docs
@@ -130,6 +134,7 @@ ImpactInvestingData
 ImpactWeightedAccounts
 Interesting-Tech-Things
 Israel-GeoInsights
+Israel-Morning-News-Briefs-N8N-Perplexity-Sonar
 Israel-News-Monitor
 Israel-Preparedness-Guidelines-AI-Assistant
 Israel-Rocket-Shelter-Guidelines
@@ -163,8 +168,8 @@ Lazy-Awesome-Lists
 LibreChat
 Linux-Desktop-LLM-Apps
 Linux-Github-Repo-Launcher
+Linux-Related-System-Prompts
 Linux-Whisper-Notepad
-Local-Github-Repo-Index-Generator
 MakoletTime
 Markdown-Keep-Or-Delete
 Markdown-Templates-For-LLM-Work
@@ -188,6 +193,7 @@ My-LLM-Context-Repo-Public
 My-LLM-KM-Idea
 My-OpenAI-Python-SDK-Helper
 My-Principles-Of-Prompting
+My-Prompt-Libraries
 My-Scaffolding-Templates
 My-Thoughts-On-Tech
 MyDesktop
@@ -237,6 +243,7 @@ Prompt-Builder
 Prompt-Engineering-Assistants-System-Prompts
 Prompt-Engineering-Resources
 Prompt-Library
+Prompt-Library-Privacy-Screener
 Prompt-Puncutation-Experiment
 Prompts-And-Outputs
 Prototypes
@@ -247,7 +254,6 @@ Python-Scripts
 RAG-API-SDK-Docs-Pipeline
 RAG-Markdown-Loader
 Random-Taxonomies
-Reddit-Posts
 Remote-Jobs-Research-Agent
 Research-System-Prompts
 Roo-Code
@@ -260,11 +266,14 @@ Side-Hustle-Ideation-Agent
 Snap-It
 Snippet-Library
 Speech-To-Docs
+Speech-To-Text-System-Prompt-Library
 Structured-Gemini-Prompts
+Structured-System-Prompt-Generator
 Sustainability-Report-Data-Extractor
 Sustainability-Reports-Source
 System-Prompt-Factory
 System-Prompt-Generation-Agent-Configs
+System-Prompts-For-Book-Authors
 System-Prompts-For-System-Prompt-Generation
 Tampermonkey-Scripts
 Task-Management-App-Prompt
@@ -272,6 +281,7 @@ Taxonomy-Generators
 Tech-Ideas
 Test-Markdown-Docs
 Testing-Repo-Public
+Text-Transformation-Prompt-Combiner
 Thought-Pad
 Tool-Searches
 Two-AIs-Talk
