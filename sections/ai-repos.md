@@ -21,12 +21,6 @@ Template repository for version controlling AI assistant configurations (and ass
 ## Artificial Intelligence Assistants [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Assistants)
 My useful, sprawling and only slightly crazy network of AI assistants for ... anything and everything
 
-## Artificial Intelligence Assistants Index [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Assistants-Index)
-Indexing repository nesting links to standalone repositories containing configurations for AI assistants & agents
-
-## Artificial Intelligence Docs Generator Gdrive [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Docs-Generator-Gdrive)
-Interface for custom document generation with output to Google Drive
-
 ## Artificial Intelligence Generated Code Samples [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Generated-Code-Samples)
 Scripts and other programs generated with various LLMs. Sometimes they need refinement. Frequently they just work!
 
@@ -66,20 +60,11 @@ This repository contains a hand-curated resources for Prompt Engineering with a 
 ## Bias Censorship Eval Tests [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Bias-Censorship-Eval-Tests)
 Some loosely organised experiments intended to probe the levels of political censorship inherent in LLMs
 
-## Chatgpt Customgpt Dev [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/ChatGPT-CustomGPT-Dev)
-Scripts and utilities for managing custom GPTs built with ChatGPT
-
 ## Context Data Generation Bot [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Context-Data-Generation-Bot)
 Configuration for an AI assistant to generate personal contextual data (and intended workflow)
 
 ## Context Waterfall Architecture Notes [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Context-Waterfall-Architecture-Notes)
 A model for routing contextual data into vector storage for use with LLMs
-
-## Custom Large Language Model Agent Platforms [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Custom-LLM-Agent-Platforms)
-Tools, frameworks, and platforms for custom LLM agent creation, including AI workforces/fleets
-
-## Custom Large Language Model Agents [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Custom-LLM-Agents)
-This repository contains configuration scripts for large language model assistants, which I have deployed mostly currently on Hugging Face Chat. 
 
 ## Friendly Artificial Intelligence Exploration Bot [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Friendly-AI-Exploration-Bot)
 Configuration for an instructional tool for inquisitive AI students
@@ -95,9 +80,6 @@ ChatGPT-generated Python scripts for various purposes
 
 ## Israel Preparedness Guidelines Artificial Intelligence Assistant [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Israel-Preparedness-Guidelines-AI-Assistant)
 AI assistant configuration for proviidng Home Front Command guidelines
-
-## Large Language Model Api Key Manager [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/LLM-API-Key-Manager)
-Coming soon, a minimalist local first tool for organizing and displaying a list of API keys for large language models that can be accessed this way. 
 
 ## Large Language Model Api Price Estimates [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/LLM-API-Price-Estimates)
 Some cost estimates for using LLMs via API versus web UI services (like ChatGPT)
@@ -122,9 +104,6 @@ A plot showing the evolution of the max output token length by major LLMs, Feb 2
 
 ## Large Language Model Output Notes [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/LLM-Output-Notes)
 First entry documentation repository for notes mostly unedited from LLMs
-
-## Large Language Model Output Vault Parameters [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/LLM-Output-Vault-Parameters)
-Some parameteric data about my LLM output repository as it scales
 
 ## Large Language Model Outputs [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/LLM-Outputs)
 Interesting GPT outputs demonstrating specific capabilities

@@ -21,12 +21,6 @@ Template repository for version controlling AI assistant configurations (and ass
 ## Artificial Intelligence Assistants [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Assistants)
 My useful, sprawling and only slightly crazy network of AI assistants for ... anything and everything
 
-## Artificial Intelligence Assistants Index [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Assistants-Index)
-Indexing repository nesting links to standalone repositories containing configurations for AI assistants & agents
-
-## Artificial Intelligence Docs Generator Gdrive [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Docs-Generator-Gdrive)
-Interface for custom document generation with output to Google Drive
-
 ## Artificial Intelligence Generated Code Samples [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Generated-Code-Samples)
 Scripts and other programs generated with various LLMs. Sometimes they need refinement. Frequently they just work!
 
@@ -60,20 +54,8 @@ An ecosystem map of the AI agent and assistant building landscape in Feb 2025
 ## Awesome Kubernetes Linux Desktop [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Awesome-Kubernetes-Linux-Desktop)
 GUIs and other tools that make managing Kubernetes clusters easier for Linux desktop users (I use Ubuntu but will add resources for other distros)
 
-## Awsccpprep [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AWSCCPPrep)
-Preparation materials for the AWS Certified Cloud Practitioner exam. Please use at your own discretion. I do not warrant that any of these training materials are free of errors. 
-
-## Chatgpt Customgpt Dev [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/ChatGPT-CustomGPT-Dev)
-Scripts and utilities for managing custom GPTs built with ChatGPT
-
 ## Cline Roo Code Repo Template [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Cline-Roo-Code-Repo-Template)
 Repo template for Cline / Roo Code AI dev with my docs-as-prompts approach!
-
-## Custom Large Language Model Agent Platforms [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Custom-LLM-Agent-Platforms)
-Tools, frameworks, and platforms for custom LLM agent creation, including AI workforces/fleets
-
-## Custom Large Language Model Agents [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Custom-LLM-Agents)
-This repository contains configuration scripts for large language model assistants, which I have deployed mostly currently on Hugging Face Chat. 
 
 ## Daniel Public Changelog [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Daniel-Public-Changelog)
 A publicly accessible changelog of all my technical projects

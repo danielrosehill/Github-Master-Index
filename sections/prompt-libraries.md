@@ -9,9 +9,6 @@ This repository is a gathering of AI assistants that I've developed for analysin
 ## Fun Large Language Model Data Prompts [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Fun-LLM-Data-Prompts)
 As prompting fro data analysis & vis is quite specific, a small side collection of prompts for this purpose
 
-## Generative Pre-trained Transformer Repo Utility [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/GPT-Repo-Utility)
-Utility for saving GPT outputs into an organised markdown repository
-
 ## Large Language Model Evaluation Prompts [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/LLM-Evaluation-Prompts)
 A few prompts that I am storing in a repo for the purpose of running controlled experiments comparing and benchmarking different LLMs for defined use-cases
 

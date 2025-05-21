@@ -12,9 +12,6 @@ Short tech notes (as in Github Gists, but versioned in a repo to sync them to a 
 ## Global Value Factors Explorer [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Global-Value-Factors-Explorer)
 (Non-official) derivative version of IFVI Global Value Factors Database in JSON/GeoJSON to facilitate data analysis projects
 
-## Generative Pre-trained Transformer Repo Utility [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/GPT-Repo-Utility)
-Utility for saving GPT outputs into an organised markdown repository
-
 ## Gvfd Derivative Docs [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/GVFD-Derivative-Docs)
 Documentation for derivative database of IFVI Global Value Factors Database (GVFD)
 
@@ -44,9 +41,6 @@ Data analysis and visualisations performed on data from various sources tracking
 
 ## Output Hub [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Output-Hub)
 An admin application I'm developing for managing all aspects of working with LLMs professionally and at scale, with functions for prompt logging, prompt library, and custom LLM agent inventorising. Aspiration: add code to notes gradually as project matures!
-
-## Output Hub Poc Seed [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Output-Hub-POC-Seed)
-Seeds a relational database structure for 'Output Hub' output management system
 
 ## Perplexity Security 1224 [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Perplexity-Security-1224)
 Repository to demonstrate the "security through security" being currently implemented

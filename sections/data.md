@@ -36,9 +36,6 @@ Synthetic data containing personally identifiable information
 ## Natural Language Relationship Definition [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Natural-Language-Relationship-Definition)
 Experiment: trying to create a database schema using natural language
 
-## Osi Data Import [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/osi-data-import)
-Data import tools for OSI
-
 ## Sustainability Report Data Extractor [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Sustainability-Report-Data-Extractor)
 Tool for extracting data-containing pages from sustainability reports
 

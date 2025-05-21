@@ -3,9 +3,6 @@
 ## Bias Censorship Eval Tests [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Bias-Censorship-Eval-Tests)
 Some loosely organised experiments intended to probe the levels of political censorship inherent in LLMs
 
-## Chatgpt Customgpt Dev [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/ChatGPT-CustomGPT-Dev)
-Scripts and utilities for managing custom GPTs built with ChatGPT
-
 ## Cline Roo Code Repo Template [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Cline-Roo-Code-Repo-Template)
 Repo template for Cline / Roo Code AI dev with my docs-as-prompts approach!
 
@@ -14,12 +11,6 @@ Demonstration project for YouTube using referred prompts for development
 
 ## Context Chunker Assistant [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Context-Chunker-Assistant)
 A n interactive chatbot approach to chunking context data for embedding into RAG
-
-## Custom Large Language Model Agent Platforms [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Custom-LLM-Agent-Platforms)
-Tools, frameworks, and platforms for custom LLM agent creation, including AI workforces/fleets
-
-## Custom Large Language Model Agents [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Custom-LLM-Agents)
-This repository contains configuration scripts for large language model assistants, which I have deployed mostly currently on Hugging Face Chat. 
 
 ## Daniel Public Changelog [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Daniel-Public-Changelog)
 A publicly accessible changelog of all my technical projects
@@ -35,9 +26,6 @@ Utility for helping users understand the classic data relationships in RDMSs (M2
 
 ## General System Prompts [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/General-System-Prompts)
 Some system prompts intended to (attempt to) configure neutral behavior from LLMs
-
-## Large Language Model Api Key Manager [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/LLM-API-Key-Manager)
-Coming soon, a minimalist local first tool for organizing and displaying a list of API keys for large language models that can be accessed this way. 
 
 ## Large Language Model Api Price Estimates [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/LLM-API-Price-Estimates)
 Some cost estimates for using LLMs via API versus web UI services (like ChatGPT)
@@ -59,9 +47,6 @@ A plot showing the evolution of the max output token length by major LLMs, Feb 2
 
 ## Large Language Model Output Notes [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/LLM-Output-Notes)
 First entry documentation repository for notes mostly unedited from LLMs
-
-## Large Language Model Output Vault Parameters [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/LLM-Output-Vault-Parameters)
-Some parameteric data about my LLM output repository as it scales
 
 ## Large Language Model Outputs [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/LLM-Outputs)
 Interesting GPT outputs demonstrating specific capabilities

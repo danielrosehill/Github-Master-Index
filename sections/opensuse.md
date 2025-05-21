@@ -6,6 +6,3 @@ Quick template for creating a local repo with symlinks to key system files on Li
 ## Linux Desktop Large Language Model Apps [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Linux-Desktop-LLM-Apps)
 Quick list of  some LLM related apps with Linux desktop support (chat UIs, CLIs, wrappers, etc)
 
-## Opensuse Config Backup Tool [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/OpenSUSE-Config-Backup-Tool)
-Some scripts for backing up OpenSUSE package lists for expedited reprovisioning
-

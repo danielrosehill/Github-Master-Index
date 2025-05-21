@@ -24,9 +24,6 @@ Large language models (LLMs) explaining themselves - and how to make best use of
 ## Prompt Puncutation Experiment [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Prompt-Puncutation-Experiment)
 Experimenting to test the effect of puncutation in prompts on inference quality
 
-## Testing Repo Public [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Testing-Repo-Public)
-General first entry testing repository for things that need to be publicly accessible. 
-
 ## Two Ais Talk [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Two-AIs-Talk)
 Experiment:  two AI agents, each one thinks the other is a liar...
 

@@ -3,12 +3,6 @@
 ## Agentic Context Development Interview Demo [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Agentic-Context-Development-Interview-Demo)
 Demonstration modelling how a chained LLM agent workflow could be used to expedite the generation of personal contextual data for personalised LLM experiences and personal RAG development
 
-## Artificial Intelligence Assistants Index [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Assistants-Index)
-Indexing repository nesting links to standalone repositories containing configurations for AI assistants & agents
-
-## Artificial Intelligence Docs Generator Gdrive [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Docs-Generator-Gdrive)
-Interface for custom document generation with output to Google Drive
-
 ## Artificial Intelligence Generated Code Samples [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Generated-Code-Samples)
 Scripts and other programs generated with various LLMs. Sometimes they need refinement. Frequently they just work!
 
@@ -60,9 +54,6 @@ A curated list of Israeli-made projects, events, and individuals
 ## Awesome Prompt Engineering [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Awesome-Prompt-Engineering)
 This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc 
 
-## Awesome Speech to Text Projects [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Awesome-STT-Projects)
-A list of some STT projects from around the internet
-
 ## Awesome Speech to Text Tools [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Awesome-STT-Tools)
 A few useful speech to text tools that I've stumbled across including browser extensions, Linux desktop tools and ASR. 
 
@@ -72,17 +63,11 @@ Backups a Hashnode blog including the images from the CDN
 ## Bias Censorship Eval Tests [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Bias-Censorship-Eval-Tests)
 Some loosely organised experiments intended to probe the levels of political censorship inherent in LLMs
 
-## Chatgpt Customgpt Dev [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/ChatGPT-CustomGPT-Dev)
-Scripts and utilities for managing custom GPTs built with ChatGPT
-
 ## Cline Roo Code Repo Template [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Cline-Roo-Code-Repo-Template)
 Repo template for Cline / Roo Code AI dev with my docs-as-prompts approach!
 
 ## Cline Website Creation Demo [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Cline-Website-Creation-Demo)
 Demonstration project for YouTube using referred prompts for development
-
-## Custom Large Language Model Agent Platforms [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Custom-LLM-Agent-Platforms)
-Tools, frameworks, and platforms for custom LLM agent creation, including AI workforces/fleets
 
 ## Data Projects Index [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Data-Projects-Index)
 Data apps and datasets deployed to Streamlit Community Cloud, Hugging Face, and elsewhere. 

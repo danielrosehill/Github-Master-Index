@@ -1,8 +1,5 @@
 # Voice Repositories
 
-## Awesome Speech to Text Projects [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Awesome-STT-Projects)
-A list of some STT projects from around the internet
-
 ## Awesome Speech to Text Tools [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Awesome-STT-Tools)
 A few useful speech to text tools that I've stumbled across including browser extensions, Linux desktop tools and ASR. 
 
@@ -12,20 +9,11 @@ Backups a Hashnode blog including the images from the CDN
 ## Bias Censorship Eval Tests [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Bias-Censorship-Eval-Tests)
 Some loosely organised experiments intended to probe the levels of political censorship inherent in LLMs
 
-## Chatgpt Customgpt Dev [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/ChatGPT-CustomGPT-Dev)
-Scripts and utilities for managing custom GPTs built with ChatGPT
-
 ## Cline Roo Code Repo Template [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Cline-Roo-Code-Repo-Template)
 Repo template for Cline / Roo Code AI dev with my docs-as-prompts approach!
 
 ## Cline Website Creation Demo [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Cline-Website-Creation-Demo)
 Demonstration project for YouTube using referred prompts for development
-
-## Custom Large Language Model Agent Platforms [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Custom-LLM-Agent-Platforms)
-Tools, frameworks, and platforms for custom LLM agent creation, including AI workforces/fleets
-
-## Custom Large Language Model Agents [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Custom-LLM-Agents)
-This repository contains configuration scripts for large language model assistants, which I have deployed mostly currently on Hugging Face Chat. 
 
 ## Daniel Public Changelog [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Daniel-Public-Changelog)
 A publicly accessible changelog of all my technical projects

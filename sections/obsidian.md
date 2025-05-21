@@ -6,9 +6,6 @@ Obsidian plugins focused on leveraging AI & LLMs inside of (and beyond) vaults
 ## Awesome Prompt Engineering [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Awesome-Prompt-Engineering)
 This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc 
 
-## Awesome Speech to Text Projects [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Awesome-STT-Projects)
-A list of some STT projects from around the internet
-
 ## Awesome Speech to Text Tools [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Awesome-STT-Tools)
 A few useful speech to text tools that I've stumbled across including browser extensions, Linux desktop tools and ASR. 
 
@@ -18,20 +15,11 @@ Backups a Hashnode blog including the images from the CDN
 ## Bias Censorship Eval Tests [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Bias-Censorship-Eval-Tests)
 Some loosely organised experiments intended to probe the levels of political censorship inherent in LLMs
 
-## Chatgpt Customgpt Dev [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/ChatGPT-CustomGPT-Dev)
-Scripts and utilities for managing custom GPTs built with ChatGPT
-
 ## Cline Roo Code Repo Template [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Cline-Roo-Code-Repo-Template)
 Repo template for Cline / Roo Code AI dev with my docs-as-prompts approach!
 
 ## Cline Website Creation Demo [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Cline-Website-Creation-Demo)
 Demonstration project for YouTube using referred prompts for development
-
-## Custom Large Language Model Agent Platforms [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Custom-LLM-Agent-Platforms)
-Tools, frameworks, and platforms for custom LLM agent creation, including AI workforces/fleets
-
-## Custom Large Language Model Agents [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Custom-LLM-Agents)
-This repository contains configuration scripts for large language model assistants, which I have deployed mostly currently on Hugging Face Chat. 
 
 ## Daniel Public Changelog [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Daniel-Public-Changelog)
 A publicly accessible changelog of all my technical projects
@@ -53,9 +41,6 @@ Work in progress - AI-assisted STT app for Linux desktop users
 
 ## Large Language Model Obsidian Vault Backup Utility [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/LLM-Obsidian-Vault-Backup-Utility)
 Simple backup GUI for my Obsidian vault for storing LLM artifacts (prompts, outputs, agent configs)
-
-## Obisidian For Large Language Model Capture [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Obisidian-For-LLM-Capture)
-Some GUIs and scaffolding scripts intended to optimise Obsidian for use as a knowledge base for storing and organising LLM outputs (as well as prompts and custom agent config)
 
 ## Obisidian Prompt Output Saver Local Only [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Obisidian-Prompt-Output-Saver-Local-Only)
 A GUI component for the Obsidian vault project. This saves prompts and outputs into the vault but doesn't integrate with an LLM API

@@ -2,7 +2,7 @@
 
 ![Banner](banners/index.png)
 
-*Last updated: 2025-04-09 04:21:50*
+*Last updated: 2025-05-21 16:48:14*
 
 This is an automatically generated index of my public GitHub repositories.
 
@@ -37,14 +37,14 @@ Browse repositories organized by their primary function or topic:
 
 ## Repository Statistics
 
-**Total Repositories:** 283
+**Total Repositories:** 288
 
 **Top Categories:**
 - Ai Repos: 70 repositories
 - Assistants: 36 repositories
 - Indexes: 34 repositories
 - Israel: 28 repositories
-- Llm: 26 repositories
+- Forks: 27 repositories
 
 ---
 
