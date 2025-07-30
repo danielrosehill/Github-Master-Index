@@ -27,7 +27,10 @@ from typing import Dict, List, Tuple, Optional
 from dataclasses import dataclass, asdict
 
 # Import existing categorizer
-from scripts.llm_categorizer import LLMCategorizer
+import sys
+import os
+sys.path.append(os.path.join(os.path.dirname(__file__), '../../scripts'))
+from llm_categorizer import LLMCategorizer
 
 @dataclass
 class RepositoryInfo:

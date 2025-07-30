@@ -11,7 +11,10 @@ import argparse
 import time
 from pathlib import Path
 from dotenv import load_dotenv
-from scripts.llm_categorizer import LLMCategorizer
+import sys
+import os
+sys.path.append(os.path.join(os.path.dirname(__file__), '../../scripts'))
+from llm_categorizer import LLMCategorizer
 
 def main():
     """Main function to categorize all repositories"""
