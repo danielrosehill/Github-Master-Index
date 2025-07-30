@@ -4,3 +4,5 @@ How-To-Guides
 LLM-Workflow-Documentation
 Daniels-Take-On
 MechanicalKeyboards
+Nuclino-API-Docs-Unofficial-0725
+How-The-CLI-Planning-Doc

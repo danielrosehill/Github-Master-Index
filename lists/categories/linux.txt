@@ -15,3 +15,7 @@ UbuntuModifications
 UbuntuReinstallation
 Windsurf-Updater
 Linux-Whisper-Notepad-0325
+Mic-Input-Boot-FX-Script-Ubuntu
+Linux-Macropad-Planning
+Linux-MCP-Clients
+Linux-Related-System-Prompts

@@ -1,2 +1,5 @@
 Linux-Whisper-Notepad-0325
 Dollar-Software-Genie
+System-Prompt-Tuning-Agent-N8N
+OWUI-Docker-Compose-Generation-Agent
+Whisper-Notepad-For-Linux

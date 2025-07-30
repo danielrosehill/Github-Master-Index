@@ -1,3 +1,7 @@
 Interesting-Tech-Things
 Open-WebUI-Backups
 Misc-Scripts
+Voicenotes-Prompt-To-Email-Workflow-N8N
+Email-AI-Outputs-Workflow
+Automation-Code-Snippets
+How-The-CLI-Planning-Doc

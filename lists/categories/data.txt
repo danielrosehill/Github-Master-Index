@@ -14,3 +14,4 @@ Sustainability-Reports-Source
 Value-Factors-Data-Vis
 osi-data-import
 Github-To-OpenWebUI-Context-Pipeline
+Israel-News-RSS-Feeds

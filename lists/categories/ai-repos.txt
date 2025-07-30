@@ -68,3 +68,6 @@ Github-To-OpenWebUI-Context-Pipeline
 Open-Web-UI-Model-Index-Public
 Perplexity-Security-1224
 GPT_Python
+Software-Wish-List-AI-Context
+Github-AI-Searches
+Deep-Research-Projects-0425

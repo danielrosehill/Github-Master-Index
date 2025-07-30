@@ -18,3 +18,4 @@ PDF-Extract-And-TTS
 Personal-STT-Benchmarking
 Voice-Assistant-Agent-Platforms
 Voice-LLM-App-Notes
+Voice-Notepad-With-Transformations

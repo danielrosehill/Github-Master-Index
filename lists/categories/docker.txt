@@ -1,2 +1,3 @@
 OpenWebUI-Postgres-Qdrant
 OpenWebUI-My-Docker-Compose
+OWUI-Docker-Compose-Generation-Agent

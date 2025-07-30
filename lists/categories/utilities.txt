@@ -11,3 +11,4 @@ Github-Notation
 Windsurf-Updater
 My-Bash-Aliases
 My-Calculators
+Israel-News-RSS-Feeds

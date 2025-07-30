@@ -7,3 +7,7 @@ Personal-Context-Vector-Pipeline
 Personal-RAG-Agent-Workflow
 RAG-API-SDK-Docs-Pipeline
 RAG-Markdown-Loader
+Local-Linux-Repair-Bot
+Audio-Context-Pipeline-Model-0425
+Career-Data-AI-Context-Repo
+Software-Wish-List-AI-Context

@@ -48,3 +48,6 @@ A list of a few interesting tools for creating context-backed agents & assistant
 ## Voice Large Language Model App Notes [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Voice-LLM-App-Notes)
 A few notes describing the kind of voice app for large language models I would love to have!
 
+## Voice Notepad With Transformations [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Voice-Notepad-With-Transformations)
+Linux voice notepad (latest version) with text transformations in addition to STT
+

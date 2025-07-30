@@ -21,6 +21,18 @@ A few small learning projects intended at developing very simple GUIs for Fedora
 ## Linux Desktop Large Language Model Apps [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Linux-Desktop-LLM-Apps)
 Quick list of  some LLM related apps with Linux desktop support (chat UIs, CLIs, wrappers, etc)
 
+## Linux Macropad Planning [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Linux-Macropad-Planning)
+Planning notes for a macropad for Linux
+
+## Linux Mcp Clients [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Linux-MCP-Clients)
+A very small list of MCP clients that are available to Linux users, GUIs + CLIs
+
+## Linux Related System Prompts [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Linux-Related-System-Prompts)
+System prompts for AI assistants for Linux
+
+## Mic Input Boot Fx Script Ubuntu [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Mic-Input-Boot-FX-Script-Ubuntu)
+Boot script to ensure that Easy Effects manages the input sound source on boot (Ubuntu)
+
 ## Openwebui Macro Keypad [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/OpenWebUI-Macro-Keypad)
 WIP idea. Macro keypad config for OpenWebUI shortcuts
 

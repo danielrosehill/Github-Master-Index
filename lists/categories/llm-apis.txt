@@ -3,3 +3,7 @@ Browser-Use-Agent-GUI
 System-Prompt-Factory
 My-AI-LLM-Configs
 My-OpenAI-Python-SDK-Helper
+WAQI-Stations-Israel
+WAQI-API-OpenAPI
+Perplexity-API-Tests-020425
+Ollama-Ideation-UI

@@ -2,3 +2,9 @@ Linux-Whisper-Notepad-0325
 Speech-To-Docs
 STT-Price-Points-260225
 Thought-Pad
+ASR-Training-Data-Chunker
+Speech-To-Text-System-Prompt-Library
+Whisper-Notepad-Simple
+Awesome-Whisper-Apps
+Whisper-Converter-Linux
+Whisper-Notepad-For-Linux

@@ -9,3 +9,6 @@ Periodically updated markdown documentation summarizing manual / non-programmati
 ## Open Webui Backups [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Open-WebUI-Backups)
 A model backup script for backing up an Open Web UI instance (SQLite, ChromaDB)
 
+## Parenting Questions Artificial Intelligence Agent Workflow [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Parenting-Questions-AI-Agent-Workflow)
+Workflow for an agent that answers parenting questions by email with upload to Google Drive
+

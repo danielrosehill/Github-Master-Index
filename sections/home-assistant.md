@@ -1,5 +1,8 @@
 # Home-assistant Repositories
 
+## Home Assistant Red Alert News Dash [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/HA-Red-Alert-News-Dash)
+A Home Assistant dashboard for emergency alerts (Tzeva Adom) in Israel with and without live news
+
 ## Home Assistant Shabbat Dashboard 0125 [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/HA-Shabbat-Dashboard-0125)
 Simple designed Home Assistant dashboard for Shabbat / Yom Tov times
 

@@ -1,1 +1,5 @@
 Homebox-Desktop-Wrapper-AppImage
+WAQI-Prometheus-Pull
+WAQI-Stations-Israel
+OWUI-Frontend-URLs
+HFC-Wrapper-Linux

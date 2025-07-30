@@ -6,11 +6,17 @@ Network schematics and purchasing notes for those interested in provisioning fai
 ## Better Hashnode Backups [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Better-Hashnode-Backups)
 Backups a Hashnode blog including the images from the CDN
 
+## Better Safe [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Better-Safe)
+CLI for taking on-demand Snapper snapshots (BTRFS)
+
 ## Cloud Backup Scripts [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Cloud-Backup-Scripts)
 Various scripts for manually syncing and backing up cloud storage
 
 ## Cloudbackupapproaches [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/CloudBackupApproaches)
 Periodically updated markdown documentation summarizing manual / non-programmatic methodologies to back up commonly used SaaS / cloud-hosted software utilities.
+
+## Github Gists Backup Public [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Github-Gists-Backup-Public)
+Backup script for backing up Github Gists
 
 ## Homepage [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Homepage)
 A homepage for my Github account. This page gives an overview of the projects I'm working on and sharing on Github.

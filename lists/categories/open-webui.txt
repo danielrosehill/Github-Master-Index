@@ -18,3 +18,11 @@ Open-Web-UI-Model-Index-Public
 OpenWebUI-Postgres-Qdrant
 System-Prompt-Factory
 OpenWebUI-My-Docker-Compose
+Gemini-Prompt-Library-ideator
+OWUI-Frontend-URLs
+AI-Assistant-Ideator-Streamlit
+OpenWebUI-Bulk-Model-Updater
+AI-Agent-Ideation-Agent
+OpenWebUI-API-Schema-Exports
+Voice-Prompt-Editor
+AI-Text-Rewriting-Toolbox

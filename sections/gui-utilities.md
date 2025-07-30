@@ -9,3 +9,6 @@ No description provided
 ## Openwebui Model Export Converter [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/OpenWebUI-Model-Export-Converter)
 Data processing script for converting manual JSON exports into parsed CSV data
 
+## Whisper Notepad For Linux [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Whisper-Notepad-For-Linux)
+Notepad for Linux that uses OpenAI Whisper (API) and reformats dictated text
+

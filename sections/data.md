@@ -30,6 +30,9 @@ Data ingress pipeline for Impact Database
 ## Impactinvestingdata [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/ImpactInvestingData)
 A repository for housing visualisations and analyses of data related to impact investing approaches
 
+## Israel News Rss Feeds [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Israel-News-RSS-Feeds)
+Collection of RSS feeds about news in Israel
+
 ## Mock Pii Data [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Mock-PII-Data)
 Synthetic data containing personally identifiable information
 

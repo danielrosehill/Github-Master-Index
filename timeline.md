@@ -3,6 +3,8 @@
 ## Table of Contents
 
 - [2025](#2025)
+  - [July 2025](#2025-july)
+  - [June 2025](#2025-june)
   - [May 2025](#2025-may)
   - [April 2025](#2025-april)
   - [March 2025](#2025-march)
@@ -35,9 +37,277 @@
 
 # 2025
 
+# July 2025 <a id='2025-july'></a>
+
+## 29 Jul
+
+**Save Artificial Intelligence Outputs To Nuclino N8n**
+
+N8N workflow for saving AI outputs to Nuclino and posting a notification to Slack
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Save-AI-Outputs-To-Nuclino-N8N)
+
+---
+
+**Nuclino Api Docs Unofficial 0725**
+
+Unofficial point in time collection of Nuclino API documentation 
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Nuclino-API-Docs-Unofficial-0725)
+
+---
+
+**Billing Docs Processors**
+
+Model for billing document processing workflows (AI agents)
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Billing-Docs-Processors)
+
+---
+
+**Structured Output Schemas**
+
+Reuseable JSON schemas for structured Ai assistant/agent workflows
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Structured-Output-Schemas)
+
+## 24 Jul
+
+**N8n Workflows Index**
+
+Index of N8N workflows that I have shared on Github
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/N8N-Workflows-Index)
+
+---
+
+**Voicenotes Prompt To Email Workflow N8n**
+
+No description provided
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Voicenotes-Prompt-To-Email-Workflow-N8N)
+
+## 23 Jul
+
+**Medium Post Downloader**
+
+Download utility for programatically converting a Medium export archive into a full replica of your content with images
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Medium-Post-Downloader)
+
+## 22 Jul
+
+**Windsurf Rules 0725**
+
+Updated Windsurf rules
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Windsurf-Rules-0725)
+
+---
+
+**Artificial Intelligence Agents**
+
+Periodically updated index of AI agent configurations that I'm working on (or have created)
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/AI-Agents)
+
+---
+
+**N8n Workflow Sanitiser Agent**
+
+Configuration for an AI agent for sanitising (redacting personal details) in N8N workflow exports
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/N8N-Workflow-Sanitiser-Agent)
+
+---
+
+**Parenting Questions Artificial Intelligence Agent Workflow**
+
+Workflow for an agent that answers parenting questions by email with upload to Google Drive
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Parenting-Questions-AI-Agent-Workflow)
+
+## 21 Jul
+
+**Stack Research Agent N8n Config**
+
+No description provided
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Stack-Research-Agent-N8N-Config)
+
+---
+
+**Email Artificial Intelligence Outputs Workflow**
+
+N8N workflow for sharing prompts and outputs with friends and family with a reformatting node for smoother MD to email-safe HTML 
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Email-AI-Outputs-Workflow)
+
+## 20 Jul
+
+**Nfs Smb Share Lister**
+
+Script for listing NFS and SMB shares on a local NAS
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/NFS-SMB-Share-Lister)
+
+---
+
+**Automation Code Snippets**
+
+Code snippets for automation building and integration (that might be of interest)
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Automation-Code-Snippets)
+
+## 17 Jul
+
+**Prompt And Output System Prompt**
+
+System prompt for directing an AI agent to begin every output with a sumary of the user's prompt
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Prompt-And-Output-System-Prompt)
+
+# June 2025 <a id='2025-june'></a>
+
+## 29 Jun
+
+**Bug Reports Public**
+
+Sanitised or non-sensitive bug reports that may have diagnostic utility for others
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Bug-Reports-Public)
+
+---
+
+**Satint Agent**
+
+Configuration for an AI agent specialised in interpreting satellite imagery
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/SATINT-agent)
+
+## 28 Jun
+
+**Iran Israel War Osint**
+
+A project to retrospectively analyse signals of war ahead of the Iran-Israel conflict, June 2025 to inform future preparedness and readiness efforts
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Iran-Israel-War-OSINT)
+
+## 26 Jun
+
+**Shelter Finder Jerusalem**
+
+Android app for finding nearby public shelters in Jerusalem (populated in June 2025 from municipal data)
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Shelter-Finder-Jerusalem)
+
+## 19 Jun
+
+**Jerusalem Shelters 0625**
+
+Public shelters in Jerusalem (open sourced due to the public need for this info right now)
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Jerusalem-Shelters-0625)
+
+## 15 Jun
+
+**Hfc Android Config Guide**
+
+Non-official! Home Front Command Android app config settings guides (06-2025)
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/HFC-Android-Config-Guide)
+
+## 4 Jun
+
+**To Clone Or Not To Clone**
+
+Interactive CLI for cloning your Github repos
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/To-Clone-Or-Not-To-Clone)
+
 # May 2025 <a id='2025-may'></a>
 
+## 29 May
+
+**Home Assistant Starter List**
+
+A few friends have asked me what they need to get going with HA so .. a list
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Home-Assistant-Starter-List)
+
+## 28 May
+
+**Tech Tool Prompting 0525**
+
+Some stack evaluation prompts as I try to finish my stack "updating" process
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Tech-Tool-Prompting-0525)
+
+## 27 May
+
+**System Prompt Library**
+
+New repo for system prompt library (for agents & assistants) updated for automation integration
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/System-Prompt-Library)
+
+---
+
+**Text Transformation Prompt Library**
+
+Updated repo of text transformation prompts (raw STT transcripts -> *). New repo for capturing via automations.
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Text-Transformation-Prompt-Library)
+
+## 26 May
+
+**Green Invoice Api My Notes**
+
+Timestampped notes (non-official!) for Green Invoice API & Webhooks
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Green-Invoice-API-My-Notes)
+
+---
+
+**Llama Os Doctor Idea**
+
+Planning notes for an AI agent / experiment
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Llama-OS-Doctor-Idea)
+
+## 25 May
+
+**Gemini Ssml Formatter**
+
+Agent/app using Gemini to format plain markdown into speech synthesis markup language (SSML) for TTS narration
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Gemini-SSML-Formatter)
+
+## 23 May
+
+**Awesome Whisper Apps**
+
+Useful speech to text tools that use Whisper under the hood (API/local)
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Awesome-Whisper-Apps)
+
+## 22 May
+
+**Oref Generative Pre-trained Transformer**
+
+N8N automation that uses TwitterAPI.io to rertieve real-time social media data about the source of rocket alerts in Israel
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Oref-GPT)
+
 ## 21 May
+
+**Iso Loookup Assistants**
+
+Lookup agents to assist with standardising datasets with correct ISO values
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/ISO-Loookup-Assistants)
+
+---
 
 **Open In Windsurf Kde**
 

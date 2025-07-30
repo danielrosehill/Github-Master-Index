@@ -1,2 +1,12 @@
 VS-Code-LLM-Tools
 GPT-Repo-Utility
+Text-Transformation-Prompt-Collection-2
+Shakespearean-Text-Generators
+Hebrew-LLMs
+Gemini-Prompt-Library-ideator
+Structured-System-Prompt-Generator
+Speech-To-Text-System-Prompt-Library
+My-Prompt-Libraries
+Ollama-Ideation-UI
+AI-Text-Rewriting-Toolbox
+Side-Hustle-Ideation-Agent

@@ -1,3 +1,4 @@
 My-AI-Stack
 Dollar-Software-Genie
 LLM-Prompt-Extraction-GUI
+OWUI-Frontend-URLs

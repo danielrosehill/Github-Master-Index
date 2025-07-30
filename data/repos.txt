@@ -2,6 +2,7 @@
 AI-Agent-Ideation-Agent
 AI-Agent-Ideation-Chatbot-System-Prompt
 AI-Agent-Workspace-Spec-310325
+AI-Agents
 AI-Assistant-Builder
 AI-Assistant-Ideator
 AI-Assistant-Ideator-Streamlit
@@ -30,6 +31,7 @@ Assistant-Self-Ideation-280325
 Audio-Context-Pipeline-Model-0425
 Audiopenai-Edit-Prompts
 AutoGPT
+Automation-Code-Snippets
 Awesome-AI-Agents-And-Assistants
 Awesome-AI-Subreddits
 Awesome-Israeli-Jewish-Home-Assistant
@@ -41,10 +43,13 @@ Awesome-Obsidian-AI-Tools
 Awesome-Prompt-Engineering
 Awesome-STT-Tools
 Awesome-Self-Hosted-AI-Tools
+Awesome-Whisper-Apps
 Better-Hashnode-Backups
 Better-Safe
 Bias-Censorship-Eval-Tests
+Billing-Docs-Processors
 Browser-Use-Agent-GUI
+Bug-Reports-Public
 Career-Data-AI-Context-Repo
 Careers-Utilities-System-Prompts
 ChatGPT-Custom-Instructions
@@ -77,6 +82,7 @@ Document-Templates
 Dollar-Software-Genie
 Dual-WhatsApp-Linux-Desktop
 Eco-Ninja-3
+Email-AI-Outputs-Workflow
 Email-Management-System-Prompts
 Emissions-Data-Reports
 Emissions-Monetisation-Calculator
@@ -95,6 +101,7 @@ GPT_Python
 GVFD-Derivative-Docs
 GVFD-Explorer-Chatbot-V2
 Gemini-Prompt-Library-ideator
+Gemini-SSML-Formatter
 General-System-Prompts
 Geopolitical-Analysis-System-Prompts
 Gists
@@ -116,10 +123,12 @@ Google-Drive-Folder-Scaffolding-Builder
 Google-Fonts-Hebrew-Downloader
 Grafana-News-Monitoring-Dashboards
 Great-AI-Convos
+Green-Invoice-API-My-Notes
 HA-Air-Quality-Dashboard
 HA-Red-Alert-News-Dash
 HA-Red-Alerts-Model-Automations
 HA-Shabbat-Dashboard-0125
+HFC-Android-Config-Guide
 HFC-Wrapper-Linux
 Hebrew-LLMs
 Home
@@ -127,6 +136,7 @@ Home-Assistant-Dashboards-General-
 Home-Assistant-Israel-Dashboards
 Home-Assistant-Shabbat-Yom-Tom
 Home-Assistant-Smoke-Alarm-Config
+Home-Assistant-Starter-List
 Home-Assistant-YAML-Snippets
 Home-Assistant-YomTov-Shabbat-0125
 Home-Assistant-snippets
@@ -136,6 +146,7 @@ Homebox-Ideas
 Homepage
 How-The-CLI-Planning-Doc
 How-To-Guides
+ISO-Loookup-Assistants
 Ideas
 Impact-Investing-First-Entry-
 Impact-Weighted-Accounts-Demo-App
@@ -143,6 +154,7 @@ ImpactDBPipeline
 ImpactInvestingData
 ImpactWeightedAccounts
 Interesting-Tech-Things
+Iran-Israel-War-OSINT
 Israel-GeoInsights
 Israel-Gov-Open-Data
 Israel-Morning-News-Briefs-N8N-Perplexity-Sonar
@@ -153,6 +165,7 @@ Israel-Rocket-Shelter-Guidelines
 Israel-To-ROW-Salary-Converter-V2
 Israeli-Google-Drive-Accounting-Doc-Router
 Jerusalem-Public-Shelters
+Jerusalem-Shelters-0625
 Jerusalem-Tech-Companies
 Jewish-AI-Assistant-System-Prompts
 Jewish-Interest-MCP-Projects
@@ -184,6 +197,7 @@ Linux-MCP-Clients
 Linux-Macropad-Planning
 Linux-Related-System-Prompts
 Linux-Whisper-Notepad
+Llama-OS-Doctor-Idea
 Local-Linux-Repair-Bot
 MCP-Server-Ideas
 MCP-Server-JSON-Sync
@@ -193,6 +207,7 @@ Markdown-Templates-For-LLM-Work
 Master-Index
 Master_Backup_Strategy
 MechanicalKeyboards
+Medium-Post-Downloader
 Mic-Input-Boot-FX-Script-Ubuntu
 Misc
 Misc-Scripts
@@ -216,9 +231,13 @@ My-Prompt-Libraries
 My-Scaffolding-Templates
 My-Thoughts-On-Tech
 MyDesktop
+N8N-Workflow-Sanitiser-Agent
+N8N-Workflows-Index
 NFC-Reader-Writer-App
+NFS-SMB-Share-Lister
 Natural-Language-Relationship-Definition
 Nice-Hebrew-Fonts
+Nuclino-API-Docs-Unofficial-0725
 OWUI-Docker-Compose-Generation-Agent
 OWUI-Frontend-URLs
 Obisidian-Prompt-Output-Saver-Local-Only
@@ -241,10 +260,12 @@ OpenWebUI-My-Docker-Compose
 OpenWebUI-Postgres-Qdrant
 OpenWebUI-Prompt-Library
 Openwebui-Hunter-Tool
+Oref-GPT
 Outcomes-Funds
 Output-Hub
 PDF-Extract-And-TTS
 Paleo-Hebrew
+Parenting-Questions-AI-Agent-Workflow
 Perplexity-API-Tests-020425
 Perplexity-Security-1224
 Personal-AI-Agent-Development-Template
@@ -259,6 +280,7 @@ Personalised-AI-Idea
 Postgres-Utilities
 Projects
 Prompt-And-Output-Separator
+Prompt-And-Output-System-Prompt
 Prompt-Builder
 Prompt-Debugger-System-Prompts
 Prompt-Engineering-Assistants-System-Prompts
@@ -284,11 +306,14 @@ Research-System-Prompts
 Roo-Code
 Roo-Code-Docs
 RooCode-Mode-Prompts
+SATINT-agent
 STT-Basic-Cleanup-System-Prompt
 STT-Price-Points-260225
+Save-AI-Outputs-To-Nuclino-N8N
 Scaffolding-Scripts
 Shakespearean-Text-Generator-Streamlit
 Shakespearean-Text-Generators
+Shelter-Finder-Jerusalem
 Shields-Markdown-Badges
 Side-Hustle-Ideation-Agent
 Smithery-Batch-Installer
@@ -298,13 +323,16 @@ Social-Impact-Bond-Data
 Software-Wish-List-AI-Context
 Speech-To-Docs
 Speech-To-Text-System-Prompt-Library
+Stack-Research-Agent-N8N-Config
 Structured-Gemini-Prompts
+Structured-Output-Schemas
 Structured-System-Prompt-Generator
 Sustainability-Report-Data-Extractor
 Sustainability-Reports-Source
 System-Prompt-Factory
 System-Prompt-Generation-Agent-Configs
 System-Prompt-Generation-Configurations
+System-Prompt-Library
 System-Prompt-Tuning-Agent-N8N
 System-Prompts-0425
 System-Prompts-For-Book-Authors
@@ -313,14 +341,17 @@ Task-Management-App-Prompt
 Taxonomy-Generators
 Tech-Ideas
 Tech-Stack
+Tech-Tool-Prompting-0525
 Test-Markdown-Docs
 Test-System-Prompts
 Text-To-Image-Test-Prompts
 Text-Transformation-Prompt-Collection-2
 Text-Transformation-Prompt-Combiner
+Text-Transformation-Prompt-Library
 The-Bot-Has-A-Question
 The-Jerusalem-Odyssey-Text
 Thought-Pad
+To-Clone-Or-Not-To-Clone
 Tool-Searches
 Two-AIs-Talk
 USB-Foot-Mouse-Linux
@@ -332,6 +363,7 @@ Voice-LLM-App-Notes
 Voice-Notepad-Prototype-Planning
 Voice-Notepad-With-Transformations
 Voice-Prompt-Editor
+Voicenotes-Prompt-To-Email-Workflow-N8N
 WAQI-API-OpenAPI
 WAQI-Prometheus-Pull
 WAQI-Stations-Israel
@@ -344,6 +376,7 @@ Whisper-Transcription-Notepad-Linux
 Wiki
 Windsurf-Demo-Repo
 Windsurf-Global-Rules
+Windsurf-Rules-0725
 Windsurf-Updater
 Workstation-Specs
 Writing-System-Prompts

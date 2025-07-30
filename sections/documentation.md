@@ -9,6 +9,9 @@ archived documentation gathered from different sources and centralized on this r
 ## Document Templates [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Document-Templates)
 Documentation matters! Some of the templates (in markdown) that I like to use
 
+## How The Cli Planning Doc [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/How-The-CLI-Planning-Doc)
+Planning document/blueprint for a software /tech idea
+
 ## How To Guides [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/How-To-Guides)
 My little tech discoveries available for anyone who wants to read them!
 
@@ -17,4 +20,7 @@ Documentation for managing prompts and outputs and working professionally with l
 
 ## Mechanicalkeyboards [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/MechanicalKeyboards)
 Some markdown documentation for my own reference regarding different Cherry MX mechanical keyboard switches. 
+
+## Nuclino Api Docs Unofficial 0725 [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Nuclino-API-Docs-Unofficial-0725)
+Unofficial point in time collection of Nuclino API documentation 
 

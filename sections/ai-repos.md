@@ -66,11 +66,17 @@ Configuration for an AI assistant to generate personal contextual data (and inte
 ## Context Waterfall Architecture Notes [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Context-Waterfall-Architecture-Notes)
 A model for routing contextual data into vector storage for use with LLMs
 
+## Deep Research Projects 0425 [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Deep-Research-Projects-0425)
+A collection of links to a few AI "deep research" projects and agents, April 2025
+
 ## Friendly Artificial Intelligence Exploration Bot [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Friendly-AI-Exploration-Bot)
 Configuration for an instructional tool for inquisitive AI students
 
 ## Fun Large Language Model Data Prompts [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Fun-LLM-Data-Prompts)
 As prompting fro data analysis & vis is quite specific, a small side collection of prompts for this purpose
+
+## Github Artificial Intelligence Searches [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Github-AI-Searches)
+A series of search links for those wishing to drink from the firehose of open-source AI
 
 ## Github To Openwebui Context Pipeline [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Github-To-OpenWebUI-Context-Pipeline)
 Model data pipeline from a Github repository to Open Web UI knowledge using actions
@@ -176,6 +182,9 @@ Loads markdown documents into a folder
 
 ## Roocode Mode Prompts [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/RooCode-Mode-Prompts)
 Some custom mode-setting system prompts for Roo Code
+
+## Software Wish List Artificial Intelligence Context [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Software-Wish-List-AI-Context)
+Context repository to connect to AI tools - things I look for in most software evaluations
 
 ## System Prompt Generation Agent Configs [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/System-Prompt-Generation-Agent-Configs)
 A collection of system prompts for agents instructed to generate or edit system prompts for other AI agents (yes, you read that right!)

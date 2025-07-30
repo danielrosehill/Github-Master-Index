@@ -12,6 +12,9 @@ Just a few search strings for finding stuff in overcrowded Gmail inboxes!
 ## Google Drive Folder Scaffolding Builder [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Google-Drive-Folder-Scaffolding-Builder)
 Builds date/year folder scaffolding in Drive folders (with App Scripts)
 
+## Israel News Rss Feeds [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Israel-News-RSS-Feeds)
+Collection of RSS feeds about news in Israel
+
 ## My Bash Aliases [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/My-Bash-Aliases)
 Personal bash alias library, public
 

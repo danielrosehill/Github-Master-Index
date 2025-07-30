@@ -1,5 +1,269 @@
 [
   {
+    "name": "Save-AI-Outputs-To-Nuclino-N8N",
+    "pretty_name": "Save Artificial Intelligence Outputs To Nuclino N8n",
+    "description": "N8N workflow for saving AI outputs to Nuclino and posting a notification to Slack",
+    "url": "https://github.com/danielrosehill/Save-AI-Outputs-To-Nuclino-N8N",
+    "is_fork": false,
+    "created_at": "2025-07-29T16:48:53Z"
+  },
+  {
+    "name": "Nuclino-API-Docs-Unofficial-0725",
+    "pretty_name": "Nuclino Api Docs Unofficial 0725",
+    "description": "Unofficial point in time collection of Nuclino API documentation ",
+    "url": "https://github.com/danielrosehill/Nuclino-API-Docs-Unofficial-0725",
+    "is_fork": false,
+    "created_at": "2025-07-29T16:00:10Z"
+  },
+  {
+    "name": "Billing-Docs-Processors",
+    "pretty_name": "Billing Docs Processors",
+    "description": "Model for billing document processing workflows (AI agents)",
+    "url": "https://github.com/danielrosehill/Billing-Docs-Processors",
+    "is_fork": false,
+    "created_at": "2025-07-29T12:48:23Z"
+  },
+  {
+    "name": "Structured-Output-Schemas",
+    "pretty_name": "Structured Output Schemas",
+    "description": "Reuseable JSON schemas for structured Ai assistant/agent workflows",
+    "url": "https://github.com/danielrosehill/Structured-Output-Schemas",
+    "is_fork": false,
+    "created_at": "2025-07-29T10:32:59Z"
+  },
+  {
+    "name": "N8N-Workflows-Index",
+    "pretty_name": "N8n Workflows Index",
+    "description": "Index of N8N workflows that I have shared on Github",
+    "url": "https://github.com/danielrosehill/N8N-Workflows-Index",
+    "is_fork": false,
+    "created_at": "2025-07-24T11:37:26Z"
+  },
+  {
+    "name": "Voicenotes-Prompt-To-Email-Workflow-N8N",
+    "pretty_name": "Voicenotes Prompt To Email Workflow N8n",
+    "description": "No description provided",
+    "url": "https://github.com/danielrosehill/Voicenotes-Prompt-To-Email-Workflow-N8N",
+    "is_fork": false,
+    "created_at": "2025-07-24T11:33:21Z"
+  },
+  {
+    "name": "Medium-Post-Downloader",
+    "pretty_name": "Medium Post Downloader",
+    "description": "Download utility for programatically converting a Medium export archive into a full replica of your content with images",
+    "url": "https://github.com/danielrosehill/Medium-Post-Downloader",
+    "is_fork": false,
+    "created_at": "2025-07-23T05:49:55Z"
+  },
+  {
+    "name": "Windsurf-Rules-0725",
+    "pretty_name": "Windsurf Rules 0725",
+    "description": "Updated Windsurf rules",
+    "url": "https://github.com/danielrosehill/Windsurf-Rules-0725",
+    "is_fork": false,
+    "created_at": "2025-07-22T14:06:38Z"
+  },
+  {
+    "name": "AI-Agents",
+    "pretty_name": "Artificial Intelligence Agents",
+    "description": "Periodically updated index of AI agent configurations that I'm working on (or have created)",
+    "url": "https://github.com/danielrosehill/AI-Agents",
+    "is_fork": false,
+    "created_at": "2025-07-22T12:01:11Z"
+  },
+  {
+    "name": "N8N-Workflow-Sanitiser-Agent",
+    "pretty_name": "N8n Workflow Sanitiser Agent",
+    "description": "Configuration for an AI agent for sanitising (redacting personal details) in N8N workflow exports",
+    "url": "https://github.com/danielrosehill/N8N-Workflow-Sanitiser-Agent",
+    "is_fork": false,
+    "created_at": "2025-07-22T11:50:35Z"
+  },
+  {
+    "name": "Parenting-Questions-AI-Agent-Workflow",
+    "pretty_name": "Parenting Questions Artificial Intelligence Agent Workflow",
+    "description": "Workflow for an agent that answers parenting questions by email with upload to Google Drive",
+    "url": "https://github.com/danielrosehill/Parenting-Questions-AI-Agent-Workflow",
+    "is_fork": false,
+    "created_at": "2025-07-22T11:46:41Z"
+  },
+  {
+    "name": "Stack-Research-Agent-N8N-Config",
+    "pretty_name": "Stack Research Agent N8n Config",
+    "description": "No description provided",
+    "url": "https://github.com/danielrosehill/Stack-Research-Agent-N8N-Config",
+    "is_fork": false,
+    "created_at": "2025-07-21T14:07:54Z"
+  },
+  {
+    "name": "Email-AI-Outputs-Workflow",
+    "pretty_name": "Email Artificial Intelligence Outputs Workflow",
+    "description": "N8N workflow for sharing prompts and outputs with friends and family with a reformatting node for smoother MD to email-safe HTML ",
+    "url": "https://github.com/danielrosehill/Email-AI-Outputs-Workflow",
+    "is_fork": false,
+    "created_at": "2025-07-21T10:27:41Z"
+  },
+  {
+    "name": "NFS-SMB-Share-Lister",
+    "pretty_name": "Nfs Smb Share Lister",
+    "description": "Script for listing NFS and SMB shares on a local NAS",
+    "url": "https://github.com/danielrosehill/NFS-SMB-Share-Lister",
+    "is_fork": false,
+    "created_at": "2025-07-20T16:00:30Z"
+  },
+  {
+    "name": "Automation-Code-Snippets",
+    "pretty_name": "Automation Code Snippets",
+    "description": "Code snippets for automation building and integration (that might be of interest)",
+    "url": "https://github.com/danielrosehill/Automation-Code-Snippets",
+    "is_fork": false,
+    "created_at": "2025-07-20T13:04:26Z"
+  },
+  {
+    "name": "Prompt-And-Output-System-Prompt",
+    "pretty_name": "Prompt And Output System Prompt",
+    "description": "System prompt for directing an AI agent to begin every output with a sumary of the user's prompt",
+    "url": "https://github.com/danielrosehill/Prompt-And-Output-System-Prompt",
+    "is_fork": false,
+    "created_at": "2025-07-17T10:19:15Z"
+  },
+  {
+    "name": "Bug-Reports-Public",
+    "pretty_name": "Bug Reports Public",
+    "description": "Sanitised or non-sensitive bug reports that may have diagnostic utility for others",
+    "url": "https://github.com/danielrosehill/Bug-Reports-Public",
+    "is_fork": false,
+    "created_at": "2025-06-29T21:38:12Z"
+  },
+  {
+    "name": "SATINT-agent",
+    "pretty_name": "Satint Agent",
+    "description": "Configuration for an AI agent specialised in interpreting satellite imagery",
+    "url": "https://github.com/danielrosehill/SATINT-agent",
+    "is_fork": false,
+    "created_at": "2025-06-29T18:33:13Z"
+  },
+  {
+    "name": "Iran-Israel-War-OSINT",
+    "pretty_name": "Iran Israel War Osint",
+    "description": "A project to retrospectively analyse signals of war ahead of the Iran-Israel conflict, June 2025 to inform future preparedness and readiness efforts",
+    "url": "https://github.com/danielrosehill/Iran-Israel-War-OSINT",
+    "is_fork": false,
+    "created_at": "2025-06-28T20:45:47Z"
+  },
+  {
+    "name": "Shelter-Finder-Jerusalem",
+    "pretty_name": "Shelter Finder Jerusalem",
+    "description": "Android app for finding nearby public shelters in Jerusalem (populated in June 2025 from municipal data)",
+    "url": "https://github.com/danielrosehill/Shelter-Finder-Jerusalem",
+    "is_fork": false,
+    "created_at": "2025-06-26T15:24:02Z"
+  },
+  {
+    "name": "Jerusalem-Shelters-0625",
+    "pretty_name": "Jerusalem Shelters 0625",
+    "description": "Public shelters in Jerusalem (open sourced due to the public need for this info right now)",
+    "url": "https://github.com/danielrosehill/Jerusalem-Shelters-0625",
+    "is_fork": false,
+    "created_at": "2025-06-19T20:05:44Z"
+  },
+  {
+    "name": "HFC-Android-Config-Guide",
+    "pretty_name": "Hfc Android Config Guide",
+    "description": "Non-official! Home Front Command Android app config settings guides (06-2025)",
+    "url": "https://github.com/danielrosehill/HFC-Android-Config-Guide",
+    "is_fork": false,
+    "created_at": "2025-06-15T15:17:31Z"
+  },
+  {
+    "name": "To-Clone-Or-Not-To-Clone",
+    "pretty_name": "To Clone Or Not To Clone",
+    "description": "Interactive CLI for cloning your Github repos",
+    "url": "https://github.com/danielrosehill/To-Clone-Or-Not-To-Clone",
+    "is_fork": false,
+    "created_at": "2025-06-04T23:03:36Z"
+  },
+  {
+    "name": "Home-Assistant-Starter-List",
+    "pretty_name": "Home Assistant Starter List",
+    "description": "A few friends have asked me what they need to get going with HA so .. a list",
+    "url": "https://github.com/danielrosehill/Home-Assistant-Starter-List",
+    "is_fork": false,
+    "created_at": "2025-05-29T15:06:11Z"
+  },
+  {
+    "name": "Tech-Tool-Prompting-0525",
+    "pretty_name": "Tech Tool Prompting 0525",
+    "description": "Some stack evaluation prompts as I try to finish my stack \"updating\" process",
+    "url": "https://github.com/danielrosehill/Tech-Tool-Prompting-0525",
+    "is_fork": false,
+    "created_at": "2025-05-28T10:16:35Z"
+  },
+  {
+    "name": "System-Prompt-Library",
+    "pretty_name": "System Prompt Library",
+    "description": "New repo for system prompt library (for agents & assistants) updated for automation integration",
+    "url": "https://github.com/danielrosehill/System-Prompt-Library",
+    "is_fork": false,
+    "created_at": "2025-05-27T15:23:13Z"
+  },
+  {
+    "name": "Text-Transformation-Prompt-Library",
+    "pretty_name": "Text Transformation Prompt Library",
+    "description": "Updated repo of text transformation prompts (raw STT transcripts -> *). New repo for capturing via automations.",
+    "url": "https://github.com/danielrosehill/Text-Transformation-Prompt-Library",
+    "is_fork": false,
+    "created_at": "2025-05-27T14:23:53Z"
+  },
+  {
+    "name": "Green-Invoice-API-My-Notes",
+    "pretty_name": "Green Invoice Api My Notes",
+    "description": "Timestampped notes (non-official!) for Green Invoice API & Webhooks",
+    "url": "https://github.com/danielrosehill/Green-Invoice-API-My-Notes",
+    "is_fork": false,
+    "created_at": "2025-05-26T18:49:46Z"
+  },
+  {
+    "name": "Llama-OS-Doctor-Idea",
+    "pretty_name": "Llama Os Doctor Idea",
+    "description": "Planning notes for an AI agent / experiment",
+    "url": "https://github.com/danielrosehill/Llama-OS-Doctor-Idea",
+    "is_fork": false,
+    "created_at": "2025-05-26T13:23:28Z"
+  },
+  {
+    "name": "Gemini-SSML-Formatter",
+    "pretty_name": "Gemini Ssml Formatter",
+    "description": "Agent/app using Gemini to format plain markdown into speech synthesis markup language (SSML) for TTS narration",
+    "url": "https://github.com/danielrosehill/Gemini-SSML-Formatter",
+    "is_fork": false,
+    "created_at": "2025-05-25T12:24:06Z"
+  },
+  {
+    "name": "Awesome-Whisper-Apps",
+    "pretty_name": "Awesome Whisper Apps",
+    "description": "Useful speech to text tools that use Whisper under the hood (API/local)",
+    "url": "https://github.com/danielrosehill/Awesome-Whisper-Apps",
+    "is_fork": false,
+    "created_at": "2025-05-23T07:01:30Z"
+  },
+  {
+    "name": "Oref-GPT",
+    "pretty_name": "Oref Generative Pre-trained Transformer",
+    "description": "N8N automation that uses TwitterAPI.io to rertieve real-time social media data about the source of rocket alerts in Israel",
+    "url": "https://github.com/danielrosehill/Oref-GPT",
+    "is_fork": false,
+    "created_at": "2025-05-22T11:15:22Z"
+  },
+  {
+    "name": "ISO-Loookup-Assistants",
+    "pretty_name": "Iso Loookup Assistants",
+    "description": "Lookup agents to assist with standardising datasets with correct ISO values",
+    "url": "https://github.com/danielrosehill/ISO-Loookup-Assistants",
+    "is_fork": false,
+    "created_at": "2025-05-21T14:12:32Z"
+  },
+  {
     "name": "Open-In-Windsurf-KDE",
     "pretty_name": "Open In Windsurf Kde",
     "description": "Implementing an \"Open In Windsurf\" (AI IDE) context menu element for KDE Plasma",
