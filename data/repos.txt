@@ -233,11 +233,13 @@ My-Thoughts-On-Tech
 MyDesktop
 N8N-Workflow-Sanitiser-Agent
 N8N-Workflows-Index
+NEO_NAS_AB02B2_MQTT_Control
 NFC-Reader-Writer-App
 NFS-SMB-Share-Lister
 Natural-Language-Relationship-Definition
 Nice-Hebrew-Fonts
 Nuclino-API-Docs-Unofficial-0725
+OSINT-Missile-Intelligence-Agent
 OWUI-Docker-Compose-Generation-Agent
 OWUI-Frontend-URLs
 Obisidian-Prompt-Output-Saver-Local-Only
@@ -360,10 +362,13 @@ VS-Code-LLM-Tools
 Value-Factors-Data-Vis
 Voice-Assistant-Agent-Platforms
 Voice-LLM-App-Notes
+Voice-Note-Redaction-Agent
 Voice-Notepad-Prototype-Planning
 Voice-Notepad-With-Transformations
 Voice-Prompt-Editor
+Voice-Prompt-Enhancement-Node
 Voicenotes-Prompt-To-Email-Workflow-N8N
+Voicenotes-Wrapper-Linux
 WAQI-API-OpenAPI
 WAQI-Prometheus-Pull
 WAQI-Stations-Israel
@@ -376,7 +381,7 @@ Whisper-Transcription-Notepad-Linux
 Wiki
 Windsurf-Demo-Repo
 Windsurf-Global-Rules
-Windsurf-Rules-0725
+Windsurf-Rules
 Windsurf-Updater
 Workstation-Specs
 Writing-System-Prompts

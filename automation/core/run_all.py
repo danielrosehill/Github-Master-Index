@@ -69,12 +69,16 @@ def run_all(incremental=False, push_to_git=False, use_llm=True, apply_llm_change
     try:
         # Step 1: Fetch latest repository data from GitHub
         print("\n📡 Step 1: Fetching latest repository data from GitHub...")
-        repo_fetcher = import_from_file("../../scripts/repo-fetcher.py")
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        repo_root = os.path.dirname(os.path.dirname(script_dir))
+        repo_fetcher_path = os.path.join(repo_root, "scripts", "repo-fetcher.py")
+        repo_fetcher = import_from_file(repo_fetcher_path)
         repo_fetcher.fetch_repos(incremental)
         
         # Step 2: Generate comprehensive JSON and CSV exports
         print("\n📊 Step 2: Generating repository index files...")
-        json_creator = import_from_file("../../scripts/json-creator.py")
+        json_creator_path = os.path.join(repo_root, "scripts", "json-creator.py")
+        json_creator = import_from_file(json_creator_path)
         timeline_data = json_creator.generate_timeline_json()
         if timeline_data:
             json_creator.save_timeline_json(timeline_data)
@@ -82,7 +86,8 @@ def run_all(incremental=False, push_to_git=False, use_llm=True, apply_llm_change
             
             # Generate CSV from the same data
             print("   📄 Generating repo-index.csv...")
-            csv_creator = import_from_file("../../scripts/csv-creator.py")
+            csv_creator_path = os.path.join(repo_root, "scripts", "csv-creator.py")
+            csv_creator = import_from_file(csv_creator_path)
             csv_creator.save_timeline_csv(timeline_data)
             print("   ✅ Generated repo-index.csv")
         else:
@@ -133,31 +138,36 @@ def run_all(incremental=False, push_to_git=False, use_llm=True, apply_llm_change
 
         # Step 4: Generate repository status and activity data
         print("\n📊 Step 4: Generating repository status data...")
-        status_badges = import_from_file("../../scripts/status_badges.py")
+        status_badges_path = os.path.join(repo_root, "scripts", "status_badges.py")
+        status_badges = import_from_file(status_badges_path)
         status_badges.generate_status_badges()
         print("   ✅ Repository status data generated")
 
         # Step 5: Generate chronological timeline
         print("\n📅 Step 5: Generating chronological timeline...")
-        timeline_generator = import_from_file("../../scripts/timeline_generator.py")
+        timeline_generator_path = os.path.join(repo_root, "scripts", "timeline_generator.py")
+        timeline_generator = import_from_file(timeline_generator_path)
         timeline_generator.generate_timeline()
         print("   ✅ Timeline generated")
 
         # Step 6: Generate category markdown files
         print("\n📝 Step 6: Generating category markdown files...")
-        markdown_generator = import_from_file("../../scripts/markdown_generator.py")
+        markdown_generator_path = os.path.join(repo_root, "scripts", "markdown_generator.py")
+        markdown_generator = import_from_file(markdown_generator_path)
         markdown_generator.generate_markdown_files('data/exports/repo-index.json', 'lists/categories')
         print("   ✅ Category markdown files generated")
         
         # Step 7: Enhance section files with additional metadata
         print("\n✨ Step 7: Enhancing section files with status badges and language info...")
-        section_enhancer = import_from_file("../../scripts/section_enhancer.py")
+        section_enhancer_path = os.path.join(repo_root, "scripts", "section_enhancer.py")
+        section_enhancer = import_from_file(section_enhancer_path)
         section_enhancer.enhance_section_files()
         print("   ✅ Section files enhanced")
         
         # Step 8: Generate the main README.md
         print("\n📖 Step 8: Generating main README.md...")
-        readme_builder = import_from_file("../../scripts/readme-builder.py")
+        readme_builder_path = os.path.join(repo_root, "scripts", "readme-builder.py")
+        readme_builder = import_from_file(readme_builder_path)
         readme_builder.generate_readme()
         print("   ✅ README.md generated")
         

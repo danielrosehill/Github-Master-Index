@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [2025](#2025)
+  - [August 2025](#2025-august)
   - [July 2025](#2025-july)
   - [June 2025](#2025-june)
   - [May 2025](#2025-may)
@@ -37,7 +38,49 @@
 
 # 2025
 
+# August 2025 <a id='2025-august'></a>
+
+## 3 Aug
+
+**Voicenotes Wrapper Linux**
+
+(Unofficial) - destkop wrapper (Ubuntu) for Voicenotes.com AI note taker
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Voicenotes-Wrapper-Linux)
+
+## 1 Aug
+
+**Neo_nas_ab02b2_mqtt_control**
+
+MQTT controls scripts for the NEO NAS-AB02B2 Zigbee siren
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/NEO_NAS_AB02B2_MQTT_Control)
+
 # July 2025 <a id='2025-july'></a>
+
+## 30 Jul
+
+**Voice Prompt Enhancement Node**
+
+Configuration for an intermediate agent in voice automation workflows that bridge voice input to other actions 
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Voice-Prompt-Enhancement-Node)
+
+---
+
+**Voice Note Redaction Agent**
+
+Config for a text redaction agent for voicenote -> * workflows
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Voice-Note-Redaction-Agent)
+
+---
+
+**Osint Missile Intelligence Agent**
+
+Snap reports about causes and quantitiative info about hostile missile launches
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/OSINT-Missile-Intelligence-Agent)
 
 ## 29 Jul
 
@@ -97,11 +140,11 @@ Download utility for programatically converting a Medium export archive into a f
 
 ## 22 Jul
 
-**Windsurf Rules 0725**
+**Windsurf Rules**
 
 Updated Windsurf rules
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Windsurf-Rules-0725)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Windsurf-Rules)
 
 ---
 

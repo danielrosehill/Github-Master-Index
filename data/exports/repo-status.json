@@ -1,4 +1,29 @@
 {
+  "Voicenotes-Wrapper-Linux": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "NEO_NAS_AB02B2_MQTT_Control": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Voice-Prompt-Enhancement-Node": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Voice-Note-Redaction-Agent": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "OSINT-Missile-Intelligence-Agent": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
   "Save-AI-Outputs-To-Nuclino-N8N": {
     "status": "inactive",
     "last_updated_days": 999,
@@ -34,7 +59,7 @@
     "last_updated_days": 999,
     "language": "Unknown"
   },
-  "Windsurf-Rules-0725": {
+  "Windsurf-Rules": {
     "status": "inactive",
     "last_updated_days": 999,
     "language": "Unknown"

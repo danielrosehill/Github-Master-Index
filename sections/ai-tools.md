@@ -96,6 +96,3 @@ A Linux desktop utility for converting speech to text using the OpenAI Whisper A
 ## Windsurf Demo Repo [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Windsurf-Demo-Repo)
 Skeleton / model repo for using Windsurf for code generation (WIP)
 
-## Windsurf Rules 0725 [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Windsurf-Rules-0725)
-Updated Windsurf rules
-

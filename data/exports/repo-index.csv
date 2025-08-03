@@ -1,4 +1,9 @@
 name,pretty_name,description,url,is_fork,created_at
+Voicenotes-Wrapper-Linux,Voicenotes Wrapper Linux,(Unofficial) - destkop wrapper (Ubuntu) for Voicenotes.com AI note taker,https://github.com/danielrosehill/Voicenotes-Wrapper-Linux,False,2025-08-03T11:57:25Z
+NEO_NAS_AB02B2_MQTT_Control,Neo_nas_ab02b2_mqtt_control,MQTT controls scripts for the NEO NAS-AB02B2 Zigbee siren,https://github.com/danielrosehill/NEO_NAS_AB02B2_MQTT_Control,False,2025-08-01T21:17:29Z
+Voice-Prompt-Enhancement-Node,Voice Prompt Enhancement Node,Configuration for an intermediate agent in voice automation workflows that bridge voice input to other actions ,https://github.com/danielrosehill/Voice-Prompt-Enhancement-Node,False,2025-07-30T21:22:22Z
+Voice-Note-Redaction-Agent,Voice Note Redaction Agent,Config for a text redaction agent for voicenote -> * workflows,https://github.com/danielrosehill/Voice-Note-Redaction-Agent,False,2025-07-30T09:53:46Z
+OSINT-Missile-Intelligence-Agent,Osint Missile Intelligence Agent,Snap reports about causes and quantitiative info about hostile missile launches,https://github.com/danielrosehill/OSINT-Missile-Intelligence-Agent,False,2025-07-30T04:21:22Z
 Save-AI-Outputs-To-Nuclino-N8N,Save Artificial Intelligence Outputs To Nuclino N8n,N8N workflow for saving AI outputs to Nuclino and posting a notification to Slack,https://github.com/danielrosehill/Save-AI-Outputs-To-Nuclino-N8N,False,2025-07-29T16:48:53Z
 Nuclino-API-Docs-Unofficial-0725,Nuclino Api Docs Unofficial 0725,Unofficial point in time collection of Nuclino API documentation ,https://github.com/danielrosehill/Nuclino-API-Docs-Unofficial-0725,False,2025-07-29T16:00:10Z
 Billing-Docs-Processors,Billing Docs Processors,Model for billing document processing workflows (AI agents),https://github.com/danielrosehill/Billing-Docs-Processors,False,2025-07-29T12:48:23Z
@@ -6,7 +11,7 @@ Structured-Output-Schemas,Structured Output Schemas,Reuseable JSON schemas for s
 N8N-Workflows-Index,N8n Workflows Index,Index of N8N workflows that I have shared on Github,https://github.com/danielrosehill/N8N-Workflows-Index,False,2025-07-24T11:37:26Z
 Voicenotes-Prompt-To-Email-Workflow-N8N,Voicenotes Prompt To Email Workflow N8n,No description provided,https://github.com/danielrosehill/Voicenotes-Prompt-To-Email-Workflow-N8N,False,2025-07-24T11:33:21Z
 Medium-Post-Downloader,Medium Post Downloader,Download utility for programatically converting a Medium export archive into a full replica of your content with images,https://github.com/danielrosehill/Medium-Post-Downloader,False,2025-07-23T05:49:55Z
-Windsurf-Rules-0725,Windsurf Rules 0725,Updated Windsurf rules,https://github.com/danielrosehill/Windsurf-Rules-0725,False,2025-07-22T14:06:38Z
+Windsurf-Rules,Windsurf Rules,Updated Windsurf rules,https://github.com/danielrosehill/Windsurf-Rules,False,2025-07-22T14:06:38Z
 AI-Agents,Artificial Intelligence Agents,Periodically updated index of AI agent configurations that I'm working on (or have created),https://github.com/danielrosehill/AI-Agents,False,2025-07-22T12:01:11Z
 N8N-Workflow-Sanitiser-Agent,N8n Workflow Sanitiser Agent,Configuration for an AI agent for sanitising (redacting personal details) in N8N workflow exports,https://github.com/danielrosehill/N8N-Workflow-Sanitiser-Agent,False,2025-07-22T11:50:35Z
 Parenting-Questions-AI-Agent-Workflow,Parenting Questions Artificial Intelligence Agent Workflow,Workflow for an agent that answers parenting questions by email with upload to Google Drive,https://github.com/danielrosehill/Parenting-Questions-AI-Agent-Workflow,False,2025-07-22T11:46:41Z

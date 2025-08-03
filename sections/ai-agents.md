@@ -231,9 +231,6 @@ Linux voice notepad (latest version) with text transformations in addition to ST
 ## Whisper Converter Linux [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Whisper-Converter-Linux)
 Minimalist AI-generated desktop utility for Linux using Whisper API to transcribe audio files
 
-## Windsurf Rules 0725 [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Windsurf-Rules-0725)
-Updated Windsurf rules
-
 ## Workstation Specs [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Workstation-Specs)
 Periodically updated spec-sheet for workstation/desktop
 
