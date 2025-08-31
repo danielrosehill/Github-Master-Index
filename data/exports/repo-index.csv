@@ -1,4 +1,54 @@
 name,pretty_name,description,url,is_fork,created_at
+Github-Subindex-Template,Github Subindex Template,No description provided,https://github.com/danielrosehill/Github-Subindex-Template,False,2025-08-31T13:26:32Z
+Gemini-AI-Podcast-Generator-Web-UI,Gemini Artificial Intelligence Podcast Generator Web Ui,Web UI for Gemini AI podcast generator (Firebase Studio project),https://github.com/danielrosehill/Gemini-AI-Podcast-Generator-Web-UI,False,2025-08-31T13:17:24Z
+Gemini-AI-Podcast-Generator,Gemini Artificial Intelligence Podcast Generator,Gemini app for creating personal podcasts from your AI prompts,https://github.com/danielrosehill/Gemini-AI-Podcast-Generator,False,2025-08-31T11:28:19Z
+N8N-Test-Agents,N8n Test Agents,Simple n8n agent patterns for learning the ropes or validating MCP calling,https://github.com/danielrosehill/N8N-Test-Agents,False,2025-08-28T16:39:47Z
+Toxic-GPT,Toxic Generative Pre-trained Transformer,Joke configuration for a downtrodden LLM assistant for those needing a break from enforced AI positivity,https://github.com/danielrosehill/Toxic-GPT,False,2025-08-28T12:55:40Z
+Business-Idea-Refinement-Agent,Business Idea Refinement Agent,AI agent that helps users to explore business ideas and receive first-pass feedback,https://github.com/danielrosehill/Business-Idea-Refinement-Agent,False,2025-08-28T12:30:54Z
+gemini-cli,Gemini Cli,An open-source AI agent that brings the power of Gemini directly into your terminal.,https://github.com/danielrosehill/gemini-cli,True,2025-08-28T12:22:58Z
+STT-Fine-Tune-Project-Outline,Speech to Text Fine Tune Project Outline,Planning doc for STT fine-tuning and eval project,https://github.com/danielrosehill/STT-Fine-Tune-Project-Outline,False,2025-08-28T03:38:24Z
+advanced-camera-card,Advanced Camera Card,A comprehensive camera card for Home Assistant,https://github.com/danielrosehill/advanced-camera-card,True,2025-08-27T12:38:18Z
+Linux-STT-And-Voice-Assistants,Linux Speech to Text And Voice Assistants,Point in time snapshot/index of STT and voice assistants projects for Linux desktop,https://github.com/danielrosehill/Linux-STT-And-Voice-Assistants,False,2025-08-27T12:10:37Z
+Qwen-Agent,Qwen Agent,"Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",https://github.com/danielrosehill/Qwen-Agent,True,2025-08-26T16:47:39Z
+Agent-SDK-Env-Setup,Agent Sdk Env Setup,Script to clone a few of the main ADKs for testing/experimentation,https://github.com/danielrosehill/Agent-SDK-Env-Setup,False,2025-08-26T16:04:54Z
+A-Few-ADKs,A Few Adks,Point in time collection of some agent development kits (ADKs) to explore,https://github.com/danielrosehill/A-Few-ADKs,False,2025-08-25T22:00:51Z
+No-BS-AI-System-Prompt,No Bs Artificial Intelligence System Prompt,System prompt for a blunt AI assistant / LLM that gets to the point,https://github.com/danielrosehill/No-BS-AI-System-Prompt,False,2025-08-25T10:35:12Z
+mcp-nuclino,Mcp Nuclino,An mcp for nuclino,https://github.com/danielrosehill/mcp-nuclino,True,2025-08-25T10:30:22Z
+Tech-Stack-Structured,Tech Stack Structured,"Structured version of tech stack, including AI tools",https://github.com/danielrosehill/Tech-Stack-Structured,False,2025-08-25T10:28:17Z
+Ollama-Model-Collection,Ollama Model Collection,"Documenting ollama model collection for reproducing across systems, VC, etc",https://github.com/danielrosehill/Ollama-Model-Collection,False,2025-08-25T08:41:57Z
+Tech-Searches,Tech Searches,Note stack of stack researech specs and searches,https://github.com/danielrosehill/Tech-Searches,False,2025-08-25T08:33:54Z
+Sysadmin-AI-Agent-CLIs,Sysadmin Artificial Intelligence Agent Clis,Small index of CLIs capable of sysadmin task execution via AI backends,https://github.com/danielrosehill/Sysadmin-AI-Agent-CLIs,False,2025-08-24T14:11:49Z
+Gemini-CLI-Home-Guidance,Gemini Cli Home Guidance,"Gemini.md (""rules"") for the home folder / non repo constrained execution for Gemini CLI (model)",https://github.com/danielrosehill/Gemini-CLI-Home-Guidance,False,2025-08-24T13:14:47Z
+Gemini-Ubuntu-Maintenance-Agent,Gemini Ubuntu Maintenance Agent,No description provided,https://github.com/danielrosehill/Gemini-Ubuntu-Maintenance-Agent,False,2025-08-24T10:02:07Z
+Long-AI-Prompting-Experiment,Long Artificial Intelligence Prompting Experiment,"Experiment testing the ""added value"" of long context-dense prompts (versus casual converastional prompts) and the value of a voice ""prompt optimisation"" agent",https://github.com/danielrosehill/Long-AI-Prompting-Experiment,False,2025-08-19T14:22:41Z
+Red-Alert-HA-Template-0825,Red Alert Home Assistant Template 0825,"Updated Red Alert template, August 2025",https://github.com/danielrosehill/Red-Alert-HA-Template-0825,False,2025-08-17T13:24:01Z
+Decision-Making-Algorithm-Agent,Decision Making Algorithm Agent,Agent template for generating decision-making algorithms/flow-charts,https://github.com/danielrosehill/Decision-Making-Algorithm-Agent,False,2025-08-17T12:26:24Z
+Viseron-NVIDIA-Installation-Notes,Viseron Nvidia Installation Notes,No description provided,https://github.com/danielrosehill/Viseron-NVIDIA-Installation-Notes,False,2025-08-15T15:27:15Z
+Hardware-Probe-Agent-Template,Hardware Probe Agent Template,"AI agent template: uses SSH MCP to connect to remotes, probes hardware, generates a structured report. Use-cases: inventorising IT assets, upgrade planning",https://github.com/danielrosehill/Hardware-Probe-Agent-Template,False,2025-08-15T14:51:49Z
+N8N-Voice-Note-Context-Pipeline-Workflow,N8n Voice Note Context Pipeline Workflow,Workflow for extracting context data from voice notes and passing them into Pipecone vector database for upserting,https://github.com/danielrosehill/N8N-Voice-Note-Context-Pipeline-Workflow,False,2025-08-15T11:21:23Z
+Agent-Task-Repo-Pattern-With-MCP,Agent Task Repo Pattern With Mcp,Repo pattern/template for defined task handling by an LLM on a remote using MCP-SSH,https://github.com/danielrosehill/Agent-Task-Repo-Pattern-With-MCP,False,2025-08-13T09:49:48Z
+nocodb-mcp-server,Nocodb Mcp Server,nocodb mcp server,https://github.com/danielrosehill/nocodb-mcp-server,True,2025-08-12T14:09:20Z
+Environment-Docs-Template,Environment Docs Template,Pattern for a structured docs repository within an environment for AI and humans,https://github.com/danielrosehill/Environment-Docs-Template,False,2025-08-12T09:35:31Z
+Agent-Handover-Demo,Agent Handover Demo,Model for simple handover management (via docs!) between AI agents,https://github.com/danielrosehill/Agent-Handover-Demo,False,2025-08-11T23:25:26Z
+STT-Voice-Note-Evaluation,Speech to Text Voice Note Evaluation,No description provided,https://github.com/danielrosehill/STT-Voice-Note-Evaluation,False,2025-08-11T09:58:46Z
+LLM-Preferences-Guide,Large Language Model Preferences Guide,(Experiment)  Predefined set of instructions for local agents governing LLM usage and selection,https://github.com/danielrosehill/LLM-Preferences-Guide,False,2025-08-10T14:58:26Z
+N8N-LLM-Workflow-Bulk-Updater,N8n Large Language Model Workflow Bulk Updater,Backend script for applying bulk model updates to workflows (use-case: updating LLMs in nodes),https://github.com/danielrosehill/N8N-LLM-Workflow-Bulk-Updater,False,2025-08-10T12:34:14Z
+Backup-Projects-Index,Backup Projects Index,Indexing repo of backup related projects and scripts,https://github.com/danielrosehill/Backup-Projects-Index,False,2025-08-10T12:27:09Z
+Apps-Index,Apps Index,Indexing repo for apps created,https://github.com/danielrosehill/Apps-Index,False,2025-08-10T12:00:02Z
+Home-Assistant-Index,Home Assistant Index,Indexing repo for HA projects,https://github.com/danielrosehill/Home-Assistant-Index,False,2025-08-10T11:59:46Z
+Homebox-Projects-Index,Homebox Projects Index,No description provided,https://github.com/danielrosehill/Homebox-Projects-Index,False,2025-08-10T11:59:31Z
+Homebox-Image-Compressor,Homebox Image Compressor,No description provided,https://github.com/danielrosehill/Homebox-Image-Compressor,False,2025-08-10T11:52:27Z
+AI-Projects-Index,Artificial Intelligence Projects Index,Index of AI project related indices (master index),https://github.com/danielrosehill/AI-Projects-Index,False,2025-08-09T12:05:44Z
+MCP-Projects,Mcp Projects,Various MCP related projects I'm either working on (or have worked on),https://github.com/danielrosehill/MCP-Projects,False,2025-08-09T11:47:45Z
+NocoDB-Data-MCP,Nocodb Data Mcp,MCP for performing basic data ops on a self-hosted NocoDB with Cloudflare Tunnnel auth,https://github.com/danielrosehill/NocoDB-Data-MCP,False,2025-08-09T11:33:38Z
+KDE-AC-Controller-Widget,Kde Ac Controller Widget,Controller for AC,https://github.com/danielrosehill/KDE-AC-Controller-Widget,False,2025-08-09T11:18:12Z
+AI-Output-Storage-Backend-Data-Models,Artificial Intelligence Output Storage Backend Data Models,Some simple data tables for populating a backend for storing prompt runs,https://github.com/danielrosehill/AI-Output-Storage-Backend-Data-Models,False,2025-08-09T11:05:37Z
+Local-AI-Agent-Planning-Notes,Local Artificial Intelligence Agent Planning Notes,Planning notes for an MCP/agent idea (WIP),https://github.com/danielrosehill/Local-AI-Agent-Planning-Notes,False,2025-08-08T13:39:05Z
+N8N-Expense-Processing-Workflow,N8n Expense Processing Workflow,Expense processing backend workflow with AI agent for doc analysis,https://github.com/danielrosehill/N8N-Expense-Processing-Workflow,False,2025-08-07T16:56:18Z
+nuclino-mcp,Nuclino Mcp,No description provided,https://github.com/danielrosehill/nuclino-mcp,False,2025-08-06T13:44:21Z
+Ai-Development-Template,Artificial Intelligence Development Template,No description provided,https://github.com/danielrosehill/Ai-Development-Template,False,2025-08-05T16:50:05Z
+quick-repo-creator,Quick Repo Creator,A streamlined CLI tool for fast repository creation workflow with GitHub integration and IDE support,https://github.com/danielrosehill/quick-repo-creator,False,2025-08-05T12:52:27Z
+Prompt-Snippet-Library,Prompt Snippet Library,Snippets/building blocks for system prompts,https://github.com/danielrosehill/Prompt-Snippet-Library,False,2025-08-04T10:34:28Z
 Voicenotes-Wrapper-Linux,Voicenotes Wrapper Linux,(Unofficial) - destkop wrapper (Ubuntu) for Voicenotes.com AI note taker,https://github.com/danielrosehill/Voicenotes-Wrapper-Linux,False,2025-08-03T11:57:25Z
 NEO_NAS_AB02B2_MQTT_Control,Neo_nas_ab02b2_mqtt_control,MQTT controls scripts for the NEO NAS-AB02B2 Zigbee siren,https://github.com/danielrosehill/NEO_NAS_AB02B2_MQTT_Control,False,2025-08-01T21:17:29Z
 Voice-Prompt-Enhancement-Node,Voice Prompt Enhancement Node,Configuration for an intermediate agent in voice automation workflows that bridge voice input to other actions ,https://github.com/danielrosehill/Voice-Prompt-Enhancement-Node,False,2025-07-30T21:22:22Z
@@ -29,7 +79,7 @@ HFC-Android-Config-Guide,Hfc Android Config Guide,Non-official! Home Front Comma
 To-Clone-Or-Not-To-Clone,To Clone Or Not To Clone,Interactive CLI for cloning your Github repos,https://github.com/danielrosehill/To-Clone-Or-Not-To-Clone,False,2025-06-04T23:03:36Z
 Home-Assistant-Starter-List,Home Assistant Starter List,A few friends have asked me what they need to get going with HA so .. a list,https://github.com/danielrosehill/Home-Assistant-Starter-List,False,2025-05-29T15:06:11Z
 Tech-Tool-Prompting-0525,Tech Tool Prompting 0525,"Some stack evaluation prompts as I try to finish my stack ""updating"" process",https://github.com/danielrosehill/Tech-Tool-Prompting-0525,False,2025-05-28T10:16:35Z
-System-Prompt-Library,System Prompt Library,New repo for system prompt library (for agents & assistants) updated for automation integration,https://github.com/danielrosehill/System-Prompt-Library,False,2025-05-27T15:23:13Z
+System-Prompt-Library,System Prompt Library,System prompts for AI agents and assistants (automatically populated); periodic point in time exports are releases,https://github.com/danielrosehill/System-Prompt-Library,False,2025-05-27T15:23:13Z
 Text-Transformation-Prompt-Library,Text Transformation Prompt Library,Updated repo of text transformation prompts (raw STT transcripts -> *). New repo for capturing via automations.,https://github.com/danielrosehill/Text-Transformation-Prompt-Library,False,2025-05-27T14:23:53Z
 Green-Invoice-API-My-Notes,Green Invoice Api My Notes,Timestampped notes (non-official!) for Green Invoice API & Webhooks,https://github.com/danielrosehill/Green-Invoice-API-My-Notes,False,2025-05-26T18:49:46Z
 Llama-OS-Doctor-Idea,Llama Os Doctor Idea,Planning notes for an AI agent / experiment,https://github.com/danielrosehill/Llama-OS-Doctor-Idea,False,2025-05-26T13:23:28Z
@@ -280,7 +330,6 @@ AI-Generated-Project-Starters,Artificial Intelligence Generated Project Starters
 My-Calculators,My Calculators,Unit exchange calculators for calculations I commonly require,https://github.com/danielrosehill/My-Calculators,False,2024-12-09T12:55:03Z
 GHG-Emissions-Data-Pipeline,Ghg Emissions Data Pipeline,Data pipeline repository supplying various data visualisation projects,https://github.com/danielrosehill/GHG-Emissions-Data-Pipeline,False,2024-12-09T12:39:31Z
 GHG-vs-EBITDA-V2,Ghg Vs Ebitda V2,Another data visualisation series comparing companies' GHG emissions with their EBITDA,https://github.com/danielrosehill/GHG-vs-EBITDA-V2,False,2024-12-09T09:46:21Z
-Master-Index,Master Index,This repository serves as a master index linking to the various indices I have for more narrow groupings of topics.,https://github.com/danielrosehill/Master-Index,False,2024-12-08T09:58:23Z
 Data-Projects-Index,Data Projects Index,"Data apps and datasets deployed to Streamlit Community Cloud, Hugging Face, and elsewhere. ",https://github.com/danielrosehill/Data-Projects-Index,False,2024-12-08T09:56:47Z
 Sustainability-Report-Data-Extractor,Sustainability Report Data Extractor,Tool for extracting data-containing pages from sustainability reports,https://github.com/danielrosehill/Sustainability-Report-Data-Extractor,False,2024-12-08T09:45:05Z
 Value-Factors-Data-Vis,Value Factors Data Vis,Streamlit app containing visualisations of the Global Value Factors Database (GVFD) released by the IFVI in 2024,https://github.com/danielrosehill/Value-Factors-Data-Vis,False,2024-12-05T01:52:24Z

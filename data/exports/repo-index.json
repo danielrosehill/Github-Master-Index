@@ -1,5 +1,405 @@
 [
   {
+    "name": "Github-Subindex-Template",
+    "pretty_name": "Github Subindex Template",
+    "description": "No description provided",
+    "url": "https://github.com/danielrosehill/Github-Subindex-Template",
+    "is_fork": false,
+    "created_at": "2025-08-31T13:26:32Z"
+  },
+  {
+    "name": "Gemini-AI-Podcast-Generator-Web-UI",
+    "pretty_name": "Gemini Artificial Intelligence Podcast Generator Web Ui",
+    "description": "Web UI for Gemini AI podcast generator (Firebase Studio project)",
+    "url": "https://github.com/danielrosehill/Gemini-AI-Podcast-Generator-Web-UI",
+    "is_fork": false,
+    "created_at": "2025-08-31T13:17:24Z"
+  },
+  {
+    "name": "Gemini-AI-Podcast-Generator",
+    "pretty_name": "Gemini Artificial Intelligence Podcast Generator",
+    "description": "Gemini app for creating personal podcasts from your AI prompts",
+    "url": "https://github.com/danielrosehill/Gemini-AI-Podcast-Generator",
+    "is_fork": false,
+    "created_at": "2025-08-31T11:28:19Z"
+  },
+  {
+    "name": "N8N-Test-Agents",
+    "pretty_name": "N8n Test Agents",
+    "description": "Simple n8n agent patterns for learning the ropes or validating MCP calling",
+    "url": "https://github.com/danielrosehill/N8N-Test-Agents",
+    "is_fork": false,
+    "created_at": "2025-08-28T16:39:47Z"
+  },
+  {
+    "name": "Toxic-GPT",
+    "pretty_name": "Toxic Generative Pre-trained Transformer",
+    "description": "Joke configuration for a downtrodden LLM assistant for those needing a break from enforced AI positivity",
+    "url": "https://github.com/danielrosehill/Toxic-GPT",
+    "is_fork": false,
+    "created_at": "2025-08-28T12:55:40Z"
+  },
+  {
+    "name": "Business-Idea-Refinement-Agent",
+    "pretty_name": "Business Idea Refinement Agent",
+    "description": "AI agent that helps users to explore business ideas and receive first-pass feedback",
+    "url": "https://github.com/danielrosehill/Business-Idea-Refinement-Agent",
+    "is_fork": false,
+    "created_at": "2025-08-28T12:30:54Z"
+  },
+  {
+    "name": "gemini-cli",
+    "pretty_name": "Gemini Cli",
+    "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+    "url": "https://github.com/danielrosehill/gemini-cli",
+    "is_fork": true,
+    "created_at": "2025-08-28T12:22:58Z"
+  },
+  {
+    "name": "STT-Fine-Tune-Project-Outline",
+    "pretty_name": "Speech to Text Fine Tune Project Outline",
+    "description": "Planning doc for STT fine-tuning and eval project",
+    "url": "https://github.com/danielrosehill/STT-Fine-Tune-Project-Outline",
+    "is_fork": false,
+    "created_at": "2025-08-28T03:38:24Z"
+  },
+  {
+    "name": "advanced-camera-card",
+    "pretty_name": "Advanced Camera Card",
+    "description": "A comprehensive camera card for Home Assistant",
+    "url": "https://github.com/danielrosehill/advanced-camera-card",
+    "is_fork": true,
+    "created_at": "2025-08-27T12:38:18Z"
+  },
+  {
+    "name": "Linux-STT-And-Voice-Assistants",
+    "pretty_name": "Linux Speech to Text And Voice Assistants",
+    "description": "Point in time snapshot/index of STT and voice assistants projects for Linux desktop",
+    "url": "https://github.com/danielrosehill/Linux-STT-And-Voice-Assistants",
+    "is_fork": false,
+    "created_at": "2025-08-27T12:10:37Z"
+  },
+  {
+    "name": "Qwen-Agent",
+    "pretty_name": "Qwen Agent",
+    "description": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",
+    "url": "https://github.com/danielrosehill/Qwen-Agent",
+    "is_fork": true,
+    "created_at": "2025-08-26T16:47:39Z"
+  },
+  {
+    "name": "Agent-SDK-Env-Setup",
+    "pretty_name": "Agent Sdk Env Setup",
+    "description": "Script to clone a few of the main ADKs for testing/experimentation",
+    "url": "https://github.com/danielrosehill/Agent-SDK-Env-Setup",
+    "is_fork": false,
+    "created_at": "2025-08-26T16:04:54Z"
+  },
+  {
+    "name": "A-Few-ADKs",
+    "pretty_name": "A Few Adks",
+    "description": "Point in time collection of some agent development kits (ADKs) to explore",
+    "url": "https://github.com/danielrosehill/A-Few-ADKs",
+    "is_fork": false,
+    "created_at": "2025-08-25T22:00:51Z"
+  },
+  {
+    "name": "No-BS-AI-System-Prompt",
+    "pretty_name": "No Bs Artificial Intelligence System Prompt",
+    "description": "System prompt for a blunt AI assistant / LLM that gets to the point",
+    "url": "https://github.com/danielrosehill/No-BS-AI-System-Prompt",
+    "is_fork": false,
+    "created_at": "2025-08-25T10:35:12Z"
+  },
+  {
+    "name": "mcp-nuclino",
+    "pretty_name": "Mcp Nuclino",
+    "description": "An mcp for nuclino",
+    "url": "https://github.com/danielrosehill/mcp-nuclino",
+    "is_fork": true,
+    "created_at": "2025-08-25T10:30:22Z"
+  },
+  {
+    "name": "Tech-Stack-Structured",
+    "pretty_name": "Tech Stack Structured",
+    "description": "Structured version of tech stack, including AI tools",
+    "url": "https://github.com/danielrosehill/Tech-Stack-Structured",
+    "is_fork": false,
+    "created_at": "2025-08-25T10:28:17Z"
+  },
+  {
+    "name": "Ollama-Model-Collection",
+    "pretty_name": "Ollama Model Collection",
+    "description": "Documenting ollama model collection for reproducing across systems, VC, etc",
+    "url": "https://github.com/danielrosehill/Ollama-Model-Collection",
+    "is_fork": false,
+    "created_at": "2025-08-25T08:41:57Z"
+  },
+  {
+    "name": "Tech-Searches",
+    "pretty_name": "Tech Searches",
+    "description": "Note stack of stack researech specs and searches",
+    "url": "https://github.com/danielrosehill/Tech-Searches",
+    "is_fork": false,
+    "created_at": "2025-08-25T08:33:54Z"
+  },
+  {
+    "name": "Sysadmin-AI-Agent-CLIs",
+    "pretty_name": "Sysadmin Artificial Intelligence Agent Clis",
+    "description": "Small index of CLIs capable of sysadmin task execution via AI backends",
+    "url": "https://github.com/danielrosehill/Sysadmin-AI-Agent-CLIs",
+    "is_fork": false,
+    "created_at": "2025-08-24T14:11:49Z"
+  },
+  {
+    "name": "Gemini-CLI-Home-Guidance",
+    "pretty_name": "Gemini Cli Home Guidance",
+    "description": "Gemini.md (\"rules\") for the home folder / non repo constrained execution for Gemini CLI (model)",
+    "url": "https://github.com/danielrosehill/Gemini-CLI-Home-Guidance",
+    "is_fork": false,
+    "created_at": "2025-08-24T13:14:47Z"
+  },
+  {
+    "name": "Gemini-Ubuntu-Maintenance-Agent",
+    "pretty_name": "Gemini Ubuntu Maintenance Agent",
+    "description": "No description provided",
+    "url": "https://github.com/danielrosehill/Gemini-Ubuntu-Maintenance-Agent",
+    "is_fork": false,
+    "created_at": "2025-08-24T10:02:07Z"
+  },
+  {
+    "name": "Long-AI-Prompting-Experiment",
+    "pretty_name": "Long Artificial Intelligence Prompting Experiment",
+    "description": "Experiment testing the \"added value\" of long context-dense prompts (versus casual converastional prompts) and the value of a voice \"prompt optimisation\" agent",
+    "url": "https://github.com/danielrosehill/Long-AI-Prompting-Experiment",
+    "is_fork": false,
+    "created_at": "2025-08-19T14:22:41Z"
+  },
+  {
+    "name": "Red-Alert-HA-Template-0825",
+    "pretty_name": "Red Alert Home Assistant Template 0825",
+    "description": "Updated Red Alert template, August 2025",
+    "url": "https://github.com/danielrosehill/Red-Alert-HA-Template-0825",
+    "is_fork": false,
+    "created_at": "2025-08-17T13:24:01Z"
+  },
+  {
+    "name": "Decision-Making-Algorithm-Agent",
+    "pretty_name": "Decision Making Algorithm Agent",
+    "description": "Agent template for generating decision-making algorithms/flow-charts",
+    "url": "https://github.com/danielrosehill/Decision-Making-Algorithm-Agent",
+    "is_fork": false,
+    "created_at": "2025-08-17T12:26:24Z"
+  },
+  {
+    "name": "Viseron-NVIDIA-Installation-Notes",
+    "pretty_name": "Viseron Nvidia Installation Notes",
+    "description": "No description provided",
+    "url": "https://github.com/danielrosehill/Viseron-NVIDIA-Installation-Notes",
+    "is_fork": false,
+    "created_at": "2025-08-15T15:27:15Z"
+  },
+  {
+    "name": "Hardware-Probe-Agent-Template",
+    "pretty_name": "Hardware Probe Agent Template",
+    "description": "AI agent template: uses SSH MCP to connect to remotes, probes hardware, generates a structured report. Use-cases: inventorising IT assets, upgrade planning",
+    "url": "https://github.com/danielrosehill/Hardware-Probe-Agent-Template",
+    "is_fork": false,
+    "created_at": "2025-08-15T14:51:49Z"
+  },
+  {
+    "name": "N8N-Voice-Note-Context-Pipeline-Workflow",
+    "pretty_name": "N8n Voice Note Context Pipeline Workflow",
+    "description": "Workflow for extracting context data from voice notes and passing them into Pipecone vector database for upserting",
+    "url": "https://github.com/danielrosehill/N8N-Voice-Note-Context-Pipeline-Workflow",
+    "is_fork": false,
+    "created_at": "2025-08-15T11:21:23Z"
+  },
+  {
+    "name": "Agent-Task-Repo-Pattern-With-MCP",
+    "pretty_name": "Agent Task Repo Pattern With Mcp",
+    "description": "Repo pattern/template for defined task handling by an LLM on a remote using MCP-SSH",
+    "url": "https://github.com/danielrosehill/Agent-Task-Repo-Pattern-With-MCP",
+    "is_fork": false,
+    "created_at": "2025-08-13T09:49:48Z"
+  },
+  {
+    "name": "nocodb-mcp-server",
+    "pretty_name": "Nocodb Mcp Server",
+    "description": "nocodb mcp server",
+    "url": "https://github.com/danielrosehill/nocodb-mcp-server",
+    "is_fork": true,
+    "created_at": "2025-08-12T14:09:20Z"
+  },
+  {
+    "name": "Environment-Docs-Template",
+    "pretty_name": "Environment Docs Template",
+    "description": "Pattern for a structured docs repository within an environment for AI and humans",
+    "url": "https://github.com/danielrosehill/Environment-Docs-Template",
+    "is_fork": false,
+    "created_at": "2025-08-12T09:35:31Z"
+  },
+  {
+    "name": "Agent-Handover-Demo",
+    "pretty_name": "Agent Handover Demo",
+    "description": "Model for simple handover management (via docs!) between AI agents",
+    "url": "https://github.com/danielrosehill/Agent-Handover-Demo",
+    "is_fork": false,
+    "created_at": "2025-08-11T23:25:26Z"
+  },
+  {
+    "name": "STT-Voice-Note-Evaluation",
+    "pretty_name": "Speech to Text Voice Note Evaluation",
+    "description": "No description provided",
+    "url": "https://github.com/danielrosehill/STT-Voice-Note-Evaluation",
+    "is_fork": false,
+    "created_at": "2025-08-11T09:58:46Z"
+  },
+  {
+    "name": "LLM-Preferences-Guide",
+    "pretty_name": "Large Language Model Preferences Guide",
+    "description": "(Experiment)  Predefined set of instructions for local agents governing LLM usage and selection",
+    "url": "https://github.com/danielrosehill/LLM-Preferences-Guide",
+    "is_fork": false,
+    "created_at": "2025-08-10T14:58:26Z"
+  },
+  {
+    "name": "N8N-LLM-Workflow-Bulk-Updater",
+    "pretty_name": "N8n Large Language Model Workflow Bulk Updater",
+    "description": "Backend script for applying bulk model updates to workflows (use-case: updating LLMs in nodes)",
+    "url": "https://github.com/danielrosehill/N8N-LLM-Workflow-Bulk-Updater",
+    "is_fork": false,
+    "created_at": "2025-08-10T12:34:14Z"
+  },
+  {
+    "name": "Backup-Projects-Index",
+    "pretty_name": "Backup Projects Index",
+    "description": "Indexing repo of backup related projects and scripts",
+    "url": "https://github.com/danielrosehill/Backup-Projects-Index",
+    "is_fork": false,
+    "created_at": "2025-08-10T12:27:09Z"
+  },
+  {
+    "name": "Apps-Index",
+    "pretty_name": "Apps Index",
+    "description": "Indexing repo for apps created",
+    "url": "https://github.com/danielrosehill/Apps-Index",
+    "is_fork": false,
+    "created_at": "2025-08-10T12:00:02Z"
+  },
+  {
+    "name": "Home-Assistant-Index",
+    "pretty_name": "Home Assistant Index",
+    "description": "Indexing repo for HA projects",
+    "url": "https://github.com/danielrosehill/Home-Assistant-Index",
+    "is_fork": false,
+    "created_at": "2025-08-10T11:59:46Z"
+  },
+  {
+    "name": "Homebox-Projects-Index",
+    "pretty_name": "Homebox Projects Index",
+    "description": "No description provided",
+    "url": "https://github.com/danielrosehill/Homebox-Projects-Index",
+    "is_fork": false,
+    "created_at": "2025-08-10T11:59:31Z"
+  },
+  {
+    "name": "Homebox-Image-Compressor",
+    "pretty_name": "Homebox Image Compressor",
+    "description": "No description provided",
+    "url": "https://github.com/danielrosehill/Homebox-Image-Compressor",
+    "is_fork": false,
+    "created_at": "2025-08-10T11:52:27Z"
+  },
+  {
+    "name": "AI-Projects-Index",
+    "pretty_name": "Artificial Intelligence Projects Index",
+    "description": "Index of AI project related indices (master index)",
+    "url": "https://github.com/danielrosehill/AI-Projects-Index",
+    "is_fork": false,
+    "created_at": "2025-08-09T12:05:44Z"
+  },
+  {
+    "name": "MCP-Projects",
+    "pretty_name": "Mcp Projects",
+    "description": "Various MCP related projects I'm either working on (or have worked on)",
+    "url": "https://github.com/danielrosehill/MCP-Projects",
+    "is_fork": false,
+    "created_at": "2025-08-09T11:47:45Z"
+  },
+  {
+    "name": "NocoDB-Data-MCP",
+    "pretty_name": "Nocodb Data Mcp",
+    "description": "MCP for performing basic data ops on a self-hosted NocoDB with Cloudflare Tunnnel auth",
+    "url": "https://github.com/danielrosehill/NocoDB-Data-MCP",
+    "is_fork": false,
+    "created_at": "2025-08-09T11:33:38Z"
+  },
+  {
+    "name": "KDE-AC-Controller-Widget",
+    "pretty_name": "Kde Ac Controller Widget",
+    "description": "Controller for AC",
+    "url": "https://github.com/danielrosehill/KDE-AC-Controller-Widget",
+    "is_fork": false,
+    "created_at": "2025-08-09T11:18:12Z"
+  },
+  {
+    "name": "AI-Output-Storage-Backend-Data-Models",
+    "pretty_name": "Artificial Intelligence Output Storage Backend Data Models",
+    "description": "Some simple data tables for populating a backend for storing prompt runs",
+    "url": "https://github.com/danielrosehill/AI-Output-Storage-Backend-Data-Models",
+    "is_fork": false,
+    "created_at": "2025-08-09T11:05:37Z"
+  },
+  {
+    "name": "Local-AI-Agent-Planning-Notes",
+    "pretty_name": "Local Artificial Intelligence Agent Planning Notes",
+    "description": "Planning notes for an MCP/agent idea (WIP)",
+    "url": "https://github.com/danielrosehill/Local-AI-Agent-Planning-Notes",
+    "is_fork": false,
+    "created_at": "2025-08-08T13:39:05Z"
+  },
+  {
+    "name": "N8N-Expense-Processing-Workflow",
+    "pretty_name": "N8n Expense Processing Workflow",
+    "description": "Expense processing backend workflow with AI agent for doc analysis",
+    "url": "https://github.com/danielrosehill/N8N-Expense-Processing-Workflow",
+    "is_fork": false,
+    "created_at": "2025-08-07T16:56:18Z"
+  },
+  {
+    "name": "nuclino-mcp",
+    "pretty_name": "Nuclino Mcp",
+    "description": "No description provided",
+    "url": "https://github.com/danielrosehill/nuclino-mcp",
+    "is_fork": false,
+    "created_at": "2025-08-06T13:44:21Z"
+  },
+  {
+    "name": "Ai-Development-Template",
+    "pretty_name": "Artificial Intelligence Development Template",
+    "description": "No description provided",
+    "url": "https://github.com/danielrosehill/Ai-Development-Template",
+    "is_fork": false,
+    "created_at": "2025-08-05T16:50:05Z"
+  },
+  {
+    "name": "quick-repo-creator",
+    "pretty_name": "Quick Repo Creator",
+    "description": "A streamlined CLI tool for fast repository creation workflow with GitHub integration and IDE support",
+    "url": "https://github.com/danielrosehill/quick-repo-creator",
+    "is_fork": false,
+    "created_at": "2025-08-05T12:52:27Z"
+  },
+  {
+    "name": "Prompt-Snippet-Library",
+    "pretty_name": "Prompt Snippet Library",
+    "description": "Snippets/building blocks for system prompts",
+    "url": "https://github.com/danielrosehill/Prompt-Snippet-Library",
+    "is_fork": false,
+    "created_at": "2025-08-04T10:34:28Z"
+  },
+  {
     "name": "Voicenotes-Wrapper-Linux",
     "pretty_name": "Voicenotes Wrapper Linux",
     "description": "(Unofficial) - destkop wrapper (Ubuntu) for Voicenotes.com AI note taker",
@@ -242,7 +642,7 @@
   {
     "name": "System-Prompt-Library",
     "pretty_name": "System Prompt Library",
-    "description": "New repo for system prompt library (for agents & assistants) updated for automation integration",
+    "description": "System prompts for AI agents and assistants (automatically populated); periodic point in time exports are releases",
     "url": "https://github.com/danielrosehill/System-Prompt-Library",
     "is_fork": false,
     "created_at": "2025-05-27T15:23:13Z"
@@ -2246,14 +2646,6 @@
     "url": "https://github.com/danielrosehill/GHG-vs-EBITDA-V2",
     "is_fork": false,
     "created_at": "2024-12-09T09:46:21Z"
-  },
-  {
-    "name": "Master-Index",
-    "pretty_name": "Master Index",
-    "description": "This repository serves as a master index linking to the various indices I have for more narrow groupings of topics.",
-    "url": "https://github.com/danielrosehill/Master-Index",
-    "is_fork": false,
-    "created_at": "2024-12-08T09:58:23Z"
   },
   {
     "name": "Data-Projects-Index",

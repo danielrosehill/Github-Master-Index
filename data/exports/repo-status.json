@@ -1,4 +1,254 @@
 {
+  "Github-Subindex-Template": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Gemini-AI-Podcast-Generator-Web-UI": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Gemini-AI-Podcast-Generator": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "N8N-Test-Agents": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Toxic-GPT": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Business-Idea-Refinement-Agent": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "gemini-cli": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "STT-Fine-Tune-Project-Outline": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "advanced-camera-card": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Linux-STT-And-Voice-Assistants": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Qwen-Agent": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Agent-SDK-Env-Setup": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "A-Few-ADKs": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "No-BS-AI-System-Prompt": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "mcp-nuclino": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Tech-Stack-Structured": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Ollama-Model-Collection": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Tech-Searches": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Sysadmin-AI-Agent-CLIs": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Gemini-CLI-Home-Guidance": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Gemini-Ubuntu-Maintenance-Agent": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Long-AI-Prompting-Experiment": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Red-Alert-HA-Template-0825": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Decision-Making-Algorithm-Agent": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Viseron-NVIDIA-Installation-Notes": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Hardware-Probe-Agent-Template": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "N8N-Voice-Note-Context-Pipeline-Workflow": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Agent-Task-Repo-Pattern-With-MCP": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "nocodb-mcp-server": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Environment-Docs-Template": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Agent-Handover-Demo": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "STT-Voice-Note-Evaluation": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "LLM-Preferences-Guide": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "N8N-LLM-Workflow-Bulk-Updater": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Backup-Projects-Index": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Apps-Index": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Home-Assistant-Index": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Homebox-Projects-Index": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Homebox-Image-Compressor": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "AI-Projects-Index": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "MCP-Projects": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "NocoDB-Data-MCP": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "KDE-AC-Controller-Widget": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "AI-Output-Storage-Backend-Data-Models": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Local-AI-Agent-Planning-Notes": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "N8N-Expense-Processing-Workflow": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "nuclino-mcp": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Ai-Development-Template": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "quick-repo-creator": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
+  "Prompt-Snippet-Library": {
+    "status": "inactive",
+    "last_updated_days": 999,
+    "language": "Unknown"
+  },
   "Voicenotes-Wrapper-Linux": {
     "status": "inactive",
     "last_updated_days": 999,
@@ -1400,11 +1650,6 @@
     "language": "Unknown"
   },
   "GHG-vs-EBITDA-V2": {
-    "status": "inactive",
-    "last_updated_days": 999,
-    "language": "Unknown"
-  },
-  "Master-Index": {
     "status": "inactive",
     "last_updated_days": 999,
     "language": "Unknown"

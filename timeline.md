@@ -40,6 +40,416 @@
 
 # August 2025 <a id='2025-august'></a>
 
+## 31 Aug
+
+**Github Subindex Template**
+
+No description provided
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Github-Subindex-Template)
+
+---
+
+**Gemini Artificial Intelligence Podcast Generator Web Ui**
+
+Web UI for Gemini AI podcast generator (Firebase Studio project)
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Gemini-AI-Podcast-Generator-Web-UI)
+
+---
+
+**Gemini Artificial Intelligence Podcast Generator**
+
+Gemini app for creating personal podcasts from your AI prompts
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Gemini-AI-Podcast-Generator)
+
+## 28 Aug
+
+**N8n Test Agents**
+
+Simple n8n agent patterns for learning the ropes or validating MCP calling
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/N8N-Test-Agents)
+
+---
+
+**Toxic Generative Pre-trained Transformer**
+
+Joke configuration for a downtrodden LLM assistant for those needing a break from enforced AI positivity
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Toxic-GPT)
+
+---
+
+**Business Idea Refinement Agent**
+
+AI agent that helps users to explore business ideas and receive first-pass feedback
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Business-Idea-Refinement-Agent)
+
+---
+
+**Gemini Cli**
+
+An open-source AI agent that brings the power of Gemini directly into your terminal.
+
+🔱 *This is a fork*
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/gemini-cli)
+
+---
+
+**Speech to Text Fine Tune Project Outline**
+
+Planning doc for STT fine-tuning and eval project
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/STT-Fine-Tune-Project-Outline)
+
+## 27 Aug
+
+**Advanced Camera Card**
+
+A comprehensive camera card for Home Assistant
+
+🔱 *This is a fork*
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/advanced-camera-card)
+
+---
+
+**Linux Speech to Text And Voice Assistants**
+
+Point in time snapshot/index of STT and voice assistants projects for Linux desktop
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Linux-STT-And-Voice-Assistants)
+
+## 26 Aug
+
+**Qwen Agent**
+
+Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
+
+🔱 *This is a fork*
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Qwen-Agent)
+
+---
+
+**Agent Sdk Env Setup**
+
+Script to clone a few of the main ADKs for testing/experimentation
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Agent-SDK-Env-Setup)
+
+## 25 Aug
+
+**A Few Adks**
+
+Point in time collection of some agent development kits (ADKs) to explore
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/A-Few-ADKs)
+
+---
+
+**No Bs Artificial Intelligence System Prompt**
+
+System prompt for a blunt AI assistant / LLM that gets to the point
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/No-BS-AI-System-Prompt)
+
+---
+
+**Mcp Nuclino**
+
+An mcp for nuclino
+
+🔱 *This is a fork*
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/mcp-nuclino)
+
+---
+
+**Tech Stack Structured**
+
+Structured version of tech stack, including AI tools
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Tech-Stack-Structured)
+
+---
+
+**Ollama Model Collection**
+
+Documenting ollama model collection for reproducing across systems, VC, etc
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Ollama-Model-Collection)
+
+---
+
+**Tech Searches**
+
+Note stack of stack researech specs and searches
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Tech-Searches)
+
+## 24 Aug
+
+**Sysadmin Artificial Intelligence Agent Clis**
+
+Small index of CLIs capable of sysadmin task execution via AI backends
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Sysadmin-AI-Agent-CLIs)
+
+---
+
+**Gemini Cli Home Guidance**
+
+Gemini.md ("rules") for the home folder / non repo constrained execution for Gemini CLI (model)
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Gemini-CLI-Home-Guidance)
+
+---
+
+**Gemini Ubuntu Maintenance Agent**
+
+No description provided
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Gemini-Ubuntu-Maintenance-Agent)
+
+## 19 Aug
+
+**Long Artificial Intelligence Prompting Experiment**
+
+Experiment testing the "added value" of long context-dense prompts (versus casual converastional prompts) and the value of a voice "prompt optimisation" agent
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Long-AI-Prompting-Experiment)
+
+## 17 Aug
+
+**Red Alert Home Assistant Template 0825**
+
+Updated Red Alert template, August 2025
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Red-Alert-HA-Template-0825)
+
+---
+
+**Decision Making Algorithm Agent**
+
+Agent template for generating decision-making algorithms/flow-charts
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Decision-Making-Algorithm-Agent)
+
+## 15 Aug
+
+**Viseron Nvidia Installation Notes**
+
+No description provided
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Viseron-NVIDIA-Installation-Notes)
+
+---
+
+**Hardware Probe Agent Template**
+
+AI agent template: uses SSH MCP to connect to remotes, probes hardware, generates a structured report. Use-cases: inventorising IT assets, upgrade planning
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Hardware-Probe-Agent-Template)
+
+---
+
+**N8n Voice Note Context Pipeline Workflow**
+
+Workflow for extracting context data from voice notes and passing them into Pipecone vector database for upserting
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/N8N-Voice-Note-Context-Pipeline-Workflow)
+
+## 13 Aug
+
+**Agent Task Repo Pattern With Mcp**
+
+Repo pattern/template for defined task handling by an LLM on a remote using MCP-SSH
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Agent-Task-Repo-Pattern-With-MCP)
+
+## 12 Aug
+
+**Nocodb Mcp Server**
+
+nocodb mcp server
+
+🔱 *This is a fork*
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/nocodb-mcp-server)
+
+---
+
+**Environment Docs Template**
+
+Pattern for a structured docs repository within an environment for AI and humans
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Environment-Docs-Template)
+
+## 11 Aug
+
+**Agent Handover Demo**
+
+Model for simple handover management (via docs!) between AI agents
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Agent-Handover-Demo)
+
+---
+
+**Speech to Text Voice Note Evaluation**
+
+No description provided
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/STT-Voice-Note-Evaluation)
+
+## 10 Aug
+
+**Large Language Model Preferences Guide**
+
+(Experiment)  Predefined set of instructions for local agents governing LLM usage and selection
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/LLM-Preferences-Guide)
+
+---
+
+**N8n Large Language Model Workflow Bulk Updater**
+
+Backend script for applying bulk model updates to workflows (use-case: updating LLMs in nodes)
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/N8N-LLM-Workflow-Bulk-Updater)
+
+---
+
+**Backup Projects Index**
+
+Indexing repo of backup related projects and scripts
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Backup-Projects-Index)
+
+---
+
+**Apps Index**
+
+Indexing repo for apps created
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Apps-Index)
+
+---
+
+**Home Assistant Index**
+
+Indexing repo for HA projects
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Home-Assistant-Index)
+
+---
+
+**Homebox Projects Index**
+
+No description provided
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Homebox-Projects-Index)
+
+---
+
+**Homebox Image Compressor**
+
+No description provided
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Homebox-Image-Compressor)
+
+## 9 Aug
+
+**Artificial Intelligence Projects Index**
+
+Index of AI project related indices (master index)
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/AI-Projects-Index)
+
+---
+
+**Mcp Projects**
+
+Various MCP related projects I'm either working on (or have worked on)
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/MCP-Projects)
+
+---
+
+**Nocodb Data Mcp**
+
+MCP for performing basic data ops on a self-hosted NocoDB with Cloudflare Tunnnel auth
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/NocoDB-Data-MCP)
+
+---
+
+**Kde Ac Controller Widget**
+
+Controller for AC
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/KDE-AC-Controller-Widget)
+
+---
+
+**Artificial Intelligence Output Storage Backend Data Models**
+
+Some simple data tables for populating a backend for storing prompt runs
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/AI-Output-Storage-Backend-Data-Models)
+
+## 8 Aug
+
+**Local Artificial Intelligence Agent Planning Notes**
+
+Planning notes for an MCP/agent idea (WIP)
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Local-AI-Agent-Planning-Notes)
+
+## 7 Aug
+
+**N8n Expense Processing Workflow**
+
+Expense processing backend workflow with AI agent for doc analysis
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/N8N-Expense-Processing-Workflow)
+
+## 6 Aug
+
+**Nuclino Mcp**
+
+No description provided
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/nuclino-mcp)
+
+## 5 Aug
+
+**Artificial Intelligence Development Template**
+
+No description provided
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Ai-Development-Template)
+
+---
+
+**Quick Repo Creator**
+
+A streamlined CLI tool for fast repository creation workflow with GitHub integration and IDE support
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/quick-repo-creator)
+
+## 4 Aug
+
+**Prompt Snippet Library**
+
+Snippets/building blocks for system prompts
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Prompt-Snippet-Library)
+
 ## 3 Aug
 
 **Voicenotes Wrapper Linux**
@@ -290,7 +700,7 @@ Some stack evaluation prompts as I try to finish my stack "updating" process
 
 **System Prompt Library**
 
-New repo for system prompt library (for agents & assistants) updated for automation integration
+System prompts for AI agents and assistants (automatically populated); periodic point in time exports are releases
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/System-Prompt-Library)
 
@@ -2345,14 +2755,6 @@ Another data visualisation series comparing companies' GHG emissions with their 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/GHG-vs-EBITDA-V2)
 
 ## 8 Dec
-
-**Master Index**
-
-This repository serves as a master index linking to the various indices I have for more narrow groupings of topics.
-
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Master-Index)
-
----
 
 **Data Projects Index**
 

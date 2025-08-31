@@ -1,0 +1,86 @@
+{
+  "master_index": {
+    "name": "Github Master Index",
+    "description": "The main index repository containing all of Daniel's GitHub repositories organized by category and type",
+    "url": "https://github.com/danielrosehill/Github-Master-Index",
+    "type": "master"
+  },
+  "subindices": [
+    {
+      "name": "Backup Projects Index",
+      "description": "Collection of backup-related projects, tools, and configurations",
+      "url": "https://github.com/danielrosehill/Backup-Projects-Index",
+      "category": "system_utilities",
+      "tags": ["backup", "data-protection", "utilities"]
+    },
+    {
+      "name": "Apps Index",
+      "description": "Index of application projects and software tools",
+      "url": "https://github.com/danielrosehill/Apps-Index",
+      "category": "applications",
+      "tags": ["apps", "software", "tools"]
+    },
+    {
+      "name": "Home Assistant Index",
+      "description": "Home automation projects and Home Assistant configurations",
+      "url": "https://github.com/danielrosehill/Home-Assistant-Index",
+      "category": "automation",
+      "tags": ["home-assistant", "automation", "iot", "smart-home"]
+    },
+    {
+      "name": "Homebox Projects Index",
+      "description": "Projects related to Homebox inventory management system",
+      "url": "https://github.com/danielrosehill/Homebox-Projects-Index",
+      "category": "inventory_management",
+      "tags": ["homebox", "inventory", "management"]
+    },
+    {
+      "name": "AI Projects Index",
+      "description": "Artificial intelligence and machine learning projects, experiments, and tools",
+      "url": "https://github.com/danielrosehill/AI-Projects-Index",
+      "category": "ai_ml",
+      "tags": ["ai", "machine-learning", "llm", "automation"]
+    },
+    {
+      "name": "MCP Projects",
+      "description": "Model Context Protocol (MCP) related projects and implementations",
+      "url": "https://github.com/danielrosehill/MCP-Projects",
+      "category": "ai_ml",
+      "tags": ["mcp", "model-context-protocol", "ai", "integration"]
+    },
+    {
+      "name": "My Prompt Libraries",
+      "description": "Curated collections of prompts for various AI models and use cases",
+      "url": "https://github.com/danielrosehill/My-Prompt-Libraries",
+      "category": "ai_ml",
+      "tags": ["prompts", "ai", "llm", "prompt-engineering"]
+    },
+    {
+      "name": "Data Projects Index",
+      "description": "Data analysis, processing, and visualization projects",
+      "url": "https://github.com/danielrosehill/Data-Projects-Index",
+      "category": "data_analytics",
+      "tags": ["data", "analytics", "visualization", "processing"]
+    },
+    {
+      "name": "My Docs Index",
+      "description": "Documentation projects and knowledge management systems",
+      "url": "https://github.com/danielrosehill/My-Docs-Index",
+      "category": "documentation",
+      "tags": ["documentation", "knowledge-management", "guides"]
+    }
+  ],
+  "metadata": {
+    "total_indices": 10,
+    "last_updated": "2025-08-31",
+    "categories": [
+      "ai_ml",
+      "automation", 
+      "data_analytics",
+      "documentation",
+      "applications",
+      "system_utilities",
+      "inventory_management"
+    ]
+  }
+}
