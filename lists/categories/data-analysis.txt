@@ -1,7 +1,0 @@
-ImpactWeightedAccounts
-Social-Impact-Bond-Data
-Tech-Stack
-WAQI-Stations-Israel
-Data-Utilities-System-Prompts
-Structured-Gemini-Prompts
-You-Might-Like-Agent

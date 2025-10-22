@@ -1,8 +1,0 @@
-Emissions-Data-Reports
-Emissions-Monetisation-Calculator
-GHG-EBITDA-Correlations
-GHG-Emissions-Data-Pipeline
-GHG-Emissions-Monetisation-Calculator
-GHG-vs-EBITDA-V2
-Monetised-Emissions-V2
-Monetised-GHG-Emissions

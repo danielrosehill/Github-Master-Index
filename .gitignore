@@ -17,3 +17,6 @@ logs/
 # AI agent generated files
 ai-agent-config.json.bak
 *.backup
+claude-space
+repo-data/*.json
+!repo-data/.gitkeep

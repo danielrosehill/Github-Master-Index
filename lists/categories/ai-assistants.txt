@@ -1,5 +1,0 @@
-Prompt-Engineering-Assistants-System-Prompts
-Abusive-Message-Parser-AI-Config
-Assistant-Self-Ideation-280325
-AI-Agent-Ideation-Chatbot-System-Prompt
-Side-Hustle-Ideation-Agent

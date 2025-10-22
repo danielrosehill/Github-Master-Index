@@ -1,5 +1,0 @@
-OpenWebUI-Model-Export-Converter
-Browser-Use-Agent-GUI
-Markdown-Keep-Or-Delete
-GPT-To-PDF
-Whisper-Notepad-For-Linux

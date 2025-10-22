@@ -1,3 +1,0 @@
-ImpactWeightedAccounts
-Grafana-News-Monitoring-Dashboards
-Jerusalem-Shelters-0625

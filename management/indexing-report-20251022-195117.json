@@ -1,0 +1,328 @@
+{
+  "total_unindexed": 40,
+  "categorized": [
+    {
+      "repo": "Multimodal-AI-Taxonomy",
+      "description": "Attempting to map out the various input/output permutations for multimodal AI",
+      "best_match": "llama.md",
+      "path": "sections/ai-ml/llm-platforms/llama.md",
+      "score": 3.0,
+      "url": "https://github.com/danielrosehill/Multimodal-AI-Taxonomy"
+    },
+    {
+      "repo": "AI-Friendly-Badge",
+      "description": "Website footer badge signalling AI \"friendliness\"",
+      "best_match": "llama.md",
+      "path": "sections/ai-ml/llm-platforms/llama.md",
+      "score": 3.0,
+      "url": "https://github.com/danielrosehill/AI-Friendly-Badge"
+    },
+    {
+      "repo": "AI-Shopping-Advisor",
+      "description": "Demo/example voice prompt to purchasing recs agent config",
+      "best_match": "voice.md",
+      "path": "sections/ai-ml/voice-audio/voice.md",
+      "score": 5.0,
+      "url": "https://github.com/danielrosehill/AI-Shopping-Advisor"
+    },
+    {
+      "repo": "stateless-AI-text-transform",
+      "description": "A clean, stateless AI-powered text transformation tool designed for local AI models and OpenAI-compatible APIs. Each transformation is treated as an independent request with no chat history, optimizing performance for local AI inference.",
+      "best_match": "openai-api.md",
+      "path": "sections/ai-ml/llm-platforms/openai-api.md",
+      "score": 6.0,
+      "url": "https://github.com/danielrosehill/stateless-AI-text-transform"
+    },
+    {
+      "repo": "Narcissistic-Abuse-AI-Configs",
+      "description": "A collection of system prompts for AI agents intended to provide support to individuals dealing with narcissistica abuse (please read notes!)",
+      "best_match": "ai-agents.md",
+      "path": "sections/ai-ml/assistants/ai-agents.md",
+      "score": 5.0,
+      "url": "https://github.com/danielrosehill/Narcissistic-Abuse-AI-Configs"
+    },
+    {
+      "repo": "Diarised-Transcript-Assistant",
+      "description": "System prompt for generating diarised transcripts (STT plus stylistic guidance)",
+      "best_match": "assistants.md",
+      "path": "sections/ai-ml/assistants/assistants.md",
+      "score": 6.0,
+      "url": "https://github.com/danielrosehill/Diarised-Transcript-Assistant"
+    },
+    {
+      "repo": "Agents.md-Templates",
+      "description": "Template agents.md templates for use with OpenAI Codex",
+      "best_match": "ai-agents.md",
+      "path": "sections/ai-ml/assistants/ai-agents.md",
+      "score": 4.0,
+      "url": "https://github.com/danielrosehill/Agents.md-Templates"
+    },
+    {
+      "repo": "Toxic-GPT",
+      "description": "Joke configuration for a downtrodden LLM assistant for those needing a break from enforced AI positivity",
+      "best_match": "gpt.md",
+      "path": "sections/ai-ml/llm-platforms/gpt.md",
+      "score": 8.0,
+      "url": "https://github.com/danielrosehill/Toxic-GPT"
+    },
+    {
+      "repo": "advanced-camera-card",
+      "description": "A comprehensive camera card for Home Assistant",
+      "best_match": "assistants.md",
+      "path": "sections/ai-ml/assistants/assistants.md",
+      "score": 2.0,
+      "url": "https://github.com/danielrosehill/advanced-camera-card"
+    }
+  ],
+  "low_confidence": [
+    {
+      "repo": "Development-Project-Index",
+      "description": "Combined indexer for projects on Github and Hugging Face",
+      "best_match": null,
+      "path": null,
+      "score": 0.0,
+      "url": "https://github.com/danielrosehill/Development-Project-Index"
+    },
+    {
+      "repo": "Custom-License-Creator",
+      "description": "AI tool to create a bespoke set of licensing terms for a project",
+      "best_match": "llama.md",
+      "path": "sections/ai-ml/llm-platforms/llama.md",
+      "score": 1.0,
+      "url": "https://github.com/danielrosehill/Custom-License-Creator"
+    },
+    {
+      "repo": "Back-Up-Your-SaaS",
+      "description": "Notes for fellow cautious trusters of \"the cloud\"",
+      "best_match": null,
+      "path": null,
+      "score": 0.0,
+      "url": "https://github.com/danielrosehill/Back-Up-Your-SaaS"
+    },
+    {
+      "repo": "Vibe-Coded-Disclosure",
+      "description": "Quick utility for adding FYI type notices to repos that they were vibe coded",
+      "best_match": null,
+      "path": null,
+      "score": 0.0,
+      "url": "https://github.com/danielrosehill/Vibe-Coded-Disclosure"
+    },
+    {
+      "repo": "Red-Alert-Warning-Panel",
+      "description": "Red Alert warning UI design",
+      "best_match": null,
+      "path": null,
+      "score": 0.0,
+      "url": "https://github.com/danielrosehill/Red-Alert-Warning-Panel"
+    },
+    {
+      "repo": "Desktop-Wallpapers",
+      "description": "Some desktop wallpapers",
+      "best_match": null,
+      "path": null,
+      "score": 0.0,
+      "url": "https://github.com/danielrosehill/Desktop-Wallpapers"
+    },
+    {
+      "repo": "MQTT-DPMS-Bridge",
+      "description": "",
+      "best_match": null,
+      "path": null,
+      "score": 0.0,
+      "url": "https://github.com/danielrosehill/MQTT-DPMS-Bridge"
+    },
+    {
+      "repo": "KScreen-Config-Scripts-And-Docs",
+      "description": "Some scripts for saving good multiscreen configs for easy shortcutting and DPMS",
+      "best_match": null,
+      "path": null,
+      "score": 0.0,
+      "url": "https://github.com/danielrosehill/KScreen-Config-Scripts-And-Docs"
+    },
+    {
+      "repo": "Windsurf-Rules-0925",
+      "description": "Refactored Windsurf Rules for the program's change to a modular config approach",
+      "best_match": null,
+      "path": null,
+      "score": 0.0,
+      "url": "https://github.com/danielrosehill/Windsurf-Rules-0925"
+    },
+    {
+      "repo": "Wireframe-Cleaner-Nano-Banana",
+      "description": "Clean up handdrawn wireframes/sketches with Nano Banana (WIP)",
+      "best_match": null,
+      "path": null,
+      "score": 0.0,
+      "url": "https://github.com/danielrosehill/Wireframe-Cleaner-Nano-Banana"
+    },
+    {
+      "repo": "ezra_dev",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "best_match": "ai-agents.md",
+      "path": "sections/ai-ml/assistants/ai-agents.md",
+      "score": 1.0,
+      "url": "https://github.com/danielrosehill/ezra_dev"
+    },
+    {
+      "repo": "K811-EV-Test-Events",
+      "description": "EV Test Events For K811 Wired Gaming Keypad",
+      "best_match": null,
+      "path": null,
+      "score": 0.0,
+      "url": "https://github.com/danielrosehill/K811-EV-Test-Events"
+    },
+    {
+      "repo": "Useful-ISO-Standards-Reference",
+      "description": "ISO standards that I'm frequenlty looking up gathered in one ref",
+      "best_match": null,
+      "path": null,
+      "score": 0.0,
+      "url": "https://github.com/danielrosehill/Useful-ISO-Standards-Reference"
+    },
+    {
+      "repo": "Ezra",
+      "description": "WIP - Computer use agent for routine use of Linux desktop environments (Ubuntu)",
+      "best_match": "ai-agents.md",
+      "path": "sections/ai-ml/assistants/ai-agents.md",
+      "score": 1.0,
+      "url": "https://github.com/danielrosehill/Ezra"
+    },
+    {
+      "repo": "NFC-Reader-Writer-ACR-1252U",
+      "description": "TUI & CLI implementation (\"vibe-coded\") for USB NFC reader/writer ops. Validated working with ACR1252U on Ubuntu Linux",
+      "best_match": null,
+      "path": null,
+      "score": 0.0,
+      "url": "https://github.com/danielrosehill/NFC-Reader-Writer-ACR-1252U"
+    },
+    {
+      "repo": "niimblue",
+      "description": "\ud83d\udda8 NIIMBOT custom web client/app. Design and print labels with NIIMBOT printers directly from your PC or mobile web browser! Development is temporarily on hold due to lack of free time, hotfixes only.",
+      "best_match": null,
+      "path": null,
+      "score": 0.0,
+      "url": "https://github.com/danielrosehill/niimblue"
+    },
+    {
+      "repo": "Tech-Stack-Structured",
+      "description": "Structured version of tech stack, including AI tools",
+      "best_match": "llama.md",
+      "path": "sections/ai-ml/llm-platforms/llama.md",
+      "score": 1.0,
+      "url": "https://github.com/danielrosehill/Tech-Stack-Structured"
+    },
+    {
+      "repo": "Tech-Searches",
+      "description": "Note stack of stack researech specs and searches",
+      "best_match": null,
+      "path": null,
+      "score": 0.0,
+      "url": "https://github.com/danielrosehill/Tech-Searches"
+    },
+    {
+      "repo": "Viseron-NVIDIA-Installation-Notes",
+      "description": "",
+      "best_match": null,
+      "path": null,
+      "score": 0.0,
+      "url": "https://github.com/danielrosehill/Viseron-NVIDIA-Installation-Notes"
+    },
+    {
+      "repo": "Windsurf-Rules",
+      "description": "Updated Windsurf rules",
+      "best_match": null,
+      "path": null,
+      "score": 0.0,
+      "url": "https://github.com/danielrosehill/Windsurf-Rules"
+    },
+    {
+      "repo": "Homebox-Image-Compressor",
+      "description": "",
+      "best_match": null,
+      "path": null,
+      "score": 0.0,
+      "url": "https://github.com/danielrosehill/Homebox-Image-Compressor"
+    },
+    {
+      "repo": "quick-repo-creator",
+      "description": "A streamlined CLI tool for fast repository creation workflow with GitHub integration and IDE support",
+      "best_match": null,
+      "path": null,
+      "score": 0.0,
+      "url": "https://github.com/danielrosehill/quick-repo-creator"
+    },
+    {
+      "repo": "sveltekit-starter",
+      "description": "Starter repo to get started with Sveltekit and Contentful",
+      "best_match": null,
+      "path": null,
+      "score": 0.0,
+      "url": "https://github.com/danielrosehill/sveltekit-starter"
+    },
+    {
+      "repo": "Projects",
+      "description": "A list of projects I am working on",
+      "best_match": null,
+      "path": null,
+      "score": 0.0,
+      "url": "https://github.com/danielrosehill/Projects"
+    },
+    {
+      "repo": "FirstEntryPublic",
+      "description": "Files that needed to be added to other repositories",
+      "best_match": null,
+      "path": null,
+      "score": 0.0,
+      "url": "https://github.com/danielrosehill/FirstEntryPublic"
+    },
+    {
+      "repo": "PersonalHomepage",
+      "description": "My personal homepage - based on the Milky Way Astro theme by Tristen Tomczak ",
+      "best_match": null,
+      "path": null,
+      "score": 0.0,
+      "url": "https://github.com/danielrosehill/PersonalHomepage"
+    },
+    {
+      "repo": "danielrosehill.github.io",
+      "description": "Github Repository",
+      "best_match": null,
+      "path": null,
+      "score": 0.0,
+      "url": "https://github.com/danielrosehill/danielrosehill.github.io"
+    },
+    {
+      "repo": "brother_ql",
+      "description": "Python package for the raster language protocol of the Brother QL series label printers (QL-500, QL-550, QL-560, QL-570, QL-700, QL-710W, QL-720NW, QL-800, QL-810W, QL-820NWB, QL-1050, QL-1060N and more).",
+      "best_match": null,
+      "path": null,
+      "score": 0.0,
+      "url": "https://github.com/danielrosehill/brother_ql"
+    },
+    {
+      "repo": "Public-GPG-Keys",
+      "description": "My public PGP keys",
+      "best_match": null,
+      "path": null,
+      "score": 0.0,
+      "url": "https://github.com/danielrosehill/Public-GPG-Keys"
+    },
+    {
+      "repo": "Misc",
+      "description": "Miscellaneous project files",
+      "best_match": null,
+      "path": null,
+      "score": 0.0,
+      "url": "https://github.com/danielrosehill/Misc"
+    },
+    {
+      "repo": "MyDesktop",
+      "description": "Markdown documentation for the evolution of my desktop",
+      "best_match": null,
+      "path": null,
+      "score": 0.0,
+      "url": "https://github.com/danielrosehill/MyDesktop"
+    }
+  ],
+  "added": 8
+}

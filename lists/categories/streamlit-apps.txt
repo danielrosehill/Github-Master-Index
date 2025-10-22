@@ -1,3 +1,0 @@
-Shakespearean-Text-Generator-Streamlit
-AI-Assistant-Ideator-Streamlit
-Voice-Prompt-Editor

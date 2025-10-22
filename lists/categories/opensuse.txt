@@ -1,3 +1,0 @@
-Distro-Tuner
-Linux-Desktop-LLM-Apps
-OpenSUSE-Config-Backup-Tool
