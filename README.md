@@ -6,7 +6,7 @@
 *Last updated: 2025-10-22 20:22:00*
 
 
-This is an automatically generated index of my public GitHub repositories.
+This is an automatically generated index of my public GitHub repositories
 
 
 ## Table of Contents
