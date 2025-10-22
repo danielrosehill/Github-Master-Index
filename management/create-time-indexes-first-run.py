@@ -15,7 +15,10 @@ from typing import Dict, List
 SCRIPT_DIR = Path(__file__).parent
 REPO_ROOT = SCRIPT_DIR.parent
 TIME_SECTIONS_DIR = REPO_ROOT / "sections" / "by-time"
-REPO_DATA_FILE = REPO_ROOT / "claude-space" / "repo-data" / "latest.json"
+# Find the most recent repo data file
+import glob
+repo_data_files = glob.glob(str(REPO_ROOT / "repo-data" / "all-repos-*.json"))
+REPO_DATA_FILE = Path(max(repo_data_files)) if repo_data_files else REPO_ROOT / "repo-data" / "all-repos.json"
 
 # Month abbreviations
 MONTH_ABBREV = {
@@ -54,28 +57,28 @@ class TimeIndexGenerator:
         return dt.year, dt.month, dt
 
     def organize_repos_by_month(self, repos: List[Dict]):
-        """Organize repositories by their update month"""
-        print("\nOrganizing repositories by update month...")
+        """Organize repositories by their creation month"""
+        print("\nOrganizing repositories by creation month...")
 
         for repo in repos:
-            updated_at = repo.get('updatedAt')
-            if not updated_at:
+            created_at = repo.get('createdAt')
+            if not created_at:
                 continue
 
-            year, month, dt = self.parse_update_date(updated_at)
+            year, month, dt = self.parse_update_date(created_at)
             key = (year, month)
 
             self.repos_by_month[key].append({
                 'name': repo['name'],
                 'description': repo.get('description', 'No description provided'),
                 'url': repo['url'],
-                'updated_at': dt,
+                'created_at': dt,
                 'topics': repo.get('repositoryTopics', []) or []
             })
 
-        # Sort repos within each month by update date (newest first)
+        # Sort repos within each month by creation date (newest first)
         for key in self.repos_by_month:
-            self.repos_by_month[key].sort(key=lambda x: x['updated_at'], reverse=True)
+            self.repos_by_month[key].sort(key=lambda x: x['created_at'], reverse=True)
 
         print(f"Organized into {len(self.repos_by_month)} unique month/year combinations")
 
@@ -84,14 +87,14 @@ class TimeIndexGenerator:
         name = repo['name']
         description = repo['description']
         url = repo['url']
-        updated = repo['updated_at'].strftime('%Y-%m-%d')
+        created = repo['created_at'].strftime('%Y-%m-%d')
 
         # Convert repo name to title case with spaces
         title = name.replace('-', ' ').replace('_', ' ').title()
 
         entry = f"\n## {title}\n\n"
         entry += f"[![View Repo](https://img.shields.io/badge/view-repo-green)]({url})\n\n"
-        entry += f"**Last Updated:** {updated}\n\n"
+        entry += f"**Created:** {created}\n\n"
         entry += f"{description}\n"
 
         # Add topics if available
@@ -117,8 +120,8 @@ class TimeIndexGenerator:
 
         # Create page content
         month_name = MONTH_FULL[month]
-        content = f"# Repositories Updated in {month_name} {year}\n\n"
-        content += f"This page lists all repositories that were last updated in {month_name} {year}.\n\n"
+        content = f"# Repositories Created in {month_name} {year}\n\n"
+        content += f"This page lists all repositories that were created in {month_name} {year}.\n\n"
         content += f"**Total Repositories:** {len(repos)}\n\n"
         content += "---\n"
 
@@ -146,7 +149,7 @@ class TimeIndexGenerator:
         index_path = year_dir / "README.md"
 
         content = f"# {year} Repository Index\n\n"
-        content += f"Repository updates organized by month for {year}.\n\n"
+        content += f"Repositories created in {year}, organized by month.\n\n"
         content += "## Months\n\n"
 
         # Sort months in reverse order (newest first)
@@ -180,7 +183,7 @@ class TimeIndexGenerator:
         years = sorted(set(year for year, month in self.repos_by_month.keys()), reverse=True)
 
         content = "# Repositories by Time\n\n"
-        content += "Browse repositories organized by their last update date.\n\n"
+        content += "Browse repositories organized by their creation date.\n\n"
         content += "## Years\n\n"
 
         for year in years:

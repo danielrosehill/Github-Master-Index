@@ -1,12 +1,14 @@
 # Repositories by Time
 
-Browse repositories organized by their last update date.
+Browse repositories organized by their creation date.
 
 ## Years
 
-- [2025](./2025/) - 399 repositories across 10 months
-- [2024](./2024/) - 126 repositories across 9 months
-- [2020](./2020/) - 3 repositories across 3 months
+- [2025](./2025/) - 366 repositories across 10 months
+- [2024](./2024/) - 148 repositories across 10 months
+- [2021](./2021/) - 2 repositories across 2 months
+- [2020](./2020/) - 10 repositories across 5 months
+- [2019](./2019/) - 2 repositories across 1 months
 
 
 ## Navigation

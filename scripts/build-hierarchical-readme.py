@@ -83,6 +83,7 @@ def build_readme(schema_path, output_path):
         "\n## Table of Contents\n",
         "- [Repository Views](#repository-views)",
         "- [Browse by Topic](#browse-by-topic)",
+        "- [Browse by Time](#browse-by-time)",
         "- [Repository Statistics](#repository-statistics)",
         "- [Data Access & API](#data-access--api)\n",
         "\n## Repository Views\n",
@@ -93,6 +94,9 @@ def build_readme(schema_path, output_path):
         "\n### All Categories\n",
         "[![All Categories](https://img.shields.io/badge/All_Categories-FF5722?style=for-the-badge&logo=github&logoColor=white)](sections/all-categories.md)\n",
         "\nView all categories in a single page.\n",
+        "\n### Browse by Time\n",
+        "[![Browse by Time](https://img.shields.io/badge/Browse_by_Time-9C27B0?style=for-the-badge&logo=github&logoColor=white)](sections/by-time/README.md)\n",
+        "\nExplore repositories organized by year and month of creation.\n",
     ]
 
     # Add hierarchical browse by topic section

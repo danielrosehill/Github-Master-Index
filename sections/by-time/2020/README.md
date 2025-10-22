@@ -1,12 +1,14 @@
 # 2020 Repository Index
 
-Repository updates organized by month for 2020.
+Repositories created in 2020, organized by month.
 
 ## Months
 
-- [September 2020](./09_20.md) (09_20.md) - 1 repositories
-- [June 2020](./06_20.md) (06_20.md) - 1 repositories
-- [May 2020](./05_20.md) (05_20.md) - 1 repositories
+- [October 2020](./10_20.md) (10_20.md) - 1 repositories
+- [June 2020](./06_20.md) (06_20.md) - 4 repositories
+- [May 2020](./05_20.md) (05_20.md) - 2 repositories
+- [April 2020](./04_20.md) (04_20.md) - 2 repositories
+- [February 2020](./02_20.md) (02_20.md) - 1 repositories
 
 
 ## Navigation

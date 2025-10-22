@@ -3,7 +3,7 @@
 ![Banner](banners/index.png)
 
 
-*Last updated: 2025-10-22 20:10:24*
+*Last updated: 2025-10-22 20:22:00*
 
 
 This is an automatically generated index of my public GitHub repositories.
@@ -13,6 +13,7 @@ This is an automatically generated index of my public GitHub repositories.
 
 - [Repository Views](#repository-views)
 - [Browse by Topic](#browse-by-topic)
+- [Browse by Time](#browse-by-time)
 - [Repository Statistics](#repository-statistics)
 - [Data Access & API](#data-access--api)
 
@@ -36,6 +37,14 @@ The timeline provides a chronological view of all repositories, showing when eac
 
 
 View all categories in a single page.
+
+
+### Browse by Time
+
+[![Browse by Time](https://img.shields.io/badge/Browse_by_Time-9C27B0?style=for-the-badge&logo=github&logoColor=white)](sections/by-time/README.md)
+
+
+Explore repositories organized by year and month of creation.
 
 
 ## Browse by Topic
@@ -462,4 +471,48 @@ Explore repositories organized by topic and subtopic:
 
 
 
- 
+## Repository Statistics
+
+**Total Repositories:** [Count updated dynamically]
+
+
+**Top Categories:**
+
+[Statistics updated dynamically]
+
+
+---
+
+
+## Data Access & API
+
+This repository provides multiple ways to access the data programmatically:
+
+
+### Data Exports
+
+Direct file downloads:
+- [Repository Index (JSON)](data/exports/repo-index.json)
+- [Repository Index (CSV)](data/exports/repo-index.csv)
+
+
+### API Endpoints
+
+When accessed through GitHub Pages:
+```
+# Complete repository data in JSON format
+https://danielrosehill.github.io/Github-Timeline/data/exports/repo-index.json
+
+# Category-specific repository lists
+https://danielrosehill.github.io/Github-Timeline/lists/categories/{category-name}.txt
+```
+
+
+### Documentation
+
+For detailed API documentation and usage examples:
+- [Interactive API Documentation](https://danielrosehill.github.io/Github-Timeline/)
+- [API Usage Examples](examples/api-usage.md)
+
+
+The data is automatically updated whenever the repository is updated.
