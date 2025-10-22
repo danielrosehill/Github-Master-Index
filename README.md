@@ -3,10 +3,10 @@
 ![Banner](banners/index.png)
 
 
-*Last updated: 2025-10-22 20:22:00*
+*Last updated: 2025-10-22 20:33:55*
 
 
-This is an automatically generated index of my public GitHub repositories
+This is an automatically generated index of my public GitHub repositories.
 
 
 ## Table of Contents
@@ -55,6 +55,9 @@ Explore repositories organized by topic and subtopic:
 ## AI & Machine Learning
 
 *Repositories related to AI, ML, and LLM technologies*
+
+
+**[View Complete AI & Machine Learning Index](sections/by-topic/ai-ml/index.md)**
 
 
 #### AI Assistants & Agents
@@ -159,6 +162,9 @@ Explore repositories organized by topic and subtopic:
 *Data processing, analysis, and visualization tools*
 
 
+**[View Complete Data Tools Index](sections/by-topic/data-tools/index.md)**
+
+
 #### Data Analysis
 
 *Data analysis and processing tools*
@@ -209,6 +215,9 @@ Explore repositories organized by topic and subtopic:
 ## Development Tools
 
 *Software development tools and utilities*
+
+
+**[View Complete Development Tools Index](sections/by-topic/development/index.md)**
 
 
 #### Code Generation
@@ -320,6 +329,9 @@ Explore repositories organized by topic and subtopic:
 *Infrastructure, deployment, and system administration*
 
 
+**[View Complete Infrastructure Index](sections/by-topic/infrastructure/index.md)**
+
+
 
 [![Automation](https://img.shields.io/badge/Automation-2ea44f?style=for-the-badge&logo=github)](sections/by-topic/infrastructure/automation.md)<br>
 [![Backups](https://img.shields.io/badge/Backups-2ea44f?style=for-the-badge&logo=github)](sections/by-topic/infrastructure/backups.md)<br>
@@ -335,6 +347,9 @@ Explore repositories organized by topic and subtopic:
 ## Platforms & Services
 
 *Platform-specific integrations and tools*
+
+
+**[View Complete Platforms & Services Index](sections/by-topic/platforms/index.md)**
 
 
 #### Automation Platforms
@@ -397,6 +412,9 @@ Explore repositories organized by topic and subtopic:
 *Projects organized by type*
 
 
+**[View Complete Project Types Index](sections/by-topic/project-types/index.md)**
+
+
 
 [![Awesome Lists](https://img.shields.io/badge/Awesome_Lists-2ea44f?style=for-the-badge&logo=github)](sections/by-topic/project-types/awesome-lists.md)<br>
 [![Bug Reports](https://img.shields.io/badge/Bug_Reports-2ea44f?style=for-the-badge&logo=github)](sections/by-topic/project-types/bug-reports.md)<br>
@@ -417,6 +435,9 @@ Explore repositories organized by topic and subtopic:
 *Region or language-specific projects*
 
 
+**[View Complete Regional Specific Index](sections/by-topic/regional-specific/index.md)**
+
+
 
 [![Hebrew Fonts](https://img.shields.io/badge/Hebrew_Fonts-2ea44f?style=for-the-badge&logo=github)](sections/by-topic/regional-specific/hebrew-fonts.md)<br>
 [![Israel](https://img.shields.io/badge/Israel-2ea44f?style=for-the-badge&logo=github)](sections/by-topic/regional-specific/israel.md)<br>
@@ -429,6 +450,9 @@ Explore repositories organized by topic and subtopic:
 ## Tools & Utilities
 
 *General purpose tools and utilities*
+
+
+**[View Complete Tools & Utilities Index](sections/by-topic/tools-utilities/index.md)**
 
 
 #### CLI Tools

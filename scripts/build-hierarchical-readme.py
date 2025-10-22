@@ -21,7 +21,7 @@ def format_section_name(name):
     return name.replace('-', ' ').title()
 
 def build_hierarchy_section(sections, base_path="sections/by-topic"):
-    """Build the hierarchical README content with badges"""
+    """Build the hierarchical README content with badges and category index links"""
     content = []
 
     for section_key, section_data in sorted(sections.items()):
@@ -32,6 +32,10 @@ def build_hierarchy_section(sections, base_path="sections/by-topic"):
 
         if 'description' in section_data:
             content.append(f"*{section_data['description']}*\n")
+
+        # Add link to category index
+        category_index_path = f"{base_path}/{section_key}/index.md"
+        content.append(f"\n**[View Complete {section_name} Index]({category_index_path})**\n")
 
         # Check if section has subsections
         if 'subsections' in section_data:
