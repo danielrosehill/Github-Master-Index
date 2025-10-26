@@ -47,6 +47,26 @@ View all categories in a single page.
 Explore repositories organized by year and month of creation.
 
 
+## Related Index Repositories
+
+These are other specialized index repositories that catalog specific types of projects:
+
+- [AI Agents](https://github.com/danielrosehill/AI-Agents)
+- [AI Generated Projects Index](https://github.com/danielrosehill/AI-Generated-Projects-Index)
+- [AI Projects Index](https://github.com/danielrosehill/AI-Projects-Index)
+- [Apps Index](https://github.com/danielrosehill/Apps-Index)
+- [Awesome List Repos Index](https://github.com/danielrosehill/Awesome-List-Repos-Index)
+- [Backup Projects Index](https://github.com/danielrosehill/Backup-Projects-Index)
+- [Claude Code Repos Index](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+- [Development Project Index](https://github.com/danielrosehill/Development-Project-Index)
+- [Gemini Vibe Coding Projects](https://github.com/danielrosehill/Gemini-Vibe-Coding-Projects)
+- [Home Assistant Index](https://github.com/danielrosehill/Home-Assistant-Index)
+- [Homebox Projects Index](https://github.com/danielrosehill/Homebox-Projects-Index)
+- [My Docs Index](https://github.com/danielrosehill/My-Docs-Index)
+- [My Prompt Libraries](https://github.com/danielrosehill/My-Prompt-Libraries)
+- [N8N Workflows Index](https://github.com/danielrosehill/N8N-Workflows-Index)
+
+
 ## Browse by Topic
 
 Explore repositories organized by topic and subtopic:
