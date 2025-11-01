@@ -7,6 +7,7 @@
 # 3. Updates time-based indexes (by creation date)
 # 4. Generates category indexes
 # 5. Builds the main README.md
+# 6. Copies JSON to root for website consumption
 #
 # Run this whenever you want to sync everything with GitHub
 
@@ -91,7 +92,7 @@ echo ""
 
 # Step 5: Build README
 echo "──────────────────────────────────────────────────────"
-echo "STEP 5/5: Building README.md"
+echo "STEP 5/6: Building README.md"
 echo "──────────────────────────────────────────────────────"
 python3 "$SCRIPT_DIR/build-hierarchical-readme.py"
 if [ $? -ne 0 ]; then
@@ -99,6 +100,18 @@ if [ $? -ne 0 ]; then
     exit 1
 fi
 echo "✓ README built"
+echo ""
+
+# Step 6: Copy JSON to root for website access
+echo "──────────────────────────────────────────────────────"
+echo "STEP 6/6: Copying JSON to root for website"
+echo "──────────────────────────────────────────────────────"
+if [ -f "repo-data/latest.json" ]; then
+    cp repo-data/latest.json repositories.json
+    echo "✓ Copied repo-data/latest.json → repositories.json"
+else
+    echo "✗ Warning: repo-data/latest.json not found"
+fi
 echo ""
 
 # Summary
@@ -111,6 +124,7 @@ echo "  • index.md - Main repository index (by update date)"
 echo "  • sections/by-topic/* - Categorized repositories"
 echo "  • sections/by-time/* - Chronological indexes (by creation date)"
 echo "  • README.md - Main readme with category links"
+echo "  • repositories.json - JSON data for website (at root)"
 echo ""
 echo "Next steps:"
 echo "  1. Review changes: git status"
