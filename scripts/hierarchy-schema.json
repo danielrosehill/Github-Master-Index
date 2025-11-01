@@ -1,0 +1,372 @@
+{
+  "schema_version": "1.0",
+  "generated_date": "2025-10-22",
+  "sections": {
+    "ai-ml": {
+      "name": "AI & Machine Learning",
+      "description": "Repositories related to AI, ML, and LLM technologies",
+      "keywords": ["ai", "machine learning", "llm", "neural", "model", "training"],
+      "subsections": {
+        "llm-platforms": {
+          "name": "LLM Platforms",
+          "description": "Specific LLM platform integrations and tools",
+          "keywords": ["llama", "gpt", "gemini", "ollama", "openai", "claude", "open-webui", "mcp"],
+          "files": {
+            "llama.md": ["llama", "llama2", "llama3", "meta"],
+            "gpt.md": ["gpt", "chatgpt", "gpt-3", "gpt-4"],
+            "gemini.md": ["gemini", "google ai", "bard"],
+            "ollama.md": ["ollama"],
+            "openai-api.md": ["openai", "openai api"],
+            "openrouter-api.md": ["openrouter"],
+            "claude-code.md": ["claude", "anthropic", "claude code"],
+            "open-webui.md": ["open-webui", "openwebui"],
+            "open-webui-tools.md": ["open-webui tools", "openwebui tools"],
+            "mcp.md": ["mcp", "model context protocol"]
+          }
+        },
+        "voice-audio": {
+          "name": "Voice & Audio Processing",
+          "description": "Speech, voice, and audio AI tools",
+          "keywords": ["speech", "voice", "audio", "tts", "stt", "text-to-speech", "speech-to-text"],
+          "files": {
+            "speech-to-text.md": ["speech-to-text", "stt", "transcription", "whisper"],
+            "voice.md": ["voice"],
+            "voice-processing.md": ["voice processing", "voice manipulation"],
+            "text-to-image.md": ["text-to-image", "image generation", "stable diffusion", "dall-e"]
+          }
+        },
+        "context-rag": {
+          "name": "Context & RAG",
+          "description": "Retrieval augmented generation and context management",
+          "keywords": ["rag", "retrieval", "context", "embedding", "vector"],
+          "files": {
+            "context-generation.md": ["context generation"],
+            "context-rag.md": ["context rag"],
+            "rag.md": ["rag", "retrieval augmented generation"],
+            "vector-storage.md": ["vector", "vector database", "embeddings", "chromadb", "pinecone", "weaviate"]
+          }
+        },
+        "prompts": {
+          "name": "Prompt Engineering",
+          "description": "Prompt engineering tools and libraries",
+          "keywords": ["prompt", "prompting", "prompt engineering", "prompt library"],
+          "files": {
+            "prompt-engineering.md": ["prompt engineering"],
+            "prompt-libraries.md": ["prompt library", "prompt collection"]
+          }
+        },
+        "llm-general": {
+          "name": "General LLM Tools",
+          "description": "General LLM utilities and frameworks",
+          "keywords": ["llm", "language model", "llm tool"],
+          "files": {
+            "llm.md": ["llm"],
+            "llm-analysis.md": ["llm analysis"],
+            "llm-apis.md": ["llm api"],
+            "llm-frontend.md": ["llm frontend", "llm ui"],
+            "llm-projects.md": ["llm project"],
+            "llm-tools.md": ["llm tool"]
+          }
+        },
+        "assistants": {
+          "name": "AI Assistants & Agents",
+          "description": "AI agents, assistants, and autonomous systems",
+          "keywords": ["agent", "assistant", "autonomous", "chatbot"],
+          "files": {
+            "ai-agents.md": ["ai agent", "autonomous agent"],
+            "ai-assistants.md": ["ai assistant"],
+            "assistants.md": ["assistant", "chatbot"]
+          }
+        },
+        "meta": {
+          "name": "AI Meta Topics",
+          "description": "Meta discussions about AI",
+          "keywords": ["ai meta", "ai philosophy", "ai discussion"],
+          "files": {
+            "ai-experiments.md": ["ai experiments", "experiments"],
+            "ai-humor.md": ["ai humor", "funny"],
+            "ai-interests.md": ["ai interests"],
+            "ai-repos.md": ["ai repos", "repositories"],
+            "ai-tools.md": ["ai tools"]
+          }
+        }
+      }
+    },
+    "data-tools": {
+      "name": "Data Tools",
+      "description": "Data processing, analysis, and visualization tools",
+      "keywords": ["data", "analytics", "visualization", "database"],
+      "subsections": {
+        "analysis": {
+          "name": "Data Analysis",
+          "description": "Data analysis and processing tools",
+          "keywords": ["analysis", "data analysis", "analytics", "pandas", "numpy"],
+          "files": {
+            "data-analysis.md": ["data analysis", "analysis"],
+            "data.md": ["data"],
+            "data-processing.md": ["data processing", "processing"],
+            "emissions.md": ["emissions", "carbon"],
+            "sustainability.md": ["sustainability", "green"]
+          }
+        },
+        "databases": {
+          "name": "Databases",
+          "description": "Database tools and utilities",
+          "keywords": ["database", "sql", "postgres", "mongodb", "mysql"],
+          "files": {
+            "postgres.md": ["postgres", "postgresql", "sql"]
+          }
+        },
+        "formats": {
+          "name": "Data Formats",
+          "description": "Tools for working with specific data formats",
+          "keywords": ["json", "csv", "xml", "yaml", "geojson", "kml"],
+          "files": {
+            "geojson.md": ["geojson", "geo"],
+            "json-snippets.md": ["json", "snippets"],
+            "kml.md": ["kml", "keyhole markup"]
+          }
+        },
+        "visualization": {
+          "name": "Data Visualization",
+          "description": "Data visualization and charting tools",
+          "keywords": ["visualization", "chart", "graph", "plot", "dashboard"],
+          "files": {
+            "dashboards.md": ["dashboard", "dashboards"],
+            "data-visualization.md": ["data visualization", "visualization", "charts"]
+          }
+        }
+      }
+    },
+    "development": {
+      "name": "Development Tools",
+      "description": "Software development tools and utilities",
+      "keywords": ["development", "coding", "programming", "dev"],
+      "subsections": {
+        "code-generation": {
+          "name": "Code Generation",
+          "description": "Code generation and scaffolding tools",
+          "keywords": ["code generation", "scaffolding", "codegen", "generator"],
+          "files": {
+            "code-generation.md": ["code generation", "codegen"],
+            "scaffolders.md": ["scaffolder", "scaffold"],
+            "wrappers.md": ["wrapper", "api wrapper"]
+          }
+        },
+        "created-projects": {
+          "name": "Created Projects",
+          "description": "Complete projects and applications",
+          "keywords": ["project", "application", "app"],
+          "files": {
+            "created-clis.md": ["cli", "command line"],
+            "created-guis.md": ["gui", "graphical"],
+            "prototypes.md": ["prototype", "poc"]
+          }
+        },
+        "documentation": {
+          "name": "Documentation",
+          "description": "Documentation tools and generators",
+          "keywords": ["documentation", "docs", "readme", "api docs"],
+          "files": {
+            "documentation-tools.md": ["documentation", "docs"],
+            "patterns.md": ["patterns", "design patterns"]
+          }
+        },
+        "frontend": {
+          "name": "Frontend Development",
+          "description": "Frontend development tools and frameworks",
+          "keywords": ["frontend", "ui", "ux", "web", "react", "vue", "css", "html"],
+          "files": {
+            "css-styling-rules.md": ["css", "styling"],
+            "streamlit-apps.md": ["streamlit", "apps"],
+            "ui-ux-rules.md": ["ui", "ux", "design"]
+          }
+        },
+        "github": {
+          "name": "GitHub Tools",
+          "description": "GitHub-specific tools and utilities",
+          "keywords": ["github", "gh", "github api", "git"],
+          "files": {
+            "github.md": ["github"],
+            "github-repos.md": ["github repos", "repositories"],
+            "github-tools.md": ["github tools", "gh tools"]
+          }
+        },
+        "ide": {
+          "name": "IDE & Editor Tools",
+          "description": "IDE customizations and editor tools",
+          "keywords": ["ide", "editor", "vscode", "vs code", "vim"],
+          "files": {
+            "ide-customization.md": ["ide", "customization"],
+            "obsidian.md": ["obsidian"],
+            "vs-code.md": ["vscode", "vs code"]
+          }
+        },
+        "languages": {
+          "name": "Programming Languages",
+          "description": "Language-specific tools and projects",
+          "keywords": ["python", "javascript", "typescript", "java", "go", "rust"],
+          "files": {
+            "python.md": ["python", "py"]
+          }
+        },
+        "standards": {
+          "name": "Standards & Guidelines",
+          "description": "Coding standards and style guides",
+          "keywords": ["standards", "guidelines", "style guide", "best practices"],
+          "files": {
+            "code-organization.md": ["code organization", "structure"],
+            "security-review-rules.md": ["security", "review"]
+          }
+        },
+        "tools": {
+          "name": "Developer Tools",
+          "description": "General developer utilities",
+          "keywords": ["tool", "utility", "devtool", "cli"],
+          "files": {
+            "api-tools.md": ["api", "api tools"],
+            "developer-utilities.md": ["developer utilities", "dev utils"],
+            "text-processing.md": ["text processing", "text"]
+          }
+        }
+      }
+    },
+    "infrastructure": {
+      "name": "Infrastructure",
+      "description": "Infrastructure, deployment, and system administration",
+      "keywords": ["infrastructure", "deployment", "devops", "cloud", "docker", "kubernetes"],
+      "files": {
+        "automation.md": ["automation", "devops"],
+        "backups.md": ["backups", "backup"],
+        "cloud-backup.md": ["cloud backup", "cloud"],
+        "docker.md": ["docker", "containers"],
+        "linux.md": ["linux", "unix"],
+        "opensuse.md": ["opensuse", "suse"],
+        "pii-filtering.md": ["pii", "privacy"],
+        "self-hosted.md": ["self-hosted", "self hosting"]
+      }
+    },
+    "platforms": {
+      "name": "Platforms & Services",
+      "description": "Platform-specific integrations and tools",
+      "keywords": ["platform", "service", "integration"],
+      "subsections": {
+        "automation": {
+          "name": "Automation Platforms",
+          "description": "Automation and workflow tools",
+          "keywords": ["automation", "workflow", "n8n", "zapier"],
+          "files": {
+            "n8n.md": ["n8n", "workflow"],
+            "webhooks.md": ["webhooks", "webhook"]
+          }
+        },
+        "communication": {
+          "name": "Communication Platforms",
+          "description": "Communication and messaging tools",
+          "keywords": ["communication", "messaging", "slack", "discord", "email"],
+          "files": {
+            "email-delivery.md": ["email", "delivery"],
+            "email-workflows.md": ["email workflows", "email automation"],
+            "slack.md": ["slack", "messaging"]
+          }
+        },
+        "content": {
+          "name": "Content Platforms",
+          "description": "Content management and publishing platforms",
+          "keywords": ["content", "cms", "blog", "publishing", "obsidian", "nuclino"],
+          "files": {
+            "nuclino.md": ["nuclino", "wiki"],
+            "static-site-generator.md": ["static site", "ssg", "jekyll", "hugo"]
+          }
+        },
+        "home-iot": {
+          "name": "Home & IoT",
+          "description": "Home automation and IoT platforms",
+          "keywords": ["home assistant", "iot", "smart home", "automation"],
+          "files": {
+            "home-assistant-automation.md": ["home assistant automation", "ha automation"],
+            "home-assistant.md": ["home assistant", "ha"]
+          }
+        },
+        "mobile": {
+          "name": "Mobile Platforms",
+          "description": "Mobile app development and tools",
+          "keywords": ["mobile", "android", "ios", "app"],
+          "files": {
+            "android-apps.md": ["android", "android apps"]
+          }
+        }
+      }
+    },
+    "project-types": {
+      "name": "Project Types",
+      "description": "Projects organized by type",
+      "keywords": ["demo", "prototype", "experiment", "fork", "template"],
+      "files": {
+        "awesome-lists.md": ["awesome", "awesome list"],
+        "bug-reports.md": ["bug", "bug report"],
+        "demos.md": ["demo", "demonstration"],
+        "documentation.md": ["documentation", "docs"],
+        "experiments.md": ["experiment", "experimental"],
+        "forks.md": ["fork", "forked"],
+        "ideas.md": ["ideas", "concept"],
+        "indexes.md": ["index", "indexes"],
+        "lists.md": ["list", "lists"],
+        "misc.md": ["misc", "miscellaneous", "other"],
+        "research.md": ["research", "study"],
+        "templates.md": ["template", "boilerplate"]
+      }
+    },
+    "regional-specific": {
+      "name": "Regional Specific",
+      "description": "Region or language-specific projects",
+      "keywords": ["israel", "hebrew", "paleo-hebrew", "regional"],
+      "files": {
+        "hebrew-fonts.md": ["hebrew fonts", "fonts"],
+        "israel.md": ["israel", "israeli"],
+        "paleo-hebrew.md": ["paleo hebrew", "ancient hebrew"],
+        "pikud-haoref.md": ["pikud haoref", "home front command"],
+        "preparedness.md": ["preparedness", "emergency"]
+      }
+    },
+    "tools-utilities": {
+      "name": "Tools & Utilities",
+      "description": "General purpose tools and utilities",
+      "keywords": ["tool", "utility", "cli", "gui", "desktop"],
+      "subsections": {
+        "cli-tools": {
+          "name": "CLI Tools",
+          "description": "Command-line interface tools",
+          "keywords": ["cli", "command line", "terminal"],
+          "files": {
+            "cli-tools.md": ["cli", "command line"]
+          }
+        },
+        "desktop-utilities": {
+          "name": "Desktop Utilities",
+          "description": "Desktop application utilities",
+          "keywords": ["desktop", "gui", "application"],
+          "files": {
+            "desktop-utilities.md": ["desktop", "desktop utils"]
+          }
+        },
+        "gui-utilities": {
+          "name": "GUI Utilities",
+          "description": "Graphical user interface utilities",
+          "keywords": ["gui", "graphical", "interface"],
+          "files": {
+            "gui-utilities.md": ["gui", "graphical interface"]
+          }
+        },
+        "utilities": {
+          "name": "General Utilities",
+          "description": "General purpose utilities",
+          "keywords": ["utility", "tool", "helper"],
+          "files": {
+            "utilities.md": ["utilities", "utils"]
+          }
+        }
+      }
+    }
+  }
+}
