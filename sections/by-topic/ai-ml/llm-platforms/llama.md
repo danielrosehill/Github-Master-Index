@@ -21,3 +21,6 @@ Career pivot ideation app (AI Studio, vibe coded starter)
 
 ## Ai Room Dimension Estimator [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Room-Dimension-Estimator)
 Upload pics, get ballpark dimensions
+
+## Ai Textpad [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Textpad)
+Simple notepad (Linux) with Ai text transformations

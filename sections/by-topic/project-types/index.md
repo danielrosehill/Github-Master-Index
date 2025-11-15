@@ -13,5 +13,6 @@ This section contains repositories related to project types.
 - [Ideas](ideas.md)
 - [Indexes](indexes.md)
 - [Lists](lists.md)
+- [Misc](misc.md)
 - [Research](research.md)
 - [Templates](templates.md)

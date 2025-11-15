@@ -16,6 +16,8 @@ https://github.com/danielrosehill/N8N-Workflows-Index
 
 https://github.com/danielrosehill/Home-Assistant-Index
 
+https://github.com/danielrosehill/Israel-Projects-Index
+
 https://github.com/danielrosehill/Backup-Projects-Index
 
 https://github.com/danielrosehill/Apps-Index

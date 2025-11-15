@@ -45,3 +45,6 @@ MQTT controls scripts for the NEO NAS-AB02B2 Zigbee siren
 
 ## Red Alert HA Template 0825 [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Red-Alert-HA-Template-0825)
 Updated Red Alert template, August 2025
+
+## A Better Jobs Platform Notes [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/A-Better-Jobs-Platform-Notes)
+Notes/thoughts on what I think could be a really fertile AI use-case

@@ -60,3 +60,18 @@ AI Studio starter - upload voice sample, get EQ preset
 
 ## Voice Analyzer [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Voice-Analyzer)
 Analyses voice data
+
+## Deepgram Voice Keyboard Ubuntu [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Deepgram-Voice-Keyboard-Ubuntu)
+WIP to try to create a good STT utility with cloud STT APIs
+
+## Linux Voice Typing App Notes [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Linux-Voice-Typing-App-Notes)
+Planning notes for a tool I've been working on for a while!
+
+## Voice Training Data Creator [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Voice-Training-Data-Creator)
+GUI to facilitate capturing voice data for TTS / voice clone training with LLM synthetic text generation and saving logic (Ubuntu Linux)
+
+## Voicepad [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Voicepad)
+Planning notes for a macropad for STT users
+
+## Voice Input Models [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/voice-input-models)
+

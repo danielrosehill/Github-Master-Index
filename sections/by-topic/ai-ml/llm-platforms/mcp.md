@@ -53,3 +53,21 @@ Group of Smithery MCPs for Claude Code
 
 ## Mcp Installation Notebook [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/MCP-Installation-Notebook)
 Notebook of things I've figured out about installing MCPs - as I figure them out
+
+## Israel Related Mcps [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Israel-Related-MCPs)
+Small resource list of MCP projects related to Israel
+
+## Favorite Mcps [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Favorite-MCPs)
+List of my MCP toolkit as I develop it and it evolves over time
+
+## Audio Transcriber Mcp [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/audio-transcriber-mcp)
+A MCP server that provides audio transcription capabilities using OpenAI's Whisper API
+
+## On Mcp And Consolidation [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/On-MCP-And-Consolidation)
+Quick snapshot / notes on MCP consolidation approaches
+
+## Mcp Ecosystem [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/MCP-Ecosystem)
+Quick compilation of resources for those interested in MCP
+
+## Homebox Mcp Server [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Homebox-MCP-Server)
+MCP for Homebox with support for LAN and WAN URLs

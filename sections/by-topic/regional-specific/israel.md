@@ -144,3 +144,6 @@ A 100 page book manuscript generated from a single prompt using Sonnet 3.7
 
 ## WAQI Stations Israel [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/WAQI-Stations-Israel)
 List of some WAQI reporting points in Israel (static snapshot)
+
+## Israel Projects Index [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Israel-Projects-Index)
+Index of repositories related to Israel

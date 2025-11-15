@@ -110,3 +110,54 @@ Pattern/model for using CC for conducting device level security audits
 
 ## Anthropic Skills Notes [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/anthropic-skills-notes)
 Public repository for Skills
+
+## Claude Rescue [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Claude-Rescue)
+WIP/Plan/Idea: System recovery/rescue utility that seeds Claude Code installation for AI-assisted repair from TTYS/shell
+
+## Claude Code Plugins [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Claude-Code-Plugins)
+Collection of Claude Code Plugins
+
+## Claude Change My View [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Claude-Change-My-View)
+CMV with AI (pattern/template)
+
+## Claude Website Update Sender [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Claude-Website-Update-Sender)
+Slash command for notifying colleagues of website updates
+
+## Claude Adb Workspace Template [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Claude-ADB-Workspace-Template)
+
+
+## Claude Writing Space Template [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Claude-Writing-Space-Template)
+Pattern for using Clauide to help with any piece of writing
+
+## Claude Media Monitor [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Claude-Media-Monitor)
+Slash command for fetching news articles for human analysis
+
+## Claude Code Marketplace [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/claude-code-marketplace)
+
+
+## Claude Code Bash Aliases [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Claude-Code-Bash-Aliases)
+A few bash aliases to support efficient Claude Code use
+
+## Claude Mcp Guidelines [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Claude-MCP-Guidelines)
+A home folder CLAUDE.md snippet to provide guidance on MCP selection
+
+## Claude Think Tank [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Claude-Think-Tank)
+Model repository for a think tank composed of AI agents (with Claude Code providing the framework) focused on assisting a user with research and ideating policy proposals
+
+## Claude Adhd Research Workspace [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Claude-ADHD-Research-Workspace)
+Claude research notebook into ADHD drug access - an important topic!
+
+## Claude Budget Workspace Template [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Claude-Budget-Workspace-Template)
+Template for using Claude for household budget management
+
+## Claude Diary Planner Template [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Claude-Diary-Planner-Template)
+Template Claude Code repo for workfow and time management planning
+
+## Claude Spec Starter [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Claude-Spec-Starter)
+Pattern for AI assisted development starting from one (long) user prompt
+
+## Claude Stack Research Workspace [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Claude-Stack-Research-Workspace)
+
+
+## Claude Therapy Tracker [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Claude-Therapy-Tracker)
+Model/template for using Claude Code for therapy tracking (patients)

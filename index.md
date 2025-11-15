@@ -1,12 +1,216 @@
 # GitHub Repository Index
 
-**Total Repositories:** 562  
-**Last Updated:** November 12, 2025 at 03:09:32  
+**Total Repositories:** 575  
+**Last Updated:** November 15, 2025 at 18:45:18  
 **GitHub User:** [danielrosehill](https://github.com/danielrosehill)
 
 ---
 
 ## Repositories (Newest to Oldest)
+
+### [Israel Projects Index](https://github.com/danielrosehill/Israel-Projects-Index)
+
+Index of repositories related to Israel
+
+**Updated:** November 15, 2025 | **Created:** November 15, 2025  
+
+---
+
+### [Israel Related Mcps](https://github.com/danielrosehill/Israel-Related-MCPs)
+
+Small resource list of MCP projects related to Israel
+
+**Updated:** November 15, 2025 | **Created:** November 15, 2025  
+**Topics:** `` `` ``  
+
+---
+
+### [Awesome Opensource Israel](https://github.com/danielrosehill/awesome-opensource-israel)
+
+A curated list of Israeli-made projects, events, and individuals
+
+**Updated:** November 15, 2025 | **Created:** April 10, 2024  
+
+---
+
+### [Jewish Interest Mcp Projects](https://github.com/danielrosehill/Jewish-Interest-MCP-Projects)
+
+Some MCP (model context protocol) servers which might be of interest to Jewish users
+
+**Updated:** November 15, 2025 | **Created:** April 05, 2025  
+⭐ 1 stars | 🔀 0 forks  
+
+---
+
+### [Favorite Mcps](https://github.com/danielrosehill/Favorite-MCPs)
+
+List of my MCP toolkit as I develop it and it evolves over time
+
+**Updated:** November 15, 2025 | **Created:** November 15, 2025  
+**Topics:** `` `` ``  
+
+---
+
+### [Homebox](https://github.com/danielrosehill/homebox)
+
+A continuation of HomeBox the inventory and organization system built for the Home User
+
+**Updated:** November 15, 2025 | **Created:** August 04, 2024  
+
+---
+
+### [Desktop Backup Notes 1125](https://github.com/danielrosehill/Desktop-Backup-Notes-1125)
+
+*No description provided*
+
+**Updated:** November 15, 2025 | **Created:** November 15, 2025  
+
+---
+
+### [Roocode Mode Prompts](https://github.com/danielrosehill/RooCode-Mode-Prompts)
+
+Some custom mode-setting system prompts for Roo Code
+
+**Updated:** November 15, 2025 | **Created:** February 15, 2025  
+⭐ 18 stars | 🔀 0 forks  
+
+---
+
+### [Claude Rescue](https://github.com/danielrosehill/Claude-Rescue)
+
+WIP/Plan/Idea: System recovery/rescue utility that seeds Claude Code installation for AI-assisted repair from TTYS/shell
+
+**Updated:** November 14, 2025 | **Created:** November 14, 2025  
+
+---
+
+### [Claude Code Plugins](https://github.com/danielrosehill/Claude-Code-Plugins)
+
+Collection of Claude Code Plugins
+
+**Updated:** November 14, 2025 | **Created:** November 09, 2025  
+**Topics:** ``  
+
+---
+
+### [Amical](https://github.com/danielrosehill/amical)
+
+🎙️ Open Source AI Dictation App ⚡ Type 3x faster, no keyboard needed.
+
+**Updated:** November 14, 2025 | **Created:** November 14, 2025  
+
+---
+
+### [Deepgram Voice Keyboard Ubuntu](https://github.com/danielrosehill/Deepgram-Voice-Keyboard-Ubuntu)
+
+WIP to try to create a good STT utility with cloud STT APIs
+
+**Updated:** November 14, 2025 | **Created:** November 11, 2025  
+
+---
+
+### [Long Form Audio Eval](https://github.com/danielrosehill/Long-Form-Audio-Eval)
+
+Single shot STT benchmark for long from audio
+
+**Updated:** November 14, 2025 | **Created:** November 13, 2025  
+
+---
+
+### [Voice Input Models](https://github.com/danielrosehill/voice-input-models)
+
+*No description provided*
+
+**Updated:** November 13, 2025 | **Created:** November 13, 2025  
+
+---
+
+### [Claude Change My View](https://github.com/danielrosehill/Claude-Change-My-View)
+
+CMV with AI (pattern/template)
+
+**Updated:** November 13, 2025 | **Created:** November 13, 2025  
+
+---
+
+### [Claude Code Repos Index](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+
+Index of repositories related to Claude Code CLI
+
+**Updated:** November 13, 2025 | **Created:** October 11, 2025  
+⭐ 1 stars | 🔀 2 forks  
+**Topics:** `` `` ``  
+
+---
+
+### [Ai Textpad](https://github.com/danielrosehill/AI-Textpad)
+
+Simple notepad (Linux) with Ai text transformations
+
+**Updated:** November 13, 2025 | **Created:** November 13, 2025  
+
+---
+
+### [Claude Website Update Sender](https://github.com/danielrosehill/Claude-Website-Update-Sender)
+
+Slash command for notifying colleagues of website updates
+
+**Updated:** November 13, 2025 | **Created:** November 13, 2025  
+
+---
+
+### [Open Web Ui Model Index Public](https://github.com/danielrosehill/Open-Web-UI-Model-Index-Public)
+
+An index of models that I have open-sourced on Open Web UI Community
+
+**Updated:** November 13, 2025 | **Created:** March 20, 2025  
+⭐ 2 stars | 🔀 0 forks  
+
+---
+
+### [Claude Adb Workspace Template](https://github.com/danielrosehill/Claude-ADB-Workspace-Template)
+
+*No description provided*
+
+**Updated:** November 13, 2025 | **Created:** November 12, 2025  
+**Topics:** `` `` ``  
+
+---
+
+### [Claude Writing Space Template](https://github.com/danielrosehill/Claude-Writing-Space-Template)
+
+Pattern for using Clauide to help with any piece of writing
+
+**Updated:** November 12, 2025 | **Created:** November 12, 2025  
+
+---
+
+### [Roo Code](https://github.com/danielrosehill/Roo-Code)
+
+Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.
+
+**Updated:** November 12, 2025 | **Created:** March 04, 2025  
+
+---
+
+### [Ai Assistant Template](https://github.com/danielrosehill/AI-Assistant-Template)
+
+Template repository for version controlling AI assistant configurations (and associated elements like context data)
+
+**Updated:** November 12, 2025 | **Created:** January 27, 2025  
+⭐ 2 stars | 🔀 0 forks  
+
+---
+
+### [Github Master Index](https://github.com/danielrosehill/Github-Master-Index)
+
+A repository that indexes my Github projects
+
+**Updated:** November 12, 2025 | **Created:** February 22, 2025  
+⭐ 5 stars | 🔀 1 forks  
+**Topics:** `` `` ``  
+
+---
 
 ### [Development Project Index](https://github.com/danielrosehill/Development-Project-Index)
 
@@ -63,14 +267,6 @@ Notes/thoughts on what I think could be a really fertile AI use-case
 
 ---
 
-### [Voice Typing Ubuntu App](https://github.com/danielrosehill/Voice-Typing-Ubuntu-App)
-
-WIP to try to create a good STT utility with cloud STT APIs
-
-**Updated:** November 11, 2025 | **Created:** November 11, 2025  
-
----
-
 ### [Claude Code Linux Desktop Slash Commands](https://github.com/danielrosehill/Claude-Code-Linux-Desktop-Slash-Commands)
 
 Slash commands for Linux desktop sysadmin with Claude Code (or any other agent)
@@ -108,16 +304,6 @@ Slash command for fetching news articles for human analysis
 
 ---
 
-### [Claude Code Repos Index](https://github.com/danielrosehill/Claude-Code-Repos-Index)
-
-Index of repositories related to Claude Code CLI
-
-**Updated:** November 10, 2025 | **Created:** October 11, 2025  
-⭐ 1 stars | 🔀 2 forks  
-**Topics:** `` `` ``  
-
----
-
 ### [Claude Code Notebook](https://github.com/danielrosehill/Claude-Code-Notebook)
 
 Personal reference notebook for Claude Code (CLI) usage. Context: Linux desktop (Ubuntu)
@@ -141,15 +327,6 @@ Planning notes for a tool I've been working on for a while!
 A MCP server that provides audio transcription capabilities using OpenAI's Whisper API
 
 **Updated:** November 09, 2025 | **Created:** November 09, 2025  
-
----
-
-### [Claude Code Plugins](https://github.com/danielrosehill/Claude-Code-Plugins)
-
-Collection of Claude Code Plugins
-
-**Updated:** November 09, 2025 | **Created:** November 09, 2025  
-**Topics:** ``  
 
 ---
 
@@ -489,16 +666,6 @@ Repo model for an iterative deep research model with voice pipeline
 
 ---
 
-### [Github Master Index](https://github.com/danielrosehill/Github-Master-Index)
-
-A repository that indexes my Github projects
-
-**Updated:** November 02, 2025 | **Created:** February 22, 2025  
-⭐ 5 stars | 🔀 1 forks  
-**Topics:** `` `` ``  
-
----
-
 ### [Claude Deep Research Template](https://github.com/danielrosehill/Claude-Deep-Research-Template)
 
 Template for Claude Code deep research pattern
@@ -780,15 +947,6 @@ Model AI stack and budget (Oct 2025) - for ref, FAQs, etc
 
 **Updated:** October 28, 2025 | **Created:** October 27, 2025  
 **Topics:** `` `` ``  
-
----
-
-### [Roocode Mode Prompts](https://github.com/danielrosehill/RooCode-Mode-Prompts)
-
-Some custom mode-setting system prompts for Roo Code
-
-**Updated:** October 28, 2025 | **Created:** February 15, 2025  
-⭐ 17 stars | 🔀 0 forks  
 
 ---
 
@@ -1254,15 +1412,6 @@ Attempting to map out the various input/output permutations for multimodal AI
 Index of development projects that were partially or fully developed using AI
 
 **Updated:** October 22, 2025 | **Created:** February 01, 2025  
-
----
-
-### [Open Web Ui Model Index Public](https://github.com/danielrosehill/Open-Web-UI-Model-Index-Public)
-
-An index of models that I have open-sourced on Open Web UI Community
-
-**Updated:** October 22, 2025 | **Created:** March 20, 2025  
-⭐ 1 stars | 🔀 0 forks  
 
 ---
 
@@ -2332,6 +2481,7 @@ Agent framework and applications built upon Qwen>=3.0, featuring Function Callin
 An mcp for nuclino
 
 **Updated:** August 25, 2025 | **Created:** August 25, 2025  
+⭐ 0 stars | 🔀 1 forks  
 
 ---
 
@@ -2765,15 +2915,6 @@ Simple Python script for batch file renaming operations with OpenAI API
 
 ---
 
-### [Jewish Interest Mcp Projects](https://github.com/danielrosehill/Jewish-Interest-MCP-Projects)
-
-Some MCP (model context protocol) servers which might be of interest to Jewish users
-
-**Updated:** June 15, 2025 | **Created:** April 05, 2025  
-⭐ 1 stars | 🔀 0 forks  
-
----
-
 ### [Hfc Android Config Guide](https://github.com/danielrosehill/HFC-Android-Config-Guide)
 
 Non-official! Home Front Command Android app config settings guides (06-2025)
@@ -2872,14 +3013,6 @@ Lookup agents to assist with standardising datasets with correct ISO values
 Implementing an "Open In Windsurf" (AI IDE) context menu element for KDE Plasma
 
 **Updated:** May 21, 2025 | **Created:** May 21, 2025  
-
----
-
-### [Roo Code](https://github.com/danielrosehill/Roo-Code)
-
-Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.
-
-**Updated:** May 20, 2025 | **Created:** March 04, 2025  
 
 ---
 
@@ -3484,14 +3617,6 @@ AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our
 
 ---
 
-### [Homebox](https://github.com/danielrosehill/homebox)
-
-A continuation of HomeBox the inventory and organization system built for the Home User
-
-**Updated:** March 08, 2025 | **Created:** August 04, 2024  
-
----
-
 ### [Open Web Ui Homebox Tool](https://github.com/danielrosehill/Open-Web-UI-Homebox-Tool)
 
 *No description provided*
@@ -3829,15 +3954,6 @@ Some updated thoughts and sketches for creating personalised AI systems
 ### [Assistant Configuration Improver](https://github.com/danielrosehill/Assistant-Configuration-Improver)
 
 Assistant which improves the configuration of assistant configuration texts
-
-**Updated:** January 27, 2025 | **Created:** January 27, 2025  
-⭐ 1 stars | 🔀 0 forks  
-
----
-
-### [Ai Assistant Template](https://github.com/danielrosehill/AI-Assistant-Template)
-
-Template repository for version controlling AI assistant configurations (and associated elements like context data)
 
 **Updated:** January 27, 2025 | **Created:** January 27, 2025  
 ⭐ 1 stars | 🔀 0 forks  
@@ -4770,14 +4886,6 @@ A few spins on the Astro starter theme to demonstrate some capabilities that I l
 A fork of the Awesome list generator modified for simplicity
 
 **Updated:** May 19, 2024 | **Created:** May 19, 2024  
-
----
-
-### [Awesome Opensource Israel](https://github.com/danielrosehill/awesome-opensource-israel)
-
-A curated list of Israeli-made projects, events, and individuals
-
-**Updated:** April 10, 2024 | **Created:** April 10, 2024  
 
 ---
 

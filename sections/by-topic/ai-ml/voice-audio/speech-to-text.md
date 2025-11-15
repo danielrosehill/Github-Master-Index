@@ -123,3 +123,6 @@ Experiment to see if crying baby audio can be scrubbed with audio inpainting (us
 
 ## Stt To Tts [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/STT-To-TTS)
 Gemini app which captures user speech, condenses (LLM), and then synthes
+
+## Long Form Audio Eval [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Long-Form-Audio-Eval)
+Single shot STT benchmark for long from audio

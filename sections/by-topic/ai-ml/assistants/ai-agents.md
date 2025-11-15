@@ -333,3 +333,6 @@ A collection of system prompts for AI agents intended to provide support to indi
 
 ## Ai Human Attribution Adder [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Human-Attribution-Adder)
 Slash command for AI agents to note who did what!
+
+## End Of Day Worklog [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/End-Of-Day-Worklog)
+Agent model for taking daily snapshots of work progress
