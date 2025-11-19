@@ -1,0 +1,106 @@
+{
+  "description": "Index repositories that organize and categorize Daniel's GitHub projects by specific topics",
+  "master_index": {
+    "name": "Github-Master-Index",
+    "url": "https://github.com/danielrosehill/Github-Master-Index",
+    "description": "Master index repository that aggregates all GitHub projects"
+  },
+  "specialized_indexes": [
+    {
+      "id": "claude-code",
+      "name": "Claude Code Repos Index",
+      "url": "https://github.com/danielrosehill/Claude-Code-Repos-Index",
+      "category": "AI & Development Tools"
+    },
+    {
+      "id": "experiments-evals",
+      "name": "Experiments And Evaluations Index",
+      "url": "https://github.com/danielrosehill/Experiments-And-Evaluations-Index",
+      "category": "Research & Testing"
+    },
+    {
+      "id": "israel-projects",
+      "name": "Israel Projects Index",
+      "url": "https://github.com/danielrosehill/Israel-Projects-Index",
+      "category": "Regional/Location-Specific"
+    },
+    {
+      "id": "dev-projects",
+      "name": "Development Project Index",
+      "url": "https://github.com/danielrosehill/Development-Project-Index",
+      "category": "Development"
+    },
+    {
+      "id": "homebox",
+      "name": "Homebox Projects Index",
+      "url": "https://github.com/danielrosehill/Homebox-Projects-Index",
+      "category": "Home Automation"
+    },
+    {
+      "id": "ai-projects",
+      "name": "AI Projects Index",
+      "url": "https://github.com/danielrosehill/AI-Projects-Index",
+      "category": "AI & Machine Learning"
+    },
+    {
+      "id": "docs",
+      "name": "My Docs Index",
+      "url": "https://github.com/danielrosehill/My-Docs-Index",
+      "category": "Documentation"
+    },
+    {
+      "id": "backup-projects",
+      "name": "Backup Projects Index",
+      "url": "https://github.com/danielrosehill/Backup-Projects-Index",
+      "category": "Infrastructure"
+    },
+    {
+      "id": "home-assistant",
+      "name": "Home Assistant Index",
+      "url": "https://github.com/danielrosehill/Home-Assistant-Index",
+      "category": "Home Automation"
+    },
+    {
+      "id": "apps",
+      "name": "Apps Index",
+      "url": "https://github.com/danielrosehill/Apps-Index",
+      "category": "Applications"
+    },
+    {
+      "id": "awesome-lists",
+      "name": "Awesome List Repos Index",
+      "url": "https://github.com/danielrosehill/Awesome-List-Repos-Index",
+      "category": "Curated Lists"
+    },
+    {
+      "id": "ai-agents",
+      "name": "AI Agents",
+      "url": "https://github.com/danielrosehill/AI-Agents",
+      "category": "AI & Machine Learning"
+    },
+    {
+      "id": "n8n-workflows",
+      "name": "N8N Workflows Index",
+      "url": "https://github.com/danielrosehill/N8N-Workflows-Index",
+      "category": "Automation"
+    },
+    {
+      "id": "data-projects",
+      "name": "Data Projects Index",
+      "url": "https://github.com/danielrosehill/Data-Projects-Index",
+      "category": "Data Tools"
+    },
+    {
+      "id": "mcp",
+      "name": "MCP Projects",
+      "url": "https://github.com/danielrosehill/MCP-Projects",
+      "category": "AI & Development Tools"
+    },
+    {
+      "id": "prompt-libraries",
+      "name": "My Prompt Libraries",
+      "url": "https://github.com/danielrosehill/My-Prompt-Libraries",
+      "category": "AI & Machine Learning"
+    }
+  ]
+}

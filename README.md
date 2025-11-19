@@ -509,6 +509,35 @@ Explore repositories organized by topic and subtopic:
 ---
 
 
+## Specialized Index Repositories
+
+This master index is supplemented by specialized index repositories that organize projects by specific topics:
+
+| Index | Description |
+|-------|-------------|
+| [AI Projects Index](https://github.com/danielrosehill/AI-Projects-Index) | AI & Machine Learning projects |
+| [AI Agents](https://github.com/danielrosehill/AI-Agents) | AI agent implementations |
+| [Claude Code Repos Index](https://github.com/danielrosehill/Claude-Code-Repos-Index) | Claude Code related projects |
+| [MCP Projects](https://github.com/danielrosehill/MCP-Projects) | Model Context Protocol projects |
+| [My Prompt Libraries](https://github.com/danielrosehill/My-Prompt-Libraries) | Prompt engineering libraries |
+| [Data Projects Index](https://github.com/danielrosehill/Data-Projects-Index) | Data processing and analysis |
+| [Development Project Index](https://github.com/danielrosehill/Development-Project-Index) | Development tools and apps |
+| [Apps Index](https://github.com/danielrosehill/Apps-Index) | Applications |
+| [N8N Workflows Index](https://github.com/danielrosehill/N8N-Workflows-Index) | N8N automation workflows |
+| [Home Assistant Index](https://github.com/danielrosehill/Home-Assistant-Index) | Home Assistant integrations |
+| [Homebox Projects Index](https://github.com/danielrosehill/Homebox-Projects-Index) | Homebox inventory projects |
+| [Backup Projects Index](https://github.com/danielrosehill/Backup-Projects-Index) | Backup utilities and tools |
+| [My Docs Index](https://github.com/danielrosehill/My-Docs-Index) | Documentation repositories |
+| [Awesome List Repos Index](https://github.com/danielrosehill/Awesome-List-Repos-Index) | Curated awesome lists |
+| [Experiments And Evaluations Index](https://github.com/danielrosehill/Experiments-And-Evaluations-Index) | Research and testing |
+| [Israel Projects Index](https://github.com/danielrosehill/Israel-Projects-Index) | Israel-related projects |
+
+**Data file:** [indexing-repos.json](indexing-repos.json)
+
+
+---
+
+
 ## Data Access & API
 
 This repository provides multiple ways to access the data programmatically:
