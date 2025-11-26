@@ -42,9 +42,19 @@ fi
 echo "✓ Prerequisites OK"
 echo ""
 
+# Step 0: Sync indexing repos list from Index-Of-Indices
+echo "──────────────────────────────────────────────────────"
+echo "STEP 0/6: Syncing indexing repos from Index-Of-Indices"
+echo "──────────────────────────────────────────────────────"
+python3 "$SCRIPT_DIR/sync-indexing-repos.py"
+if [ $? -ne 0 ]; then
+    echo "✗ Warning: Failed to sync indexing repos (continuing anyway)"
+fi
+echo ""
+
 # Step 1: Pull and auto-categorize new repos
 echo "──────────────────────────────────────────────────────"
-echo "STEP 1/5: Pulling repos and auto-categorizing new ones"
+echo "STEP 1/6: Pulling repos and auto-categorizing new ones"
 echo "──────────────────────────────────────────────────────"
 python3 "$SCRIPT_DIR/pull-and-index.py"
 if [ $? -ne 0 ]; then
@@ -56,7 +66,7 @@ echo ""
 
 # Step 2: Generate main index
 echo "──────────────────────────────────────────────────────"
-echo "STEP 2/5: Generating main index.md"
+echo "STEP 2/6: Generating main index.md"
 echo "──────────────────────────────────────────────────────"
 python3 "$SCRIPT_DIR/generate-index.py" --refresh
 if [ $? -ne 0 ]; then
@@ -68,7 +78,7 @@ echo ""
 
 # Step 3: Update time-based indexes
 echo "──────────────────────────────────────────────────────"
-echo "STEP 3/5: Updating time-based indexes"
+echo "STEP 3/6: Updating time-based indexes"
 echo "──────────────────────────────────────────────────────"
 python3 "$SCRIPT_DIR/update-time-indexes.py"
 if [ $? -ne 0 ]; then
@@ -80,7 +90,7 @@ echo ""
 
 # Step 4: Generate category indexes
 echo "──────────────────────────────────────────────────────"
-echo "STEP 4/5: Generating category indexes"
+echo "STEP 4/6: Generating category indexes"
 echo "──────────────────────────────────────────────────────"
 python3 "$SCRIPT_DIR/generate-category-indexes.py"
 if [ $? -ne 0 ]; then
@@ -125,6 +135,7 @@ echo "  • sections/by-topic/* - Categorized repositories"
 echo "  • sections/by-time/* - Chronological indexes (by creation date)"
 echo "  • README.md - Main readme with category links"
 echo "  • repositories.json - JSON data for website (at root)"
+echo "  • indexing-repos.json - List of indexing repositories (from Index-Of-Indices)"
 echo ""
 echo "Next steps:"
 echo "  1. Review changes: git status"

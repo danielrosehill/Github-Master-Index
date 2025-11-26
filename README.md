@@ -3,7 +3,7 @@
 ![Banner](banners/index.png)
 
 
-*Last updated: 2025-11-26 12:07:11*
+*Last updated: 2025-11-26 12:11:29*
 
 
 This is an automatically generated index of my public GitHub repositories.
@@ -30,8 +30,7 @@ This index provides multiple ways to explore my GitHub repositories:
 
 | View | Description |
 | ---- | ----------- |
-| [![Timeline](https://img.shields.io/badge/Timeline-4285F4?style=flat-square&logo=github&logoColor=white)](timeline.md) | Chronological view of all repositories |
-| [![All Categories](https://img.shields.io/badge/All_Categories-FF5722?style=flat-square&logo=github&logoColor=white)](sections/all-categories.md) | View all categories in a single page |
+| [![Full Index](https://img.shields.io/badge/Full_Index-4285F4?style=flat-square&logo=github&logoColor=white)](index.md) | All repositories sorted by update date |
 | [![Browse by Time](https://img.shields.io/badge/By_Time-9C27B0?style=flat-square&logo=github&logoColor=white)](sections/by-time/README.md) | Explore by year and month of creation |
 
 
