@@ -12,3 +12,6 @@ Agent for generating custom Docker Compose files for Open Web UI
 
 ## My Docker Compose Lib Private [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/My-Docker-Compose-Lib-Private)
 No description provided
+
+## Docker Asist Plugin [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/docker-asist-plugin)
+Claude Code plugin for Docker container management, containerization workflows, and Docker troubleshooting assistance.

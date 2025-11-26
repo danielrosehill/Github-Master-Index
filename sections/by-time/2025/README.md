@@ -4,17 +4,17 @@ Repositories created in 2025, organized by month.
 
 ## Months
 
-- [November 2025](./11_25.md) (11_25.md) - 44 repositories
-- [October 2025](./10_25.md) (10_25.md) - 85 repositories
-- [September 2025](./09_25.md) (09_25.md) - 34 repositories
+- [November 2025](./11_25.md) (11_25.md) - 92 repositories
+- [October 2025](./10_25.md) (10_25.md) - 83 repositories
+- [September 2025](./09_25.md) (09_25.md) - 33 repositories
 - [August 2025](./08_25.md) (08_25.md) - 49 repositories
-- [July 2025](./07_25.md) (07_25.md) - 17 repositories
+- [July 2025](./07_25.md) (07_25.md) - 16 repositories
 - [June 2025](./06_25.md) (06_25.md) - 7 repositories
 - [May 2025](./05_25.md) (05_25.md) - 29 repositories
-- [April 2025](./04_25.md) (04_25.md) - 59 repositories
-- [March 2025](./03_25.md) (03_25.md) - 49 repositories
-- [February 2025](./02_25.md) (02_25.md) - 34 repositories
-- [January 2025](./01_25.md) (01_25.md) - 22 repositories
+- [April 2025](./04_25.md) (04_25.md) - 58 repositories
+- [March 2025](./03_25.md) (03_25.md) - 45 repositories
+- [February 2025](./02_25.md) (02_25.md) - 32 repositories
+- [January 2025](./01_25.md) (01_25.md) - 20 repositories
 
 
 ## Navigation

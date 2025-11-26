@@ -270,3 +270,6 @@ Loose collection of image to image prompts for common transformations
 
 ## My Weird Prompts [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/My-Weird-Prompts)
 Blog/podcast made out of colorful (and mundane) AI prompts - and answers!
+
+## Notebooklm Custom Prompts [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/NotebookLM-Custom-Prompts)
+AI config / system prompt for reading long reports

@@ -24,3 +24,6 @@ Upload pics, get ballpark dimensions
 
 ## Ai Textpad [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Textpad)
 Simple notepad (Linux) with Ai text transformations
+
+## Ai Workspace Planning Notes [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Ai-Workspace-Planning-Notes)
+Spec/notes for an AI workspace I have been planning for some time (incl consolidating previous notes)

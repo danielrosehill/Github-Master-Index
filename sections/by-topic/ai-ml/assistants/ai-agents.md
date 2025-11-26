@@ -336,3 +336,9 @@ Slash command for AI agents to note who did what!
 
 ## End Of Day Worklog [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/End-Of-Day-Worklog)
 Agent model for taking daily snapshots of work progress
+
+## Ubuntu Ai Boot Agent [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Ubuntu-AI-Boot-Agent)
+WIP/Notes for AI post-boot health check
+
+## Diary Planner Plugin [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/diary-planner-plugin)
+A workflow planning and time management template with agent definitions and slash commands for managing daily, weekly, and monthly schedules.

@@ -27,3 +27,6 @@ Pipeline for gathering useful API and SDK docs for ingestion into a RAG pipeline
 
 ## WAQI API OpenAPI [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/WAQI-API-OpenAPI)
 OpenAPI version (non-official, made by Actions GPT) for WAQI API
+
+## Lan Manager Plugin [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/lan-manager-plugin)
+A specialized workspace for network system administration on local area networks, providing tools for LAN scanning, device discovery, device management, and network operations.

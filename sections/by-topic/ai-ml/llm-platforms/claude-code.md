@@ -161,3 +161,60 @@ Pattern for AI assisted development starting from one (long) user prompt
 
 ## Claude Therapy Tracker [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Claude-Therapy-Tracker)
 Model/template for using Claude Code for therapy tracking (patients)
+
+## Claude Blog Manager [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Claude-Blog-Manager)
+Conversational CMS: model for using a Claude workspace to manage content
+
+## Panel Of Claude [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Panel-Of-Claude)
+Exploratory Claude model: multiple agents mimicking a panel debate
+
+## Writing Editing Plugin [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/writing-editing-plugin)
+Claude Code plugin for writing assistance, proofreading, style editing, and text transformation workflows.
+
+## Tech Research Plugin [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/tech-research-plugin)
+Claude Code plugin for technology research, competitive analysis, technical documentation retrieval, and research workflows.
+
+## Seo Plugin [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/seo-plugin)
+Claude Code plugin for SEO optimization, meta tag management, and search engine optimization workflows.
+
+## Security Checkup Plugin [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/security-checkup-plugin)
+Claude Code plugin for security audits, vulnerability scanning, firewall configuration, and system security hardening workflows.
+
+## Learning Plugin [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/learning-plugin)
+Claude Code plugin for learning resources, skill development, educational content creation, and knowledge management.
+
+## Image Editing Plugin [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/image-editing-plugin)
+Claude Code plugin for image processing, photo editing, batch image operations, and visual media management.
+
+## Filesystem Org Plugin [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/filesystem-org-plugin)
+Claude Code plugin for file system organization, folder structure optimization, and file management automation workflows.
+
+## Audio Editing Plugin [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/audio-editing-plugin)
+Claude Code plugin for audio editing, conversion, processing, and microphone management slash commands and agents.
+
+## Ai Tools Plugin [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/ai-tools-plugin)
+Claude Code plugin for AI tool management, MCP server configuration, and AI workflow automation slash commands and agents.
+
+## Claude Document This [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Claude-Document-This)
+Slash command for asking Claude Code to document fixes to various target filesystems
+
+## Server Management Plugin [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/server-management-plugin)
+Claude Code plugin for server infrastructure management, monitoring, deployment, and server administration workflows.
+
+## Debugging Plugin [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/debugging-plugin)
+Claude Code plugin for debugging workflows, error analysis, troubleshooting assistance, and diagnostic tools.
+
+## Conda Management Plugin [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/conda-management-plugin)
+Claude Code plugin for managing Conda environments, packages, and Python virtual environment workflows.
+
+## Claude Code Plugin [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/claude-code-plugin)
+Claude Code plugin for managing Claude Code configuration, slash commands, agents, and plugin development workflow.
+
+## Claude Health Helper [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Claude-Health-Helper)
+Model/template for using Claude for health applicadtions (see notes)
+
+## Claude Decision Evaluation Framework [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Claude-Decision-Evaluation-Framework)
+Claude Code model for decision evaluation
+
+## Claude Business Idea Evaluator [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Claude-Business-Idea-Evaluator)
+Model/template: using Claude Code to evaluate business ideas

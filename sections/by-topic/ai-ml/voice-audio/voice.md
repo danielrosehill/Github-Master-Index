@@ -75,3 +75,9 @@ Planning notes for a macropad for STT users
 
 ## Voice Input Models [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/voice-input-models)
 
+
+## Linux Voice And Dictation Resources [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Linux-Voice-And-Dictation-Resources)
+Resource list to gather up some projects for speech to text, voice typing, and voice productivity that are accessible on Linux (fast growing space - partial list!)
+
+## Deepgram Voice Keyboard [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/deepgram-voice-keyboard)
+A fork of Deeepgram's Linux starter. CLI -> GUI + hotkey support, API key editing, cost tracking. WIP

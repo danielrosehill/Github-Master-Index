@@ -135,3 +135,6 @@ Using a single conversation as a model for a more TL;DR LLM experience
 
 ## Llm Detective [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/LLM-Detective)
 Agent that tries to probe other models' capabilities with conversation
+
+## Llm Council [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/llm-council)
+LLM Council works together to answer your hardest questions

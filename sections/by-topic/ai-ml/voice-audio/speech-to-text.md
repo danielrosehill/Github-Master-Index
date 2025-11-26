@@ -126,3 +126,18 @@ Gemini app which captures user speech, condenses (LLM), and then synthes
 
 ## Long Form Audio Eval [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Long-Form-Audio-Eval)
 Single shot STT benchmark for long from audio
+
+## Speech Tech Index [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Speech-Tech-Index)
+Index of my repos related to STT, ASR
+
+## Asr Training Data Collector [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/ASR-Training-Data-Collector)
+GUI to facilitate gathering training data for ASR/STT apps in organised datasets with audio capture, text capture, and JSONL metadata construction. Supports LLM-generated text and user-provided.
+
+## Modal Whisper Finetune Script [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Modal-Whisper-Finetune-Script)
+Validated fine-tuning script for fine-tuning Whisper on Modal GPU with a preformatted audio dataset
+
+## Asr And Stt Ai Notebook [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/ASR-And-STT-AI-Notebook)
+Propmts and outputs (and some notes) on STT + ASR + fine-tuning. LLM: Claude
+
+## Whisper Acft [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/whisper-acft)
+

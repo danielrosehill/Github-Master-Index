@@ -18,3 +18,6 @@ TUI & CLI implementation ("vibe-coded") for USB NFC reader/writer ops. Validated
 
 ## Quick Repo Creator [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/quick-repo-creator)
 A streamlined CLI tool for fast repository creation workflow with GitHub integration and IDE support
+
+## Linux Server Plugin [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/linux-server-plugin)
+Claude Code plugin for Linux server administration, service management, and server infrastructure workflows.

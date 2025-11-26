@@ -2,6 +2,12 @@
 
 This section contains repositories related to tools utilities.
 
+## Cli Tools
+
+Cli Tools related repositories.
+
+- [Cli Tools](cli-tools/cli-tools.md)
+
 ## Desktop Utilities
 
 Desktop Utilities related repositories.

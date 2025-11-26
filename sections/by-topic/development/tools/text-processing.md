@@ -36,3 +36,9 @@ Streamlit app for capturing and editing prompts and system prompts
 ## Writing System Prompts [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Writing-System-Prompts)
 Some system prompts related to text modification and optimisation for some WIPs
 
+
+## Context Toolkit Plugin [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/context-toolkit-plugin)
+A comprehensive toolkit implementing the CONTEXT.md workflow system for managing human-authored context and agent-ready briefings.
+
+## Deepgram Text Input [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Deepgram-Text-Input)
+Analysis of Deepgram text input

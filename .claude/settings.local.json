@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python update_repos.py)",
+      "Bash(python3:*)",
+      "Bash(source:*)",
+      "Bash(python:*)",
+      "Bash(chmod:*)",
+      "Bash(./categorize.sh:*)",
+      "Bash(ollama:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

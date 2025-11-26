@@ -74,43 +74,52 @@ def build_hierarchy_section(sections, base_path="sections/by-topic"):
 
     return '\n'.join(content)
 
+def build_category_summary(sections, base_path="sections/by-topic"):
+    """Build a concise category summary with just main category links"""
+    content = []
+
+    for section_key, section_data in sorted(sections.items()):
+        section_name = section_data.get('name', format_section_name(section_key))
+        description = section_data.get('description', '')
+        category_index_path = f"{base_path}/{section_key}/index.md"
+
+        content.append(f"| [{section_name}]({category_index_path}) | {description} |")
+
+    return '\n'.join(content)
+
 def build_readme(schema_path, output_path):
     """Build complete README from schema"""
     schema = load_hierarchy_schema(schema_path)
 
-    # Header section
+    # Header section - simplified without table of contents
     readme_content = [
         "# Daniel Rosehill Github Repository Index\n",
         "![Banner](banners/index.png)\n",
         f"\n*Last updated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}*\n",
         "\nThis is an automatically generated index of my public GitHub repositories.\n",
-        "\n## Table of Contents\n",
-        "- [Repository Views](#repository-views)",
-        "- [Browse by Topic](#browse-by-topic)",
-        "- [Browse by Time](#browse-by-time)",
-        "- [Repository Statistics](#repository-statistics)",
-        "- [Data Access & API](#data-access--api)\n",
+        "\n---\n",
+        "\n## Index of Indexes\n",
+        "I maintain several specialized indexes for different project categories. View the complete list:\n",
+        "\n[![Index of Indexes](https://img.shields.io/badge/View_Index_of_Indexes-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielrosehill/Index-Of-Indices)\n",
+        "\n---\n",
         "\n## Repository Views\n",
         "This index provides multiple ways to explore my GitHub repositories:\n",
-        "\n### Timeline View\n",
-        "[![View Timeline](https://img.shields.io/badge/Timeline-4285F4?style=for-the-badge&logo=github&logoColor=white)](timeline.md)\n",
-        "\nThe timeline provides a chronological view of all repositories, showing when each project was created and its current status.\n",
-        "\n### All Categories\n",
-        "[![All Categories](https://img.shields.io/badge/All_Categories-FF5722?style=for-the-badge&logo=github&logoColor=white)](sections/all-categories.md)\n",
-        "\nView all categories in a single page.\n",
-        "\n### Browse by Time\n",
-        "[![Browse by Time](https://img.shields.io/badge/Browse_by_Time-9C27B0?style=for-the-badge&logo=github&logoColor=white)](sections/by-time/README.md)\n",
-        "\nExplore repositories organized by year and month of creation.\n",
+        "\n| View | Description |",
+        "| ---- | ----------- |",
+        "| [![Timeline](https://img.shields.io/badge/Timeline-4285F4?style=flat-square&logo=github&logoColor=white)](timeline.md) | Chronological view of all repositories |",
+        "| [![All Categories](https://img.shields.io/badge/All_Categories-FF5722?style=flat-square&logo=github&logoColor=white)](sections/all-categories.md) | View all categories in a single page |",
+        "| [![Browse by Time](https://img.shields.io/badge/By_Time-9C27B0?style=flat-square&logo=github&logoColor=white)](sections/by-time/README.md) | Explore by year and month of creation |\n",
+        "\n---\n",
+        "\n## Browse by Topic\n",
+        "Explore repositories organized by topic:\n",
+        "\n| Category | Description |",
+        "| -------- | ----------- |",
     ]
 
-    # Add hierarchical browse by topic section
-    readme_content.append("\n## Browse by Topic\n")
-    readme_content.append("Explore repositories organized by topic and subtopic:\n")
-
-    # Build hierarchy from schema
+    # Build concise category summary table
     if 'sections' in schema:
-        hierarchy_content = build_hierarchy_section(schema['sections'])
-        readme_content.append(hierarchy_content)
+        category_table = build_category_summary(schema['sections'])
+        readme_content.append(category_table)
 
     # Footer sections
     readme_content.extend([

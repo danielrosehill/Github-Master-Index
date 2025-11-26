@@ -26,3 +26,6 @@ Lightweight coding agent that runs in your terminal
 
 ## Danielrosehill.Github.Io [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/danielrosehill.github.io)
 Github Repository
+
+## Git Github Plugin [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/git-github-plugin)
+Claude Code plugin for Git version control, GitHub repository management, and collaborative development workflows.

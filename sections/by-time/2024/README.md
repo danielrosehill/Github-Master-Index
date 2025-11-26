@@ -4,7 +4,7 @@ Repositories created in 2024, organized by month.
 
 ## Months
 
-- [December 2024](./12_24.md) (12_24.md) - 35 repositories
+- [December 2024](./12_24.md) (12_24.md) - 34 repositories
 - [November 2024](./11_24.md) (11_24.md) - 22 repositories
 - [October 2024](./10_24.md) (10_24.md) - 13 repositories
 - [September 2024](./09_24.md) (09_24.md) - 15 repositories
