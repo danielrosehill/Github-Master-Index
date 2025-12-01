@@ -71,3 +71,12 @@ Quick compilation of resources for those interested in MCP
 
 ## Homebox Mcp Server [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Homebox-MCP-Server)
 MCP for Homebox with support for LAN and WAN URLs
+
+## Mcp Manager Research [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/MCP-Manager-Research)
+Some research notes for MCP server proxies
+
+## Sefaria Mcp Testing [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Sefaria-MCP-Testing)
+Some tests with Sefaria (and other Jewish-relevant MCPs!)
+
+## Sefaria Mcp [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/sefaria-mcp)
+FastMCP Server for Sefaria

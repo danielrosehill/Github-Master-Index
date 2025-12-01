@@ -4,7 +4,8 @@ Repositories created in 2025, organized by month.
 
 ## Months
 
-- [November 2025](./11_25.md) (11_25.md) - 92 repositories
+- [December 2025](./12_25.md) (12_25.md) - 2 repositories
+- [November 2025](./11_25.md) (11_25.md) - 113 repositories
 - [October 2025](./10_25.md) (10_25.md) - 83 repositories
 - [September 2025](./09_25.md) (09_25.md) - 33 repositories
 - [August 2025](./08_25.md) (08_25.md) - 49 repositories

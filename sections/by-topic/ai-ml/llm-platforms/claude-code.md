@@ -218,3 +218,9 @@ Claude Code model for decision evaluation
 
 ## Claude Business Idea Evaluator [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Claude-Business-Idea-Evaluator)
 Model/template: using Claude Code to evaluate business ideas
+
+## Claude Local Ai Agent Research [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Claude-Local-AI-Agent-Research)
+Research and notes for local sysadmin agent
+
+## Claude Job Search Strategist [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Claude-Job-Search-Strategist)
+Template for a Claude Code job search space

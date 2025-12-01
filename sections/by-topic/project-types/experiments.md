@@ -36,3 +36,6 @@ Experiment testing the "added value" of long context-dense prompts (versus casua
 
 ## Experiments And Evaluations Index [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Experiments-And-Evaluations-Index)
 Index of repositories concerning AI evaluations and experiments
+
+## Ai Podcast Experiment 1125 [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-Podcast-Experiment-1125)
+

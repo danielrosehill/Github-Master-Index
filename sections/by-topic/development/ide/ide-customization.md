@@ -12,3 +12,6 @@ Claude Code plugin for video editing, transcoding, video processing, and multime
 
 ## Ideation Plugin [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/ideation-plugin)
 Claude Code plugin for brainstorming, idea generation, project planning, and creative problem-solving workflows.
+
+## Pay For Ideas [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Pay-For-Ideas)
+Notes for a more equitable system for feature requests

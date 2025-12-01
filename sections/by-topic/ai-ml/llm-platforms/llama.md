@@ -27,3 +27,9 @@ Simple notepad (Linux) with Ai text transformations
 
 ## Ai Workspace Planning Notes [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Ai-Workspace-Planning-Notes)
 Spec/notes for an AI workspace I have been planning for some time (incl consolidating previous notes)
+
+## Jewish Ai Projects [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Jewish-AI-Projects)
+Resource list
+
+## Amd Ai Notes [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AMD-AI-Notes)
+Just some random notes for those exporing local AI with ... AMD GPUs!

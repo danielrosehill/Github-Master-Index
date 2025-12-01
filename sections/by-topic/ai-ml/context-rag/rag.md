@@ -14,3 +14,6 @@ Workflow for extracting context data from voice notes and passing them into Pipe
 
 ## Personal RAG Agent Workflow [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Personal-RAG-Agent-Workflow)
 AI workflows for building personal RAG pipelines with interviewing agents
+
+## Voice Note Ragie Pipeline [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Voice-Note-Ragie-Pipeline)
+Test pipeline: voice context data to Ragie

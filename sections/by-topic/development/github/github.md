@@ -29,3 +29,6 @@ Github Repository
 
 ## Git Github Plugin [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/git-github-plugin)
 Claude Code plugin for Git version control, GitHub repository management, and collaborative development workflows.
+
+## Github Gist Mcp Minimal [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Github-Gist-MCP-Minimal)
+Fork of Gistpad MCP focused on minimising tool definitions for those who want an MCP for basic Gist operations (approximately CRUD)

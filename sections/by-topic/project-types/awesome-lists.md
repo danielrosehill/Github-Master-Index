@@ -60,3 +60,6 @@ Useful speech to text tools that use Whisper under the hood (API/local)
 
 ## Awesome List Repos Index [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Awesome-List-Repos-Index)
 Index of listing repositories I have created
+
+## Awesome Torah Tech [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Awesome-Torah-Tech)
+Projects bringing technical sophistication to Jewish religious texts and interpretation

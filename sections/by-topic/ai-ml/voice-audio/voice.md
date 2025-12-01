@@ -81,3 +81,21 @@ Resource list to gather up some projects for speech to text, voice typing, and v
 
 ## Deepgram Voice Keyboard [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/deepgram-voice-keyboard)
 A fork of Deeepgram's Linux starter. CLI -> GUI + hotkey support, API key editing, cost tracking. WIP
+
+## Voice Note Recorder Ubuntu [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Voice-Note-Recorder-Ubuntu)
+GUI for recording voice notes
+
+## Voice Prompt Cleanup Script [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Voice-Prompt-Cleanup-Script)
+Cleanup audio processing script
+
+## Voice Training Script Generator [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Voice-Training-Script-Generator)
+Helper utils for generating training data for voice cloning with LLMs
+
+## Wayland Voice Typer [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Wayland-Voice-Typer)
+Simple GUI around whisper.cpp for voice-to-text on Linux
+
+## Linux Friendly Voice Tech [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Linux-Friendly-Voice-Tech)
+List of resources for voice technology with support for Linux, encompassing STT, ASR primarily as well as dev frameworks.
+
+## Hyprvoice [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/hyprvoice)
+Voice‑powered typing for Wayland/Hyprland desktops

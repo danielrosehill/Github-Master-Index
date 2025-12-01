@@ -141,3 +141,6 @@ Propmts and outputs (and some notes) on STT + ASR + fine-tuning. LLM: Claude
 
 ## Whisper Acft [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/whisper-acft)
 
+
+## Kokoro Fastapi [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Kokoro-FastAPI)
+Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/CPU ONNX and NVIDIA GPU PyTorch support, handling, and auto-stitching

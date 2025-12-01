@@ -14,8 +14,433 @@
       }
     ],
     "stargazerCount": 0,
-    "updatedAt": "2025-11-26T10:03:13Z",
+    "updatedAt": "2025-12-01T22:36:18Z",
     "url": "https://github.com/danielrosehill/Index-Of-Indices"
+  },
+  {
+    "createdAt": "2025-08-09T11:47:45Z",
+    "description": "Various MCP related projects I'm either working on (or have worked on)",
+    "forkCount": 0,
+    "isPrivate": false,
+    "name": "MCP-Projects-Index",
+    "repositoryTopics": [
+      {
+        "name": "documentation"
+      },
+      {
+        "name": "index"
+      },
+      {
+        "name": "mcp"
+      },
+      {
+        "name": "mcp-servers"
+      },
+      {
+        "name": "indexing-repo"
+      },
+      {
+        "name": "mcp-ideas"
+      }
+    ],
+    "stargazerCount": 1,
+    "updatedAt": "2025-12-01T22:34:39Z",
+    "url": "https://github.com/danielrosehill/MCP-Projects-Index"
+  },
+  {
+    "createdAt": "2025-12-01T22:18:53Z",
+    "description": "Fork of Gistpad MCP focused on minimising tool definitions for those who want an MCP for basic Gist operations (approximately CRUD)",
+    "forkCount": 0,
+    "isPrivate": false,
+    "name": "Github-Gist-MCP-Minimal",
+    "repositoryTopics": [
+      {
+        "name": "gists"
+      },
+      {
+        "name": "github"
+      },
+      {
+        "name": "mcp"
+      }
+    ],
+    "stargazerCount": 0,
+    "updatedAt": "2025-12-01T22:32:50Z",
+    "url": "https://github.com/danielrosehill/Github-Gist-MCP-Minimal"
+  },
+  {
+    "createdAt": "2025-12-01T16:36:15Z",
+    "description": "Panels for testing in Rally AI (virtual personas)",
+    "forkCount": 0,
+    "isPrivate": false,
+    "name": "Rally-Panels",
+    "repositoryTopics": null,
+    "stargazerCount": 0,
+    "updatedAt": "2025-12-01T19:00:36Z",
+    "url": "https://github.com/danielrosehill/Rally-Panels"
+  },
+  {
+    "createdAt": "2025-11-27T11:28:59Z",
+    "description": "",
+    "forkCount": 0,
+    "isPrivate": false,
+    "name": "AI-Podcast-Experiment-1125",
+    "repositoryTopics": null,
+    "stargazerCount": 0,
+    "updatedAt": "2025-11-30T21:24:10Z",
+    "url": "https://github.com/danielrosehill/AI-Podcast-Experiment-1125"
+  },
+  {
+    "createdAt": "2025-11-30T17:03:47Z",
+    "description": "Some research notes for MCP server proxies",
+    "forkCount": 0,
+    "isPrivate": false,
+    "name": "MCP-Manager-Research",
+    "repositoryTopics": [
+      {
+        "name": "ai-development"
+      },
+      {
+        "name": "mcp"
+      },
+      {
+        "name": "notebook"
+      },
+      {
+        "name": "research"
+      }
+    ],
+    "stargazerCount": 0,
+    "updatedAt": "2025-11-30T20:48:21Z",
+    "url": "https://github.com/danielrosehill/MCP-Manager-Research"
+  },
+  {
+    "createdAt": "2025-11-30T20:10:31Z",
+    "description": "Some tests with Sefaria (and other Jewish-relevant MCPs!)",
+    "forkCount": 0,
+    "isPrivate": false,
+    "name": "Sefaria-MCP-Testing",
+    "repositoryTopics": [
+      {
+        "name": "jewish-texts"
+      },
+      {
+        "name": "jewish-ai"
+      },
+      {
+        "name": "jewish-learning"
+      }
+    ],
+    "stargazerCount": 0,
+    "updatedAt": "2025-11-30T20:44:45Z",
+    "url": "https://github.com/danielrosehill/Sefaria-MCP-Testing"
+  },
+  {
+    "createdAt": "2025-11-30T20:34:41Z",
+    "description": "Index of repositories involving tech + Judaism",
+    "forkCount": 0,
+    "isPrivate": false,
+    "name": "Jewish-Related-Index",
+    "repositoryTopics": null,
+    "stargazerCount": 0,
+    "updatedAt": "2025-11-30T20:38:35Z",
+    "url": "https://github.com/danielrosehill/Jewish-Related-Index"
+  },
+  {
+    "createdAt": "2025-11-30T16:11:45Z",
+    "description": "Resource list",
+    "forkCount": 0,
+    "isPrivate": false,
+    "name": "Jewish-AI-Projects",
+    "repositoryTopics": null,
+    "stargazerCount": 0,
+    "updatedAt": "2025-11-30T20:33:54Z",
+    "url": "https://github.com/danielrosehill/Jewish-AI-Projects"
+  },
+  {
+    "createdAt": "2025-11-30T17:38:48Z",
+    "description": "Helper utility for finding good personal EQ settings",
+    "forkCount": 0,
+    "isPrivate": false,
+    "name": "AI-EQ-Assistant",
+    "repositoryTopics": [
+      {
+        "name": "eq"
+      },
+      {
+        "name": "sound-engineering"
+      },
+      {
+        "name": "vocals"
+      }
+    ],
+    "stargazerCount": 0,
+    "updatedAt": "2025-11-30T18:57:59Z",
+    "url": "https://github.com/danielrosehill/AI-EQ-Assistant"
+  },
+  {
+    "createdAt": "2025-11-30T16:23:58Z",
+    "description": "Notes for a more equitable system for feature requests",
+    "forkCount": 0,
+    "isPrivate": false,
+    "name": "Pay-For-Ideas",
+    "repositoryTopics": null,
+    "stargazerCount": 0,
+    "updatedAt": "2025-11-30T17:33:53Z",
+    "url": "https://github.com/danielrosehill/Pay-For-Ideas"
+  },
+  {
+    "createdAt": "2025-11-30T15:46:21Z",
+    "description": "Projects bringing technical sophistication to Jewish religious texts and interpretation",
+    "forkCount": 0,
+    "isPrivate": false,
+    "name": "Awesome-Torah-Tech",
+    "repositoryTopics": null,
+    "stargazerCount": 0,
+    "updatedAt": "2025-11-30T16:16:27Z",
+    "url": "https://github.com/danielrosehill/Awesome-Torah-Tech"
+  },
+  {
+    "createdAt": "2025-11-30T11:26:24Z",
+    "description": "GUI for recording voice notes",
+    "forkCount": 0,
+    "isPrivate": false,
+    "name": "Voice-Note-Recorder-Ubuntu",
+    "repositoryTopics": null,
+    "stargazerCount": 0,
+    "updatedAt": "2025-11-30T14:09:36Z",
+    "url": "https://github.com/danielrosehill/Voice-Note-Recorder-Ubuntu"
+  },
+  {
+    "createdAt": "2025-11-30T12:38:03Z",
+    "description": "Test pipeline: voice context data to Ragie",
+    "forkCount": 0,
+    "isPrivate": false,
+    "name": "Voice-Note-Ragie-Pipeline",
+    "repositoryTopics": [
+      {
+        "name": "context-data"
+      },
+      {
+        "name": "rag"
+      },
+      {
+        "name": "ragie"
+      }
+    ],
+    "stargazerCount": 0,
+    "updatedAt": "2025-11-30T13:35:53Z",
+    "url": "https://github.com/danielrosehill/Voice-Note-Ragie-Pipeline"
+  },
+  {
+    "createdAt": "2025-11-30T11:37:22Z",
+    "description": "Cleanup audio processing script",
+    "forkCount": 0,
+    "isPrivate": false,
+    "name": "Voice-Prompt-Cleanup-Script",
+    "repositoryTopics": null,
+    "stargazerCount": 0,
+    "updatedAt": "2025-11-30T12:21:12Z",
+    "url": "https://github.com/danielrosehill/Voice-Prompt-Cleanup-Script"
+  },
+  {
+    "createdAt": "2025-11-28T14:51:10Z",
+    "description": "Helper utils for generating training data for voice cloning with LLMs",
+    "forkCount": 0,
+    "isPrivate": false,
+    "name": "Voice-Training-Script-Generator",
+    "repositoryTopics": [
+      {
+        "name": "tts"
+      },
+      {
+        "name": "voice-cloning"
+      }
+    ],
+    "stargazerCount": 0,
+    "updatedAt": "2025-11-28T15:22:54Z",
+    "url": "https://github.com/danielrosehill/Voice-Training-Script-Generator"
+  },
+  {
+    "createdAt": "2025-11-28T12:40:25Z",
+    "description": "Just some random notes for those exporing local AI with ... AMD GPUs!",
+    "forkCount": 0,
+    "isPrivate": false,
+    "name": "AMD-AI-Notes",
+    "repositoryTopics": [
+      {
+        "name": "amd"
+      },
+      {
+        "name": "notebooks"
+      },
+      {
+        "name": "rocm"
+      }
+    ],
+    "stargazerCount": 0,
+    "updatedAt": "2025-11-28T14:57:42Z",
+    "url": "https://github.com/danielrosehill/AMD-AI-Notes"
+  },
+  {
+    "createdAt": "2025-11-27T12:10:00Z",
+    "description": "MCP for Gemini multimodal audio transcription with built in post-processing",
+    "forkCount": 0,
+    "isPrivate": false,
+    "name": "Gemini-Transcription-MCP",
+    "repositoryTopics": [
+      {
+        "name": "gemini"
+      },
+      {
+        "name": "gemini-mcp"
+      }
+    ],
+    "stargazerCount": 0,
+    "updatedAt": "2025-11-28T14:34:18Z",
+    "url": "https://github.com/danielrosehill/Gemini-Transcription-MCP"
+  },
+  {
+    "createdAt": "2025-11-28T13:16:06Z",
+    "description": "Scripts to prevent Android phones from sleeping while connected via USB (keeps ADB working)",
+    "forkCount": 0,
+    "isPrivate": false,
+    "name": "adb-keep-awake",
+    "repositoryTopics": null,
+    "stargazerCount": 0,
+    "updatedAt": "2025-11-28T13:16:12Z",
+    "url": "https://github.com/danielrosehill/adb-keep-awake"
+  },
+  {
+    "createdAt": "2025-11-27T12:33:54Z",
+    "description": "Research and notes for local sysadmin agent",
+    "forkCount": 0,
+    "isPrivate": false,
+    "name": "Claude-Local-AI-Agent-Research",
+    "repositoryTopics": null,
+    "stargazerCount": 0,
+    "updatedAt": "2025-11-27T14:44:19Z",
+    "url": "https://github.com/danielrosehill/Claude-Local-AI-Agent-Research"
+  },
+  {
+    "createdAt": "2025-11-30T21:03:40Z",
+    "description": "Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/CPU ONNX and NVIDIA GPU PyTorch support, handling, and auto-stitching",
+    "forkCount": 0,
+    "isPrivate": false,
+    "name": "Kokoro-FastAPI",
+    "repositoryTopics": null,
+    "stargazerCount": 0,
+    "updatedAt": "2025-11-30T21:03:40Z",
+    "url": "https://github.com/danielrosehill/Kokoro-FastAPI"
+  },
+  {
+    "createdAt": "2025-11-26T11:19:34Z",
+    "description": "Simple GUI around whisper.cpp for voice-to-text on Linux",
+    "forkCount": 0,
+    "isPrivate": false,
+    "name": "Wayland-Voice-Typer",
+    "repositoryTopics": null,
+    "stargazerCount": 0,
+    "updatedAt": "2025-11-26T20:19:16Z",
+    "url": "https://github.com/danielrosehill/Wayland-Voice-Typer"
+  },
+  {
+    "createdAt": "2025-11-26T10:17:33Z",
+    "description": "Template for a Claude Code job search space",
+    "forkCount": 0,
+    "isPrivate": false,
+    "name": "Claude-Job-Search-Strategist",
+    "repositoryTopics": [
+      {
+        "name": "agentic"
+      },
+      {
+        "name": "claude-code"
+      }
+    ],
+    "stargazerCount": 0,
+    "updatedAt": "2025-11-26T17:27:41Z",
+    "url": "https://github.com/danielrosehill/Claude-Job-Search-Strategist"
+  },
+  {
+    "createdAt": "2025-10-11T21:40:40Z",
+    "description": "Index of repositories related to Claude Code CLI",
+    "forkCount": 2,
+    "isPrivate": false,
+    "name": "Claude-Code-Repos-Index",
+    "repositoryTopics": [
+      {
+        "name": "claude-code"
+      },
+      {
+        "name": "claude-code-cli"
+      },
+      {
+        "name": "index-repos"
+      }
+    ],
+    "stargazerCount": 1,
+    "updatedAt": "2025-11-26T17:25:21Z",
+    "url": "https://github.com/danielrosehill/Claude-Code-Repos-Index"
+  },
+  {
+    "createdAt": "2025-08-27T12:10:37Z",
+    "description": "List of resources for voice technology with support for Linux, encompassing STT, ASR primarily as well as dev frameworks.",
+    "forkCount": 0,
+    "isPrivate": false,
+    "name": "Linux-Friendly-Voice-Tech",
+    "repositoryTopics": [
+      {
+        "name": "linux"
+      },
+      {
+        "name": "speech-to-text"
+      },
+      {
+        "name": "stt"
+      },
+      {
+        "name": "voice-control"
+      },
+      {
+        "name": "voice-control-desktop"
+      }
+    ],
+    "stargazerCount": 3,
+    "updatedAt": "2025-11-26T11:39:10Z",
+    "url": "https://github.com/danielrosehill/Linux-Friendly-Voice-Tech"
+  },
+  {
+    "createdAt": "2024-08-11T02:00:11Z",
+    "description": "Github homepage text",
+    "forkCount": 0,
+    "isPrivate": false,
+    "name": "danielrosehill",
+    "repositoryTopics": null,
+    "stargazerCount": 0,
+    "updatedAt": "2025-11-26T10:16:00Z",
+    "url": "https://github.com/danielrosehill/danielrosehill"
+  },
+  {
+    "createdAt": "2025-02-22T18:49:30Z",
+    "description": "A repository that indexes my Github projects",
+    "forkCount": 1,
+    "isPrivate": false,
+    "name": "Index",
+    "repositoryTopics": [
+      {
+        "name": "github"
+      },
+      {
+        "name": "index"
+      },
+      {
+        "name": "repositories"
+      }
+    ],
+    "stargazerCount": 5,
+    "updatedAt": "2025-11-26T10:11:51Z",
+    "url": "https://github.com/danielrosehill/Index"
   },
   {
     "createdAt": "2025-11-26T09:23:55Z",
@@ -66,27 +491,6 @@
     "stargazerCount": 0,
     "updatedAt": "2025-11-25T16:49:59Z",
     "url": "https://github.com/danielrosehill/Modal-ACFT-Finetune-Script"
-  },
-  {
-    "createdAt": "2025-10-11T21:40:40Z",
-    "description": "Index of repositories related to Claude Code CLI",
-    "forkCount": 2,
-    "isPrivate": false,
-    "name": "Claude-Code-Repos-Index",
-    "repositoryTopics": [
-      {
-        "name": "claude-code"
-      },
-      {
-        "name": "claude-code-cli"
-      },
-      {
-        "name": "index-repos"
-      }
-    ],
-    "stargazerCount": 1,
-    "updatedAt": "2025-11-25T15:49:47Z",
-    "url": "https://github.com/danielrosehill/Claude-Code-Repos-Index"
   },
   {
     "createdAt": "2025-11-25T14:36:17Z",
@@ -325,7 +729,7 @@
   {
     "createdAt": "2025-11-20T18:50:22Z",
     "description": "AI config / system prompt for reading long reports",
-    "forkCount": 0,
+    "forkCount": 1,
     "isPrivate": false,
     "name": "NotebookLM-Custom-Prompts",
     "repositoryTopics": [
@@ -333,8 +737,8 @@
         "name": "system-prompts"
       }
     ],
-    "stargazerCount": 3,
-    "updatedAt": "2025-11-25T23:18:22Z",
+    "stargazerCount": 4,
+    "updatedAt": "2025-11-27T20:47:11Z",
     "url": "https://github.com/danielrosehill/NotebookLM-Custom-Prompts"
   },
   {
@@ -391,27 +795,6 @@
     "url": "https://github.com/danielrosehill/Ubuntu-AI-Boot-Agent"
   },
   {
-    "createdAt": "2025-02-22T18:49:30Z",
-    "description": "A repository that indexes my Github projects",
-    "forkCount": 1,
-    "isPrivate": false,
-    "name": "Index",
-    "repositoryTopics": [
-      {
-        "name": "github"
-      },
-      {
-        "name": "index"
-      },
-      {
-        "name": "repositories"
-      }
-    ],
-    "stargazerCount": 5,
-    "updatedAt": "2025-11-26T09:47:13Z",
-    "url": "https://github.com/danielrosehill/Index"
-  },
-  {
     "createdAt": "2025-11-18T16:25:51Z",
     "description": "Planning notes for a concept agentic emailing pipeline",
     "forkCount": 0,
@@ -465,33 +848,6 @@
     "url": "https://github.com/danielrosehill/Experiments-And-Evaluations-Index"
   },
   {
-    "createdAt": "2025-08-27T12:10:37Z",
-    "description": "Resource list to gather up some projects for speech to text, voice typing, and voice productivity that are accessible on Linux (fast growing space - partial list!)",
-    "forkCount": 0,
-    "isPrivate": false,
-    "name": "Linux-Voice-And-Dictation-Resources",
-    "repositoryTopics": [
-      {
-        "name": "linux"
-      },
-      {
-        "name": "speech-to-text"
-      },
-      {
-        "name": "stt"
-      },
-      {
-        "name": "voice-control"
-      },
-      {
-        "name": "voice-control-desktop"
-      }
-    ],
-    "stargazerCount": 3,
-    "updatedAt": "2025-11-17T13:14:42Z",
-    "url": "https://github.com/danielrosehill/Linux-Voice-And-Dictation-Resources"
-  },
-  {
     "createdAt": "2025-11-17T11:21:19Z",
     "description": "Exploratory Claude model: multiple agents mimicking a panel debate",
     "forkCount": 0,
@@ -509,8 +865,8 @@
     "isPrivate": false,
     "name": "Hebrew-Date-KDE-Widget",
     "repositoryTopics": null,
-    "stargazerCount": 0,
-    "updatedAt": "2025-11-16T21:10:02Z",
+    "stargazerCount": 1,
+    "updatedAt": "2025-11-30T13:29:19Z",
     "url": "https://github.com/danielrosehill/Hebrew-Date-KDE-Widget"
   },
   {
@@ -1271,8 +1627,8 @@
         "name": "wip"
       }
     ],
-    "stargazerCount": 0,
-    "updatedAt": "2025-11-08T19:36:25Z",
+    "stargazerCount": 1,
+    "updatedAt": "2025-11-29T09:47:13Z",
     "url": "https://github.com/danielrosehill/Homebox-MCP-Server"
   },
   {
@@ -1654,17 +2010,6 @@
     "url": "https://github.com/danielrosehill/Voicepad"
   },
   {
-    "createdAt": "2024-08-11T02:00:11Z",
-    "description": "Github homepage text",
-    "forkCount": 0,
-    "isPrivate": false,
-    "name": "danielrosehill",
-    "repositoryTopics": null,
-    "stargazerCount": 0,
-    "updatedAt": "2025-11-03T10:35:16Z",
-    "url": "https://github.com/danielrosehill/danielrosehill"
-  },
-  {
     "createdAt": "2025-11-02T11:52:57Z",
     "description": "An attempt at vibe-coding a personal AI interface for daily use",
     "forkCount": 0,
@@ -1827,7 +2172,7 @@
   {
     "createdAt": "2025-10-21T08:14:39Z",
     "description": "Slash commands for Linux desktop sysadmin with Claude Code (or any other agent)",
-    "forkCount": 3,
+    "forkCount": 4,
     "isPrivate": false,
     "name": "Claude-Code-Linux-Desktop-Slash-Commands",
     "repositoryTopics": [
@@ -1841,8 +2186,8 @@
         "name": "slash-commands"
       }
     ],
-    "stargazerCount": 12,
-    "updatedAt": "2025-11-26T08:05:49Z",
+    "stargazerCount": 13,
+    "updatedAt": "2025-11-29T13:28:21Z",
     "url": "https://github.com/danielrosehill/Claude-Code-Linux-Desktop-Slash-Commands"
   },
   {
@@ -1991,6 +2336,17 @@
     "stargazerCount": 0,
     "updatedAt": "2025-10-30T14:15:05Z",
     "url": "https://github.com/danielrosehill/Speech-Recognition-Audio-Chain"
+  },
+  {
+    "createdAt": "2025-11-26T11:43:25Z",
+    "description": "Voice\u2011powered typing for Wayland/Hyprland desktops",
+    "forkCount": 0,
+    "isPrivate": false,
+    "name": "hyprvoice",
+    "repositoryTopics": null,
+    "stargazerCount": 0,
+    "updatedAt": "2025-11-26T11:43:25Z",
+    "url": "https://github.com/danielrosehill/hyprvoice"
   },
   {
     "createdAt": "2025-10-29T14:08:14Z",
@@ -3431,6 +3787,17 @@
     "url": "https://github.com/danielrosehill/Cool-Claude-Code-Stuff"
   },
   {
+    "createdAt": "2025-11-30T20:23:16Z",
+    "description": "FastMCP Server for Sefaria",
+    "forkCount": 0,
+    "isPrivate": false,
+    "name": "sefaria-mcp",
+    "repositoryTopics": null,
+    "stargazerCount": 0,
+    "updatedAt": "2025-11-30T20:23:16Z",
+    "url": "https://github.com/danielrosehill/sefaria-mcp"
+  },
+  {
     "createdAt": "2025-09-28T22:06:09Z",
     "description": "Red Alert warning UI design",
     "forkCount": 0,
@@ -3813,8 +4180,8 @@
         "name": "macropads"
       }
     ],
-    "stargazerCount": 0,
-    "updatedAt": "2025-09-07T13:27:17Z",
+    "stargazerCount": 1,
+    "updatedAt": "2025-11-29T18:01:14Z",
     "url": "https://github.com/danielrosehill/K811-EV-Test-Events"
   },
   {
@@ -4400,36 +4767,6 @@
     "stargazerCount": 0,
     "updatedAt": "2025-08-09T12:07:34Z",
     "url": "https://github.com/danielrosehill/NocoDB-Data-MCP"
-  },
-  {
-    "createdAt": "2025-08-09T11:47:45Z",
-    "description": "Various MCP related projects I'm either working on (or have worked on)",
-    "forkCount": 0,
-    "isPrivate": false,
-    "name": "MCP-Projects-Index",
-    "repositoryTopics": [
-      {
-        "name": "documentation"
-      },
-      {
-        "name": "index"
-      },
-      {
-        "name": "mcp"
-      },
-      {
-        "name": "mcp-servers"
-      },
-      {
-        "name": "indexing-repo"
-      },
-      {
-        "name": "mcp-ideas"
-      }
-    ],
-    "stargazerCount": 1,
-    "updatedAt": "2025-11-26T09:49:03Z",
-    "url": "https://github.com/danielrosehill/MCP-Projects-Index"
   },
   {
     "createdAt": "2025-08-09T11:18:12Z",
@@ -5915,8 +6252,8 @@
         "name": "system-prompts"
       }
     ],
-    "stargazerCount": 2,
-    "updatedAt": "2025-10-02T01:03:47Z",
+    "stargazerCount": 3,
+    "updatedAt": "2025-11-30T15:42:21Z",
     "url": "https://github.com/danielrosehill/Structured-System-Prompt-Generator"
   },
   {
@@ -6004,8 +6341,8 @@
     "isPrivate": false,
     "name": "Linux-Related-System-Prompts",
     "repositoryTopics": null,
-    "stargazerCount": 0,
-    "updatedAt": "2025-04-06T15:04:45Z",
+    "stargazerCount": 1,
+    "updatedAt": "2025-11-28T16:13:49Z",
     "url": "https://github.com/danielrosehill/Linux-Related-System-Prompts"
   },
   {
@@ -6352,8 +6689,8 @@
     "isPrivate": false,
     "name": "Writing-System-Prompts",
     "repositoryTopics": null,
-    "stargazerCount": 1,
-    "updatedAt": "2025-09-16T10:05:25Z",
+    "stargazerCount": 2,
+    "updatedAt": "2025-12-01T06:38:04Z",
     "url": "https://github.com/danielrosehill/Writing-System-Prompts"
   },
   {
@@ -6516,8 +6853,8 @@
     "isPrivate": false,
     "name": "OpenWebUI-Postgres-Qdrant",
     "repositoryTopics": null,
-    "stargazerCount": 6,
-    "updatedAt": "2025-08-20T07:43:50Z",
+    "stargazerCount": 7,
+    "updatedAt": "2025-11-30T12:15:27Z",
     "url": "https://github.com/danielrosehill/OpenWebUI-Postgres-Qdrant"
   },
   {
@@ -6892,8 +7229,8 @@
     "isPrivate": false,
     "name": "OpenWebUI-Prompt-Library",
     "repositoryTopics": null,
-    "stargazerCount": 21,
-    "updatedAt": "2025-11-19T19:35:45Z",
+    "stargazerCount": 22,
+    "updatedAt": "2025-11-27T13:41:18Z",
     "url": "https://github.com/danielrosehill/OpenWebUI-Prompt-Library"
   },
   {
@@ -7022,8 +7359,8 @@
     "isPrivate": false,
     "name": "Awesome-Linux-IDEs",
     "repositoryTopics": null,
-    "stargazerCount": 4,
-    "updatedAt": "2025-09-06T17:23:44Z",
+    "stargazerCount": 5,
+    "updatedAt": "2025-11-28T17:36:00Z",
     "url": "https://github.com/danielrosehill/Awesome-Linux-IDEs"
   },
   {
@@ -7920,8 +8257,8 @@
     "isPrivate": false,
     "name": "Awesome-Obsidian-AI-Tools",
     "repositoryTopics": null,
-    "stargazerCount": 45,
-    "updatedAt": "2025-11-22T14:44:58Z",
+    "stargazerCount": 47,
+    "updatedAt": "2025-12-01T20:40:45Z",
     "url": "https://github.com/danielrosehill/Awesome-Obsidian-AI-Tools"
   },
   {
@@ -8255,8 +8592,8 @@
     "isPrivate": false,
     "name": "Awesome-LLM-Prompt-Libraries",
     "repositoryTopics": null,
-    "stargazerCount": 29,
-    "updatedAt": "2025-11-18T06:13:52Z",
+    "stargazerCount": 30,
+    "updatedAt": "2025-11-27T17:30:57Z",
     "url": "https://github.com/danielrosehill/Awesome-LLM-Prompt-Libraries"
   },
   {

@@ -99,3 +99,6 @@ A comprehensive camera card for Home Assistant
 
 ## Home Assistant Manager Plugin [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/home-assistant-manager-plugin)
 A comprehensive Home Assistant OS management template with 20+ slash commands for health monitoring, backup management, integration support, and automation assistance.
+
+## Ai Eq Assistant [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/AI-EQ-Assistant)
+Helper utility for finding good personal EQ settings

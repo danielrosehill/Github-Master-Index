@@ -71,3 +71,6 @@ An index of models that I have open-sourced on Open Web UI Community
 
 ## Prompt Libraries Index [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Prompt-Libraries-Index)
 Index for my collections of user and system prompts on Github
+
+## Jewish Related Index [![View Repo](https://img.shields.io/badge/view-repo-green)](https://github.com/danielrosehill/Jewish-Related-Index)
+Index of repositories involving tech + Judaism
